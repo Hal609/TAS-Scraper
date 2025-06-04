@@ -1,0 +1,25 @@
+,9
+id,711
+title,NES Gradius by adelikat in 10:52.35
+branch,baseline
+goal,baseline
+gameGoalId,95
+emulatorVersion,FCEU 0.98.16
+class,Standard
+systemCode,NES
+submissionId,1324
+gameId,21
+gameVersionId,2886
+obsoletedById,
+frames,39141
+rerecordCount,19732
+systemFrameRate,60.0
+movieFileName,adelikat-gradius.fcm
+additionalAuthors,
+createTimestamp,2006-11-02T18:22:03
+authors,['adelikat']
+tags,"['speed_tradeoff', 'death', 'warps']"
+flags,"['Verified', 'stars']"
+urls,"['https://archive.org/download/GradiusTasIn1052.35ByAdelikat/gradius-tas-adelikat.mp4', 'https://archive.org/download/GradiusTasIn1052.35ByAdelikat/gradius-tas-adelikat_10bit444.mp4', 'https://www.youtube.com/watch?v=QNbYvekFoAU']"
+filePaths,['gradiusv2.png']
+SHA1,2EA97AA8031AE5A22BC171FE959751CC09410CDF

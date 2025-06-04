@@ -1,0 +1,25 @@
+,383
+id,3944
+title,NES Indiana Jones and the Last Crusade (UBI Soft) by XTREMAL93 in 08:09.73
+branch,baseline
+goal,baseline
+gameGoalId,3216
+emulatorVersion,BizHawk 2.3.1
+class,Standard
+systemCode,NES
+submissionId,6315
+gameId,2362
+gameVersionId,84
+obsoletedById,
+frames,29432
+rerecordCount,6104
+systemFrameRate,60.0988138974405
+movieFileName,xtremal93-indianajoneslastcrusadeubisoft.bk2
+additionalAuthors,
+createTimestamp,2019-04-18T15:51:29
+authors,['XTREMAL93']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=8QjqEP4zIkQ', 'https://archive.org/download/indianajoneslastcrusadeubisoft-tas-xtremal93/indianajoneslastcrusadeubisoft-tas-xtremal93.mkv', 'https://archive.org/download/indianajoneslastcrusadeubisoft-tas-xtremal93/indianajoneslastcrusadeubisoft-tas-xtremal93_512kb.mp4']"
+filePaths,['3944M.png']
+SHA1,BC45EE64CB6B8D19B14D512D86B192A736854B24

@@ -1,0 +1,25 @@
+,71
+id,1494
+title,NES Rolling Thunder by Randil in 10:59.55
+branch,baseline
+goal,baseline
+gameGoalId,344
+emulatorVersion,FCEU 0.98.28
+class,Standard
+systemCode,NES
+submissionId,2608
+gameId,220
+gameVersionId,107
+obsoletedById,
+frames,39638
+rerecordCount,15950
+systemFrameRate,60.0988138974405
+movieFileName,randil-rollingthunder.fm2
+additionalAuthors,
+createTimestamp,2010-03-30T04:44:44
+authors,['Randil']
+tags,"['damage', 'noeasy', 'second_quest', 'password']"
+flags,[]
+urls,"['https://www.archive.org/download/rollingthunder-tas-randil/rollingthunder-tas-randil.mp4', 'https://www.youtube.com/watch?v=-7711vCb5wE']"
+filePaths,['rollingthunder_2608.png']
+SHA1,9A65A1190F9A6FE136856BD2A7696604DE241EA8

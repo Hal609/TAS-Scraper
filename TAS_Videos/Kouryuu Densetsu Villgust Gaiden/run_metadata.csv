@@ -1,0 +1,25 @@
+,756
+id,5828
+title,NES Kouryuu Densetsu Villgust Gaiden by Samsara in 44:43.15
+branch,baseline
+goal,baseline
+gameGoalId,5146
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,8881
+gameId,4157
+gameVersionId,4660
+obsoletedById,
+frames,161254
+rerecordCount,39354
+systemFrameRate,60.0988138974405
+movieFileName,samsara-kouryuudensetsuvillgustgaiden.bk2
+additionalAuthors,
+createTimestamp,2024-02-25T19:39:44.693276
+authors,['Samsara']
+tags,"['death', 'damage']"
+flags,"['Verified', 'SensitivityWarning']"
+urls,"['https://www.youtube.com/watch?v=37nQ8fhlz-o', 'https://archive.org/download/kouryuudensetsuvillgustgaiden-tas-samsara/kouryuudensetsuvillgustgaiden-tas-samsara.mp4']"
+filePaths,['5828M.png']
+SHA1,3dadaea8e1097cff5e5fc1c0865764abbf0a43db

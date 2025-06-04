@@ -1,0 +1,25 @@
+,357
+id,3752
+title,NES Cliffhanger by klmz in 06:55.12
+branch,baseline
+goal,baseline
+gameGoalId,3026
+emulatorVersion,FCEUX 2.2.1
+class,Standard
+systemCode,NES
+submissionId,5999
+gameId,2057
+gameVersionId,2542
+obsoletedById,
+frames,24948
+rerecordCount,10878
+systemFrameRate,60.0988138974405
+movieFileName,klmz-cliffhanger.fm2
+additionalAuthors,
+createTimestamp,2018-07-31T18:25:57
+authors,['klmz']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=aJ1riZhsDpQ', 'https://archive.org/download/cliffhanger-tas-klmz/cliffhanger-tas-klmz.mkv', 'https://archive.org/download/cliffhanger-tas-klmz/cliffhanger-tas-klmz_512kb.mp4']"
+filePaths,['3752M.png']
+SHA1,F7F697344FF0251A8DE88E39BE23913C2D8D8F53

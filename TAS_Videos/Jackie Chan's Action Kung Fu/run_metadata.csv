@@ -1,0 +1,25 @@
+,516
+id,4632
+title,NES Jackie Chan's Action Kung Fu by DreamYao in 16:28.82
+branch,baseline
+goal,baseline
+gameGoalId,121
+emulatorVersion,FCEUX 2.2.3.3256
+class,Standard
+systemCode,NES
+submissionId,7364
+gameId,49
+gameVersionId,508
+obsoletedById,
+frames,59427
+rerecordCount,64521
+systemFrameRate,60.0988138974405
+movieFileName,dreamyao-jackiechansactionkungfu.fm2
+additionalAuthors,
+createTimestamp,2022-04-15T06:35:02.220842
+authors,['DreamYao']
+tags,['nodamage']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=GHHOnsjdWus', 'https://archive.org/download/jackiechansactionkungfu-tas-dreamyao/jackiechansactionkungfu-tas-dreamyao.mp4']"
+filePaths,['4632M.png']
+SHA1,48308AD01ED49B928E38EE7DE18FEB9F917A6C1E

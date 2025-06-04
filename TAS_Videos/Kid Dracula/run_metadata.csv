@@ -1,0 +1,25 @@
+,61
+id,1337
+title,"NES Kid Dracula by adelikat, Randil, arukAdo & DarkKobold in 19:49.12"
+branch,baseline
+goal,baseline
+gameGoalId,157
+emulatorVersion,FCEUX 2.1.1
+class,Standard
+systemCode,NES
+submissionId,2359
+gameId,85
+gameVersionId,1973
+obsoletedById,
+frames,71465
+rerecordCount,26816
+systemFrameRate,60.0988138974405
+movieFileName,"adelikat,randil,arukado,darkkobold-bokudraculakun.fm2"
+additionalAuthors,
+createTimestamp,2009-08-09T16:36:25
+authors,"['adelikat', 'Randil', 'arukAdo', 'DarkKobold']"
+tags,"['damage', 'bugs', 'random']"
+flags,['Commentary']
+urls,"['https://archive.org/download/kiddracula-tas-adelikat_randil_arukado_darkkobold/kiddracula-tas-adelikat_randil_arukado_darkkobold.mkv', 'https://archive.org/download/kiddracula-tas-adelikat_randil_arukado_darkkobold/kiddracula-tas-adelikat_randil_arukado_darkkobold_512kb.mp4', 'https://www.youtube.com/watch?v=7ZvEDtszemI']"
+filePaths,['1337.png']
+SHA1,A7F5329BE0440498DC343504652EAFCB39836609

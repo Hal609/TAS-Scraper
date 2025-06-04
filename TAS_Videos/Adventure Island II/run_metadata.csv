@@ -1,0 +1,25 @@
+,105
+id,1866
+title,NES Adventure Island II by red-crowned-crane & hellagels in 22:22.41
+branch,baseline
+goal,baseline
+gameGoalId,375
+emulatorVersion,FCEUX 2.1.5
+class,Standard
+systemCode,NES
+submissionId,3264
+gameId,314
+gameVersionId,929
+obsoletedById,
+frames,80677
+rerecordCount,17673
+systemFrameRate,60.0988138974405
+movieFileName,red-crowned-cranehellagels1-adventureisland2.fm2
+additionalAuthors,
+createTimestamp,2011-08-25T09:40:59
+authors,"['red-crowned-crane', 'hellagels']"
+tags,['warps']
+flags,['Verified']
+urls,"['https://www.archive.org/download/NesHudsonsAdventureIsland2ByRed-crowned-craneAndHellagelsIn2222.41/adventureisland2-tas-redcrownedcranehellagels.mkv', 'https://www.youtube.com/watch?v=TxUBNZhfFwo']"
+filePaths,['1866M.png']
+SHA1,F53FD2B03CFC5CF28D68021B47815E8710C3B44D

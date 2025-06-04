@@ -1,0 +1,25 @@
+,517
+id,4642
+title,NES Cyber Stadium Series: Base Wars by ShesChardcore in 01:25.84
+branch,baseline
+goal,baseline
+gameGoalId,3821
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7421
+gameId,2463
+gameVersionId,602
+obsoletedById,
+frames,5159
+rerecordCount,2104
+systemFrameRate,60.0988138974405
+movieFileName,sheschardcore-cyberstadiumseriesbasewars.bk2
+additionalAuthors,
+createTimestamp,2022-04-26T21:37:01.953852
+authors,['ShesChardcore']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=gJH41OxrD4M', 'https://archive.org/download/cyberstadiumseriesbasewars-tas-sheschardcore/cyberstadiumseriesbasewars-tas-sheschardcore.mp4']"
+filePaths,['4642M.png']
+SHA1,E1BB4E681CAB4A86586AD8C94A811694496D47C8

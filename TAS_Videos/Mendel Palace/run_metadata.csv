@@ -1,0 +1,25 @@
+,84
+id,1673
+title,"NES Mendel Palace ""2 players"" by DarkKobold in 19:02.97"
+branch,2 players
+goal,2 players
+gameGoalId,4937
+emulatorVersion,FCEUX 2.1.4a
+class,Standard
+systemCode,NES
+submissionId,2904
+gameId,711
+gameVersionId,131
+obsoletedById,
+frames,68691
+rerecordCount,2435
+systemFrameRate,60.0988138974405
+movieFileName,darkkobold-mendalpalace.fm2
+additionalAuthors,
+createTimestamp,2010-11-11T21:59:20
+authors,['DarkKobold']
+tags,"['2p', 'resources']"
+flags,[]
+urls,"['https://www.archive.org/download/DarkkoboldsNesMendelPalaceIn1902.97/mendelpalace-tas-darkkobold.mkv', 'https://www.youtube.com/watch?v=da_45ycNRVw']"
+filePaths,['mendalpalace_2904.png']
+SHA1,646FC2337BDB2FCA8857ABAF6A41EC44F39BB83B

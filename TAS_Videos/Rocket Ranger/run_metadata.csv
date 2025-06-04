@@ -1,0 +1,25 @@
+,576
+id,4905
+title,NES Rocket Ranger by ShesChardcore & CtrlAltDestroy in 03:34.83
+branch,baseline
+goal,baseline
+gameGoalId,356
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7781
+gameId,1111
+gameVersionId,1648
+obsoletedById,
+frames,12911
+rerecordCount,1961
+systemFrameRate,60.0988138974405
+movieFileName,"sheschardcore,ctrlaltdestroy-rocketranger-nes.bk2"
+additionalAuthors,
+createTimestamp,2022-11-13T01:46:24.902012
+authors,"['ShesChardcore', 'CtrlAltDestroy']"
+tags,['random']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=SY3Y6paJEEM', 'https://archive.org/download/rocketranger-tas-sheschardcore_ctrlaltdestroy/rocketranger-tas-sheschardcore_ctrlaltdestroy.mp4']"
+filePaths,['4905M.png']
+SHA1,CA0B0CE614DC07BE39F3390FCA01E7F0369DEF0F

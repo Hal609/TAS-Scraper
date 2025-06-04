@@ -1,0 +1,25 @@
+,247
+id,3002
+title,NES Gremlins 2: The New Batch by Aglar in 06:55.58
+branch,baseline
+goal,baseline
+gameGoalId,102
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4903
+gameId,28
+gameVersionId,2025
+obsoletedById,
+frames,24976
+rerecordCount,4846
+systemFrameRate,60.0988138974405
+movieFileName,aglar-gremlins2.fm2
+additionalAuthors,
+createTimestamp,2015-11-13T18:23:54
+authors,['Aglar']
+tags,['damage']
+flags,['Atlas']
+urls,"['https://www.youtube.com/watch?v=rnhThcmzTKk', 'https://archive.org/download/gremlins2-tas-aglar/gremlins2-tas-aglar.mkv', 'https://archive.org/download/gremlins2-tas-aglar/gremlins2-tas-aglar_512kb.mp4']"
+filePaths,['3002M.png']
+SHA1,7B3CC145CFDB80AAC8E1A005A3E36C9C16A56EA9

@@ -1,0 +1,25 @@
+,51
+id,1227
+title,NES Wizardry: Proving Grounds of the Mad Overlord by TaoTao in 00:45.74
+branch,baseline
+goal,baseline
+gameGoalId,853
+emulatorVersion,FCEU 0.98.28
+class,Standard
+systemCode,NES
+submissionId,2128
+gameId,488
+gameVersionId,76
+obsoletedById,
+frames,2749
+rerecordCount,200208
+systemFrameRate,60.0988138974405
+movieFileName,taotao-wizardry.fcm
+additionalAuthors,
+createTimestamp,2008-11-27T22:17:19
+authors,['TaoTao']
+tags,['random']
+flags,[]
+urls,"['https://archive.org/download/WizardryProvingGroundsOfTheMadOverlordTasIn0045.82ByTaotao/wizardry-tas-taotao.mp4', 'https://archive.org/download/WizardryProvingGroundsOfTheMadOverlordTasIn0045.82ByTaotao/wizardry-tas-taotao_10bit444.mp4', 'https://www.youtube.com/watch?v=RzjXK8L_M4s']"
+filePaths,['1227M.png']
+SHA1,f324f1977d4b7840c37821990247993c26fa46fc

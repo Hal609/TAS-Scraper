@@ -1,0 +1,25 @@
+,292
+id,3258
+title,"NES Wolverine ""warps"" by Jules in 06:16.18"
+branch,warps
+goal,warps
+gameGoalId,2621
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,5285
+gameId,973
+gameVersionId,1140
+obsoletedById,
+frames,22608
+rerecordCount,7101
+systemFrameRate,60.0988138974405
+movieFileName,robyns-wolverine-warps.fm2
+additionalAuthors,
+createTimestamp,2016-11-12T20:03:02
+authors,['Jules']
+tags,"['damage', 'warps']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=pWAIJntrtew', 'https://archive.org/download/wolverine-tas-warps-robyns/wolverine-tas-warps-robyns.mkv', 'https://archive.org/download/wolverine-tas-warps-robyns/wolverine-tas-warps-robyns_512kb.mp4']"
+filePaths,['3258M.png']
+SHA1,72279226339938A684292BF17BBAEEF78B67C788

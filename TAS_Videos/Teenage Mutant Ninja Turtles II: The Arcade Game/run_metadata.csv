@@ -1,0 +1,25 @@
+,89
+id,1716
+title,"NES Teenage Mutant Ninja Turtles II: The Arcade Game ""2 players"" by X2poet in 30:20.92"
+branch,2 players
+goal,2 players
+gameGoalId,1276
+emulatorVersion,FCEU 0.98.26
+class,Standard
+systemCode,NES
+submissionId,2959
+gameId,98
+gameVersionId,1849
+obsoletedById,
+frames,109255
+rerecordCount,95356
+systemFrameRate,60.0
+movieFileName,x2poet-tmnt22p.fcm
+additionalAuthors,
+createTimestamp,2011-01-06T21:05:59
+authors,['X2poet']
+tags,['2p']
+flags,[]
+urls,"['https://www.archive.org/download/X2poetsNesTeenageMutantNinjaTurtlesIiTheArcadeGame2PlayersIn/tmnt2-tas-2p-x2poet.mp4', 'https://www.youtube.com/watch?v=dBEUTine3i4']"
+filePaths,['1716M.png']
+SHA1,40FF068D2A7BE1202D843C2A9DC1220F087A094A

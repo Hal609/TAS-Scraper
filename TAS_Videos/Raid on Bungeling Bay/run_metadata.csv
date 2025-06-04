@@ -1,0 +1,25 @@
+,318
+id,3396
+title,NES Raid on Bungeling Bay by link_7777 in 02:44.75
+branch,baseline
+goal,baseline
+gameGoalId,2731
+emulatorVersion,BizHawk 1.12.1
+class,Standard
+systemCode,NES
+submissionId,5482
+gameId,1894
+gameVersionId,1729
+obsoletedById,
+frames,9901
+rerecordCount,5899
+systemFrameRate,60.0988138974405
+movieFileName,link_7777-raidonbungelingbay.bk2
+additionalAuthors,
+createTimestamp,2017-05-14T17:32:12
+authors,['link_7777']
+tags,['noeasy']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=Ues7iFjZImE', 'https://archive.org/download/raidonbungelingbay-tas-link_7777/raidonbungelingbay-tas-link_7777.mkv', 'https://archive.org/download/raidonbungelingbay-tas-link_7777/raidonbungelingbay-tas-link_7777_512kb.mp4']"
+filePaths,['3396M.png']
+SHA1,31C0F267FF8246DB4C206C460CA6C99CD3390F8D

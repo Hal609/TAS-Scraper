@@ -1,0 +1,25 @@
+,250
+id,3011
+title,NES Dr. Jekyll and Mr. Hyde by xy2_ in 16:51.25
+branch,baseline
+goal,baseline
+gameGoalId,759
+emulatorVersion,BizHawk 1.11.3
+class,Standard
+systemCode,NES
+submissionId,4915
+gameId,832
+gameVersionId,1744
+obsoletedById,
+frames,60775
+rerecordCount,14370
+systemFrameRate,60.0988138974405
+movieFileName,xy2_-drjekyllandmrhyde.bk2
+additionalAuthors,
+createTimestamp,2015-12-01T08:50:32
+authors,['xy2_']
+tags,"['damage', 'bugs', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=A_eNnJbdEXU', 'https://archive.org/download/drjekyllandmrhyde-tas-xy2_/drjekyllandmrhyde-tas-xy2_.mkv', 'https://archive.org/download/drjekyllandmrhyde-tas-xy2_/drjekyllandmrhyde-tas-xy2__512kb.mp4']"
+filePaths,['3011M.png']
+SHA1,3385AFBDEF21C423B7F1DB3ADA436A184E94DDE1

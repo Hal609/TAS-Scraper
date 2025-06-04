@@ -1,0 +1,25 @@
+,336
+id,3629
+title,"NES R.C. Pro-Am ""all gold trophies"" by FatRatKnight in 39:06.22"
+branch,all gold trophies
+goal,all gold trophies
+gameGoalId,2907
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,5812
+gameId,1840
+gameVersionId,2384
+obsoletedById,
+frames,141005
+rerecordCount,26889
+systemFrameRate,60.0988138974405
+movieFileName,fatratknight-rcproam-allgoldtrophies.fm2
+additionalAuthors,
+createTimestamp,2018-02-11T11:51:38
+authors,['FatRatKnight']
+tags,"['speed_tradeoff', 'full']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=yifmMPVotJQ', 'https://archive.org/download/rcproam-tas-allgoldtrophies-fatratknight/rcproam-tas-allgoldtrophies-fatratknight.mkv', 'https://archive.org/download/rcproam-tas-allgoldtrophies-fatratknight/rcproam-tas-allgoldtrophies-fatratknight_512kb.mp4']"
+filePaths,['3629M.png']
+SHA1,FC133E4EDA2CE05E163782D494AEDACE543A9ED2

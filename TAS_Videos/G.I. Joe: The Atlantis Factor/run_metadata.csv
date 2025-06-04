@@ -1,0 +1,25 @@
+,251
+id,3017
+title,NES G.I. Joe: The Atlantis Factor by Alyosha in 07:15.28
+branch,baseline
+goal,baseline
+gameGoalId,1120
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4925
+gameId,652
+gameVersionId,1036
+obsoletedById,
+frames,26160
+rerecordCount,9937
+systemFrameRate,60.0988138974405
+movieFileName,alyosha-gijoe_atlantisfactor.fm2
+additionalAuthors,
+createTimestamp,2015-12-07T10:22:57
+authors,['Alyosha']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=ZUg06qIeZN0', 'https://archive.org/download/gijoe_atlantisfactor-tas-alyosha/gijoe_atlantisfactor-tas-alyosha.mkv', 'https://archive.org/download/gijoe_atlantisfactor-tas-alyosha/gijoe_atlantisfactor-tas-alyosha_512kb.mp4']"
+filePaths,['3017M.png']
+SHA1,ab57331556b5c5456c67a24a21da91a6c1decd73

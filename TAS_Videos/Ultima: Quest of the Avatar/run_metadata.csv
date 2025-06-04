@@ -1,0 +1,25 @@
+,220
+id,2809
+title,NES Ultima: Quest of the Avatar by TheAxeMan in 58:23.98
+branch,baseline
+goal,baseline
+gameGoalId,2255
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4606
+gameId,1650
+gameVersionId,1237
+obsoletedById,
+frames,210585
+rerecordCount,4920
+systemFrameRate,60.0988138974405
+movieFileName,theaxeman-ultimaqota.fm2
+additionalAuthors,
+createTimestamp,2015-03-18T15:40:24
+authors,['TheAxeMan']
+tags,"['death', 'random']"
+flags,"['Verified', 'Commentary']"
+urls,"['https://www.youtube.com/watch?v=WSH_WnhdPX0', 'https://archive.org/download/ultimaqota-tas-theaxeman/ultimaqota-tas-theaxeman.mkv', 'https://archive.org/download/ultimaqota-tas-theaxeman/ultimaqota-tas-theaxeman_512kb.mp4', 'https://www.youtube.com/watch?v=SIOnZGoMF_U']"
+filePaths,['2809M.png']
+SHA1,63a1ed8210b24adca73a0647e0c3a5e78b791c27

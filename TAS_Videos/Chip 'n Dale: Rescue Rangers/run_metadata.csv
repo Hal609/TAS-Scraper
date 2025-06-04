@@ -1,0 +1,25 @@
+,781
+id,6036
+title,"NES Chip 'n Dale: Rescue Rangers ""2 players"" by Dimon12321, Aglar & dragonxyk in 08:43.47"
+branch,2 players
+goal,2 players
+gameGoalId,4787
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,9150
+gameId,30
+gameVersionId,2030
+obsoletedById,
+frames,31460
+rerecordCount,26246
+systemFrameRate,60.0988138974405
+movieFileName,"dimon12321,aglar,dragonxyk-chipdale-nes-2p.bk2"
+additionalAuthors,
+createTimestamp,2024-07-06T18:16:49.460169
+authors,"['Dimon12321', 'Aglar', 'dragonxyk']"
+tags,"['2p', 'death', 'damage', 'noeasy']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=2pJKBcx9x_Y', 'https://archive.org/download/chipdale-nes-tas-2p-dimon12321_aglar_dragonxyk/chipdale-nes-tas-2p-dimon12321_aglar_dragonxyk.mp4']"
+filePaths,['6036M.png']
+SHA1,39A5FDB7EFD4425A8769FD3073B00DD85F6CD574

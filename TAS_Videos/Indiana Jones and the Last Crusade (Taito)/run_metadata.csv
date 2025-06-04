@@ -1,0 +1,25 @@
+,108
+id,1915
+title,NES Indiana Jones and the Last Crusade (Taito) by MESHUGGAH & Randil in 02:57.56
+branch,baseline
+goal,baseline
+gameGoalId,1511
+emulatorVersion,FCEUX 2.1.6 (interim svn2267)
+class,Standard
+systemCode,NES
+submissionId,3352
+gameId,817
+gameVersionId,2342
+obsoletedById,
+frames,10671
+rerecordCount,9860
+systemFrameRate,60.0988138974405
+movieFileName,"meshuggah,randil-indianajonesandthelastcrusade.fm2"
+additionalAuthors,
+createTimestamp,2011-11-10T22:21:46
+authors,"['MESHUGGAH', 'Randil']"
+tags,"['damage', 'random']"
+flags,[]
+urls,"['https://www.archive.org/download/NesIndianaJonesAndTheLastCrusadeByMeshuggahRandilIn0257.56/indianajonesandthelastcrusade-tas-meshuggahrandil.mp4', 'https://www.archive.org/download/NesIndianaJonesAndTheLastCrusadeByMeshuggahRandilIn0257.56/indianajonesandthelastcrusade-tas-meshuggahrandil_10bit444.mp4', 'https://www.youtube.com/watch?v=jybYUnfucIo']"
+filePaths,['1915M.png']
+SHA1,78bc318d19f0c7d1d429890c65ee083ecdab2d5c

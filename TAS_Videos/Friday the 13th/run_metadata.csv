@@ -1,0 +1,25 @@
+,359
+id,3756
+title,NES Friday the 13th by klmz in 02:22.93
+branch,baseline
+goal,baseline
+gameGoalId,133
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,6001
+gameId,60
+gameVersionId,1697
+obsoletedById,
+frames,8590
+rerecordCount,5571
+systemFrameRate,60.0988138974405
+movieFileName,klmz-fridaythe13th.fm2
+additionalAuthors,
+createTimestamp,2018-08-04T09:54:24
+authors,['klmz']
+tags,"['damage', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=Dhg4Pl1X39U', 'https://archive.org/download/fridaythe13th-tas-klmz/fridaythe13th-tas-klmz.mkv', 'https://archive.org/download/fridaythe13th-tas-klmz/fridaythe13th-tas-klmz_512kb.mp4']"
+filePaths,['3756M.png']
+SHA1,F7897F46A4DCFEF1E484D80B10F0810F986F9E25

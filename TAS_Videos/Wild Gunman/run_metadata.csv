@@ -1,0 +1,25 @@
+,805
+id,6235
+title,"NES Wild Gunman ""Game A, maximum score"" by LoganTheTASer in 18:35.75"
+branch,"Game A, maximum score"
+goal,"Game A, maximum score"
+gameGoalId,5186
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,8962
+gameId,4192
+gameVersionId,4701
+obsoletedById,
+frames,67055
+rerecordCount,1536
+systemFrameRate,60.0988138974405
+movieFileName,"loganthetaser-wildgunman-nes-gamea,maxscore.bk2"
+additionalAuthors,
+createTimestamp,2024-10-27T00:40:24.351715
+authors,['LoganTheTASer']
+tags,"['maxscore', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=KLl69QI4dM0', 'https://archive.org/download/wildgunman-nes-tas-gamea_maxscore-loganthetaser/wildgunman-nes-tas-gamea_maxscore-loganthetaser.mp4']"
+filePaths,['6235M.png']
+SHA1,852C75376BC7A97712E4845190619AA86007A5FC

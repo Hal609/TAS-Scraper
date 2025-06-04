@@ -1,0 +1,25 @@
+,435
+id,4216
+title,NES Rambo by Memory & dave_dfwm in 16:38.52
+branch,baseline
+goal,baseline
+gameGoalId,545
+emulatorVersion,Bizhawk 2.4.1
+class,Standard
+systemCode,NES
+submissionId,6779
+gameId,930
+gameVersionId,1527
+obsoletedById,
+frames,60010
+rerecordCount,35128
+systemFrameRate,60.0988138974405
+movieFileName,"memory,dave_dfwm-rambo.bk2"
+additionalAuthors,
+createTimestamp,2020-06-25T16:22:19
+authors,"['Memory', 'dave_dfwm']"
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=yC6W9bx7lnA', 'https://archive.org/download/rambo-tas-memorydave_dfwm/rambo-tas-memory%2Cdave_dfwm.mkv', 'https://archive.org/download/rambo-tas-memorydave_dfwm/rambo-tas-memory%2Cdave_dfwm_512kb.mp4']"
+filePaths,['4216M.png']
+SHA1,7E98BB35E267FF8C7BACE94CE650EF8CA6AA1615

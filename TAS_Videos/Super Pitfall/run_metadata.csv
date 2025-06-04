@@ -1,0 +1,25 @@
+,233
+id,2897
+title,NES Super Pitfall by Arc & Alyosha in 04:42.04
+branch,baseline
+goal,baseline
+gameGoalId,149
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4761
+gameId,77
+gameVersionId,945
+obsoletedById,
+frames,16950
+rerecordCount,3727
+systemFrameRate,60.0988138974405
+movieFileName,"alyosha,arc-superpitfall.fm2"
+additionalAuthors,
+createTimestamp,2015-07-25T11:33:55
+authors,"['Arc', 'Alyosha']"
+tags,['bugs']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=V_zEWoSP8Pc', 'https://archive.org/download/Superpitfall-tas-alyoshaarc/superpitfall-tas-alyosha,arc.mkv', 'https://archive.org/download/Superpitfall-tas-alyoshaarc/superpitfall-tas-alyosha,arc_512kb.mp4']"
+filePaths,['2897M.png']
+SHA1,2373E952FECC5F7507F99476E82C298CAB1F51CB

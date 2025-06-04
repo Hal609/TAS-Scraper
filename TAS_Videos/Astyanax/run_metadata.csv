@@ -1,0 +1,25 @@
+,514
+id,4627
+title,NES Astyanax by Marx & Alyosha in 15:00.90
+branch,baseline
+goal,baseline
+gameGoalId,161
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7338
+gameId,90
+gameVersionId,164
+obsoletedById,
+frames,54143
+rerecordCount,7332
+systemFrameRate,60.0988138974405
+movieFileName,"marx,alyosha-astyanax.bk2"
+additionalAuthors,
+createTimestamp,2022-04-13T04:28:57.966427
+authors,"['Marx', 'Alyosha']"
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=_ea_M3Snqhk', 'https://archive.org/download/astyanax-tas-marx_alyosha/astyanax-tas-marx_alyosha.mp4']"
+filePaths,['4627M.png']
+SHA1,1787C6235FBF16337BB4789817CFE0B15AB3AAD7

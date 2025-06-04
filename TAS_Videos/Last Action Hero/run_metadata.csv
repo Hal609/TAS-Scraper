@@ -1,0 +1,25 @@
+,581
+id,4935
+title,NES Last Action Hero by ShesChardcore in 07:31.41
+branch,baseline
+goal,baseline
+gameGoalId,4091
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7814
+gameId,1869
+gameVersionId,2009
+obsoletedById,
+frames,27129
+rerecordCount,5075
+systemFrameRate,60.098990035226535
+movieFileName,sheschardcore-lastactionhero-nes.bk2
+additionalAuthors,
+createTimestamp,2022-11-22T23:16:34.845065
+authors,['ShesChardcore']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=WY7acE0830I', 'https://archive.org/download/lastactionhero-nes-tas-sheschardcore/lastactionhero-nes-tas-sheschardcore.mp4']"
+filePaths,['4935M.png']
+SHA1,909CF73226210FE6E14C505CEA7BD2BEC72BBA99

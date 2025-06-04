@@ -1,0 +1,25 @@
+,307
+id,3345
+title,NES Urban Champion by klmz in 00:26.84
+branch,baseline
+goal,baseline
+gameGoalId,516
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,5404
+gameId,577
+gameVersionId,1306
+obsoletedById,
+frames,1613
+rerecordCount,666
+systemFrameRate,60.0988138974405
+movieFileName,klmz-urbanchampion.fm2
+additionalAuthors,
+createTimestamp,2017-03-04T10:28:34
+authors,['klmz']
+tags,"['bugs', 'random']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=vmO80tN0DUE', 'https://archive.org/download/urbanchampion-tas-klmz/urbanchampion-tas-klmz.mkv', 'https://archive.org/download/urbanchampion-tas-klmz/urbanchampion-tas-klmz_512kb.mp4']"
+filePaths,['3345M.png']
+SHA1,26623B69661011AF701B5BEB23C37F9BF80D52F1

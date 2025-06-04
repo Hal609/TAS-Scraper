@@ -1,0 +1,25 @@
+,161
+id,2273
+title,"NES Blaster Master (USA) ""all bosses"" by BrotherMojo in 30:30.37"
+branch,All Bosses
+goal,All Bosses
+gameGoalId,1752
+emulatorVersion,FCEUX 2.1.6
+class,Standard
+systemCode,NES
+submissionId,3804
+gameId,82
+gameVersionId,261
+obsoletedById,
+frames,110003
+rerecordCount,54617
+systemFrameRate,60.0988138974405
+movieFileName,bothermojo1-blastermaster.fm2
+additionalAuthors,
+createTimestamp,2013-01-18T06:24:31
+authors,['BrotherMojo']
+tags,"['death', 'damage', 'nowarpbug', 'nobugs']"
+flags,['Atlas']
+urls,"['https://www.youtube.com/watch?v=DuxNC3_Oc6o', 'https://archive.org/download/blastermaster-tas-allbosses-brothermojo/blastermaster-tas-allbosses-brothermojo.mkv', 'https://archive.org/download/blastermaster-tas-allbosses-brothermojo/blastermaster-tas-allbosses-brothermojo_512kb.mp4']"
+filePaths,['2273M.png']
+SHA1,ADB89B4923BB34805A39C141BAF227849A27CE41

@@ -1,0 +1,25 @@
+,341
+id,3666
+title,NES Metroid by The8bitbeast in 07:57.38
+branch,baseline
+goal,baseline
+gameGoalId,239
+emulatorVersion,BizHawk 2.2.1
+class,Standard
+systemCode,NES
+submissionId,5858
+gameId,20
+gameVersionId,1324
+obsoletedById,
+frames,28690
+rerecordCount,145973
+systemFrameRate,60.0988138974405
+movieFileName,the8bitbeast-metroid.bk2
+additionalAuthors,
+createTimestamp,2018-04-02T12:48:14
+authors,['The8bitbeast']
+tags,"['damage', 'restart', 'bugs', 'random']"
+flags,"['Verified', 'stars']"
+urls,"['https://www.youtube.com/watch?v=haq7c3rXpIA', 'https://archive.org/download/metroid-tas-the8bitbeast/metroid-tas-the8bitbeast.mkv', 'https://archive.org/download/metroid-tas-the8bitbeast/metroid-tas-the8bitbeast_512kb.mp4']"
+filePaths,['3666M.png']
+SHA1,ECF39EC5A33E6A6F832F03E8FFC61C5D53F4F90B

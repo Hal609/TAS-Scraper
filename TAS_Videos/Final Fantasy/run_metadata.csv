@@ -1,0 +1,25 @@
+,129
+id,2079
+title,NES Final Fantasy by TheAxeMan in 1:09:57.70
+branch,baseline
+goal,baseline
+gameGoalId,345
+emulatorVersion,FCEUX 2.1.4a
+class,Standard
+systemCode,NES
+submissionId,3656
+gameId,202
+gameVersionId,1048
+obsoletedById,
+frames,252277
+rerecordCount,44636
+systemFrameRate,60.0988138974405
+movieFileName,theaxemanv4-finalfantasy.fm2
+additionalAuthors,
+createTimestamp,2012-07-20T13:56:13
+authors,['TheAxeMan']
+tags,"['death', 'damage', 'nowarpbug', 'restart', 'bugs', 'random']"
+flags,"['Commentary', 'SensitivityWarning']"
+urls,"['https://archive.org/download/TheaxemansNesFinalFantasyIn10957.7/finalfantasy-tasv4-theaxeman.mkv', 'https://archive.org/download/TheaxemansNesFinalFantasyIn10957.7/finalfantasy-tasv4-theaxeman_10bit444.mkv', 'https://www.youtube.com/watch?v=LTQUNnsJ4Ww']"
+filePaths,['2079M.png']
+SHA1,80CE108FBC066C985D4FB541BD68E9A7C8994FEB

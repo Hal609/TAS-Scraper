@@ -1,0 +1,25 @@
+,682
+id,5385
+title,"NES Nigel Mansell's World Championship Racing ""all races"" by eien86 in 1:22:15.04"
+branch,all races
+goal,all races
+gameGoalId,4481
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,8383
+gameId,3662
+gameVersionId,4011
+obsoletedById,
+frames,296590
+rerecordCount,4157
+systemFrameRate,60.0988138974405
+movieFileName,eien86-nigelmansellsworldchampionshipracing-allraces.bk2
+additionalAuthors,
+createTimestamp,2023-07-01T05:55:06.908937
+authors,['eien86']
+tags,['full']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=yWjEg-upFOc', 'https://archive.org/download/nigelmansellsworldchampionshipracing-tas-allraces-eien86/nigelmansellsworldchampionshipracing-tas-allraces-eien86.mp4']"
+filePaths,['5385M.png']
+SHA1,BBE5CF2DFA0B5422776A530D6F1B617238A8569F

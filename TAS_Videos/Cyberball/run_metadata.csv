@@ -1,0 +1,25 @@
+,627
+id,5119
+title,NES Cyberball by ShesChardcore in 00:49.67
+branch,baseline
+goal,baseline
+gameGoalId,4207
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7976
+gameId,3498
+gameVersionId,3766
+obsoletedById,
+frames,2985
+rerecordCount,662
+systemFrameRate,60.0988138974405
+movieFileName,sheschardcore-cyberball-nes.bk2
+additionalAuthors,
+createTimestamp,2023-02-27T00:23:14.742544
+authors,['ShesChardcore']
+tags,['noeasy']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=YJ--2rTQF5s', 'https://archive.org/download/cyberball-nes-tas-sheschardcore/cyberball-nes-tas-sheschardcore.mp4']"
+filePaths,['5119M.png']
+SHA1,926f5b6bfbe158b3e565968c51d95192f55f59df

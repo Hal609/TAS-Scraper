@@ -1,0 +1,25 @@
+,838
+id,6424
+title,"NES Mega Man 5 ""no Mega Buster, no Super Arrow"" by Darkman425 in 36:55.98"
+branch,"no Mega Buster, no Super Arrow"
+goal,"no Mega Buster, no Super Arrow"
+gameGoalId,8462
+emulatorVersion,BizHawk 2.9.1
+class,Alternative
+systemCode,NES
+submissionId,9435
+gameId,40
+gameVersionId,2401
+obsoletedById,
+frames,133178
+rerecordCount,39941
+systemFrameRate,60.0988138974405
+movieFileName,"darkman425-megaman5-nomegabuster,nosuperarrow.bk2"
+additionalAuthors,
+createTimestamp,2025-03-09T15:48:44.331953
+authors,['Darkman425']
+tags,"['speed_tradeoff', 'demo', 'damage', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=Ds5Xofjk3XE', 'https://archive.org/download/megaman5-tas-nomegabuster_nosuperarrow-darkman425/megaman5-tas-nomegabuster_nosuperarrow-darkman425.mp4']"
+filePaths,['6424M.png']
+SHA1,1748E9B6ECFF0C01DD14ECC7A48575E74F88B778

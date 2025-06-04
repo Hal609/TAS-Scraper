@@ -1,0 +1,25 @@
+,547
+id,4812
+title,"NES Ninja Gaiden ""pacifist"" by MESHUGGAH, eien86, feos, Marx, jprofit22 & Scumtron in 11:16.89"
+branch,pacifist
+goal,pacifist
+gameGoalId,3942
+emulatorVersion,BizHawk 2.8
+class,Alternative
+systemCode,NES
+submissionId,7602
+gameId,175
+gameVersionId,1066
+obsoletedById,
+frames,40680
+rerecordCount,189224
+systemFrameRate,60.0988138974405
+movieFileName,"meshuggah,eien86,feos,marx,jprofit22,scumtron-ninjagaiden-pacifist.bk2"
+additionalAuthors,
+createTimestamp,2022-08-22T08:18:36.108653
+authors,"['MESHUGGAH', 'eien86', 'feos', 'Marx', 'jprofit22', 'Scumtron']"
+tags,"['nokills', 'damage', 'bugs', 'random']"
+flags,"['Verified', 'Atlas']"
+urls,"['https://archive.org/download/ninjagaiden-tas-pacifist-meshuggah_eien86_feos_marx_jprofit22_scumtron/ninjagaiden-tas-pacifist-meshuggah_eien86_feos_marx_jprofit22_scumtron.mp4', 'https://www.youtube.com/watch?v=toAu_2yq4WI']"
+filePaths,"['Ninja_Gaiden_pacifist_long.zip', '4812M.png']"
+SHA1,CA513F841D75EFEB33BB8099FB02BEEB39F6BB9C

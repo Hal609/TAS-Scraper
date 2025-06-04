@@ -1,0 +1,25 @@
+,327
+id,3514
+title,NES Platoon by Jules in 07:37.13
+branch,baseline
+goal,baseline
+gameGoalId,948
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,5647
+gameId,1242
+gameVersionId,992
+obsoletedById,
+frames,27473
+rerecordCount,4909
+systemFrameRate,60.0988138974405
+movieFileName,robyns-platoon.fm2
+additionalAuthors,
+createTimestamp,2017-09-08T05:54:39
+authors,['Jules']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=pz96euitRCk', 'https://archive.org/download/platoon-tas-robyns/platoon-tas-robyns.mkv', 'https://archive.org/download/platoon-tas-robyns/platoon-tas-robyns_512kb.mp4']"
+filePaths,['3514M.png']
+SHA1,76493a872c6614b47ac70ef0d353ec571f606b32

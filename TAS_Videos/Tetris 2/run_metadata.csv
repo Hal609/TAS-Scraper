@@ -1,0 +1,25 @@
+,498
+id,4547
+title,NES Tetris 2 by nymx in 37:35.82
+branch,baseline
+goal,baseline
+gameGoalId,3702
+emulatorVersion,BizHawk 2.5.2
+class,Standard
+systemCode,NES
+submissionId,7237
+gameId,2352
+gameVersionId,1282
+obsoletedById,
+frames,135572
+rerecordCount,116150
+systemFrameRate,60.0988138974405
+movieFileName,nymx-tetris2.bk2
+additionalAuthors,
+createTimestamp,2021-11-08T21:40:30
+authors,['nymx']
+tags,['random']
+flags,['Commentary']
+urls,"['https://www.youtube.com/watch?v=KufKf03Aez4', 'https://archive.org/download/tetris2-tas-nymx/tetris2-tas-nymx.mkv', 'https://archive.org/download/tetris2-tas-nymx/tetris2-tas-nymx_512kb.mp4']"
+filePaths,['4547M.png']
+SHA1,812BB14F7EC9E49280FC1BE9C0853CC5DD973BA1

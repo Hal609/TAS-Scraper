@@ -1,0 +1,25 @@
+,54
+id,1263
+title,NES Werewolf: The Last Warrior by andrewg & AnS in 08:59.58
+branch,baseline
+goal,baseline
+gameGoalId,374
+emulatorVersion,FCEUX 2.0.4
+class,Standard
+systemCode,NES
+submissionId,2197
+gameId,212
+gameVersionId,80
+obsoletedById,
+frames,32428
+rerecordCount,35483
+systemFrameRate,60.0988138974405
+movieFileName,"andrewg,ans-werewolf.fm2"
+additionalAuthors,
+createTimestamp,2009-03-13T20:40:20
+authors,"['andrewg', 'AnS']"
+tags,"['damage', 'bugs']"
+flags,[]
+urls,"['https://www.archive.org/download/TasvideosMiscPublications2/werewolf-tas-andrewgans.mkv', 'https://www.youtube.com/watch?v=lD5gnHBCKzk']"
+filePaths,['werewolf_2197.png']
+SHA1,8580b3deeddfa75c12dfe2f6cab8d062e52fdb34

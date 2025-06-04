@@ -1,0 +1,25 @@
+,35
+id,1087
+title,NES Batman: Return of the Joker by Aglar in 11:21.57
+branch,baseline
+goal,baseline
+gameGoalId,762
+emulatorVersion,FCEU 0.98.16
+class,Standard
+systemCode,NES
+submissionId,1898
+gameId,437
+gameVersionId,835
+obsoletedById,
+frames,40894
+rerecordCount,30000
+systemFrameRate,60.0
+movieFileName,aglar-batmanrotj.fcm
+additionalAuthors,
+createTimestamp,2008-04-03T17:36:16
+authors,['Aglar']
+tags,['damage']
+flags,[]
+urls,"['https://www.archive.org/download/TASVideos_Nes/batmanrotj-tas-aglar.avi', 'https://www.youtube.com/watch?v=NbtR9wPsKhQ']"
+filePaths,['rotj_1087.png']
+SHA1,668A395CF7215F677B6DF6C4C8C93E1BB439DC25

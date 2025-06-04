@@ -1,0 +1,25 @@
+,814
+id,6313
+title,"NES Super Mario Bros. ""minimum presses"" by Brandon in 05:48.04"
+branch,minimum presses
+goal,minimum presses
+gameGoalId,1627
+emulatorVersion,FCEUX 2.1.5
+class,Alternative
+systemCode,NES
+submissionId,3556
+gameId,1
+gameVersionId,68
+obsoletedById,
+frames,20917
+rerecordCount,4571
+systemFrameRate,60.0988138974405
+movieFileName,brandon-supermariobros-minimumpresses.fm2
+additionalAuthors,
+createTimestamp,2024-12-27T08:18:57.687119
+authors,['Brandon']
+tags,"['demo', 'damage', 'warps']"
+flags,"['Verified', 'Commentary']"
+urls,"['https://www.youtube.com/watch?v=MnEDmC7XSfY', 'https://archive.org/download/supermariobros-tas-minimumpresses-brandon/supermariobros-tas-minimumpresses-brandon.mp4']"
+filePaths,['6313M.png']
+SHA1,ea343f4e445a9050d4b4fbac2c77d0693b1d0922

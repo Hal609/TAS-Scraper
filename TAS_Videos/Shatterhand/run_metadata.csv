@@ -1,0 +1,25 @@
+,77
+id,1553
+title,NES Shatterhand by Cardboard in 17:43.23
+branch,baseline
+goal,baseline
+gameGoalId,136
+emulatorVersion,FCEUX 2.1.2
+class,Standard
+systemCode,NES
+submissionId,2711
+gameId,64
+gameVersionId,1400
+obsoletedById,
+frames,63899
+rerecordCount,32228
+systemFrameRate,60.0988138974405
+movieFileName,shatterhand-cardboard.fm2
+additionalAuthors,
+createTimestamp,2010-06-24T21:23:51
+authors,['Cardboard']
+tags,['damage']
+flags,['SensitivityWarning']
+urls,"['https://www.youtube.com/watch?v=2PNaM1mO6C4', 'https://archive.org/download/shatterhand-tas-cardboard/shatterhand-tas-cardboard.mkv', 'https://archive.org/download/shatterhand-tas-cardboard/shatterhand-tas-cardboard_512kb.mp4']"
+filePaths,['1553M.png']
+SHA1,611131DDB450C9B46AD6BC53E0C6E26C7140E83E

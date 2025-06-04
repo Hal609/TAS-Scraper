@@ -1,0 +1,25 @@
+,800
+id,6149
+title,NES Bram Stoker's Dracula by McBobX in 12:59.43
+branch,baseline
+goal,baseline
+gameGoalId,79
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,9179
+gameId,881
+gameVersionId,2014
+obsoletedById,
+frames,46843
+rerecordCount,11960
+systemFrameRate,60.0988138974405
+movieFileName,mcbobx-bramstokersdracula-nes.fm2
+additionalAuthors,
+createTimestamp,2024-09-02T16:51:51.268313
+authors,['McBobX']
+tags,"['damage', 'resources']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=i9AzvShzH5o', 'https://archive.org/download/bramstokersdracula-nes-tas-mcbobx/bramstokersdracula-nes-tas-mcbobx.mp4']"
+filePaths,['6149M.png']
+SHA1,7619bac804f9be52b6411bd54a0af2528511582a

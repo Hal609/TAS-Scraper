@@ -1,0 +1,25 @@
+,445
+id,4254
+title,NES Dash Galaxy in the Alien Asylum by tormented in 06:08.28
+branch,baseline
+goal,baseline
+gameGoalId,1734
+emulatorVersion,BizHawk 2.4.2
+class,Standard
+systemCode,NES
+submissionId,6815
+gameId,1392
+gameVersionId,2087
+obsoletedById,
+frames,22133
+rerecordCount,3430
+systemFrameRate,60.0988138974405
+movieFileName,tormented-dashgalaxyaa.bk2
+additionalAuthors,
+createTimestamp,2020-08-01T18:06:09
+authors,['tormented']
+tags,"['death', 'damage']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=s09IJJuPINo', 'https://archive.org/download/dashgalaxyaa-tas-tormented/dashgalaxyaa-tas-tormented.mkv', 'https://archive.org/download/dashgalaxyaa-tas-tormented/dashgalaxyaa-tas-tormented_512kb.mp4']"
+filePaths,['4254M.png']
+SHA1,A0A70EEF5948F05236099A14AEB1657B43F90624

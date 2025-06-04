@@ -1,0 +1,25 @@
+,372
+id,3870
+title,NES Disney's The Little Mermaid by Jigwally in 06:37.58
+branch,baseline
+goal,baseline
+gameGoalId,12
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6195
+gameId,137
+gameVersionId,1331
+obsoletedById,
+frames,23894
+rerecordCount,14193
+systemFrameRate,60.0988138974405
+movieFileName,jigwally-littlemermaid.fm2
+additionalAuthors,
+createTimestamp,2018-12-28T16:27:30
+authors,['Jigwally']
+tags,"['damage', 'random']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=YYzo6xGnUBc', 'https://archive.org/download/littlemermaid-tas-jigwally/littlemermaid-tas-jigwally.mkv', 'https://archive.org/download/littlemermaid-tas-jigwally/littlemermaid-tas-jigwally_512kb.mp4']"
+filePaths,['3870M.png']
+SHA1,20622BB297A09E0D4863DF21256B25210CBECD8A

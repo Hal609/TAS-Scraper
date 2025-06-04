@@ -1,0 +1,25 @@
+,305
+id,3331
+title,NES The Battle of Olympus by Arc & nesrocks in 09:55.37
+branch,baseline
+goal,baseline
+gameGoalId,148
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,5378
+gameId,76
+gameVersionId,2097
+obsoletedById,
+frames,35781
+rerecordCount,7329
+systemFrameRate,60.0988138974405
+movieFileName,"arc,fodav2-battleofolympus.fm2"
+additionalAuthors,
+createTimestamp,2017-02-14T19:52:03
+authors,"['Arc', 'nesrocks']"
+tags,"['death', 'damage', 'bugs']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=fiGnib5gNPU', 'https://archive.org/download/Battleofolympus-tasv2-arcfoda/battleofolympus-tasv2-arc,foda.mkv', 'https://archive.org/download/Battleofolympus-tasv2-arcfoda/battleofolympus-tasv2-arc,foda_512kb.mp4']"
+filePaths,['3331M.png']
+SHA1,DC1ED05F850070CCD73DC1D0F52CDA0277A0EF05

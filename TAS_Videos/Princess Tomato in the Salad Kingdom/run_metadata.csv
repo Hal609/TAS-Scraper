@@ -1,0 +1,25 @@
+,134
+id,2130
+title,NES Princess Tomato in the Salad Kingdom by tool23 in 37:19.59
+branch,baseline
+goal,baseline
+gameGoalId,437
+emulatorVersion,FCEU 0.98.12
+class,Standard
+systemCode,NES
+submissionId,881
+gameId,1072
+gameVersionId,184
+obsoletedById,
+frames,134597
+rerecordCount,3005
+systemFrameRate,60.0988138974405
+movieFileName,tool23-princesstomato.fcm
+additionalAuthors,
+createTimestamp,2012-11-09T20:35:57
+authors,['tool23']
+tags,[]
+flags,[]
+urls,"['https://archive.org/download/NesPrincessTomatoInTheSaladKingdomusaIn3723.28ByTool23/princesstomato-tas-tool23.mkv', 'https://archive.org/download/NesPrincessTomatoInTheSaladKingdomusaIn3723.28ByTool23/princesstomato-tas-tool23_10bit444.mkv', 'https://www.youtube.com/watch?v=S7IqUP5QwVM']"
+filePaths,['2130M.png']
+SHA1,633EDFFB7084B86B0DE65AB24C87084BD8A11ACB

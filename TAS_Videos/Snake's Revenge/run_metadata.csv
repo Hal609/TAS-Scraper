@@ -1,0 +1,25 @@
+,43
+id,1171
+title,NES Snake's Revenge by Dammit in 31:36.79
+branch,baseline
+goal,baseline
+gameGoalId,817
+emulatorVersion,FCEU 0.98.28
+class,Standard
+systemCode,NES
+submissionId,2045
+gameId,463
+gameVersionId,65
+obsoletedById,
+frames,113995
+rerecordCount,22495
+systemFrameRate,60.0988138974405
+movieFileName,dammit-snakesrevenge.fcm
+additionalAuthors,
+createTimestamp,2008-08-12T16:22:34
+authors,['Dammit']
+tags,['damage']
+flags,[]
+urls,"['https://www.archive.org/download/NesSnakesRevengeusaIn3139.92ByDammit/snakesrevenge-tas-dammit.mkv', 'https://www.archive.org/download/NesSnakesRevengeusaIn3139.92ByDammit/snakesrevenge-tas-dammit_10bit444.mkv', 'https://www.youtube.com/watch?v=AmL7CGVqtEs']"
+filePaths,['snakesrevenge_2045.png']
+SHA1,49f1369c0e3926da1ae4ef9baa6c41f8c649b893

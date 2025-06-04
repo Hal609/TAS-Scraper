@@ -1,0 +1,25 @@
+,58
+id,1321
+title,NES Yo! Noid by nesrocks in 19:29.27
+branch,baseline
+goal,baseline
+gameGoalId,50
+emulatorVersion,FCEU 0.98.12
+class,Standard
+systemCode,NES
+submissionId,1409
+gameId,540
+gameVersionId,2437
+obsoletedById,
+frames,70156
+rerecordCount,3718
+systemFrameRate,60.0
+movieFileName,foda1-yonoid.fcm
+additionalAuthors,
+createTimestamp,2009-07-05T21:59:51
+authors,['nesrocks']
+tags,"['nokills', 'warps', 'random']"
+flags,['Verified']
+urls,"['https://www.archive.org/download/TasvideosMiscPublications2/yonoid-tas-foda.mkv', 'https://www.youtube.com/watch?v=j-s1LnYiH5Y']"
+filePaths,['yonoid_foda.png']
+SHA1,16EC0A292DB42BE7814940619A415EC700FCD8E1

@@ -1,0 +1,25 @@
+,650
+id,5204
+title,NES Teenage Mutant Ninja Turtles: Tournament Fighters by Dimon12321 in 05:27.29
+branch,baseline
+goal,baseline
+gameGoalId,4290
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,8104
+gameId,1051
+gameVersionId,1008
+obsoletedById,
+frames,19670
+rerecordCount,3661
+systemFrameRate,60.0988138974405
+movieFileName,dimon12321-tmnttf-nes.bk2
+additionalAuthors,
+createTimestamp,2023-04-02T06:37:00.499285
+authors,['Dimon12321']
+tags,['noeasy']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=DZLGJ_hTZeE', 'https://archive.org/download/tmnttf-tas-dimon12321/tmnttf-tas-dimon12321.mp4']"
+filePaths,['5204M.png']
+SHA1,182F901142530A509A7C9F5831B5A7F7F4C923A8

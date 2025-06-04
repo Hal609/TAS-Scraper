@@ -1,0 +1,25 @@
+,493
+id,4521
+title,"NES Final Fantasy II ""game end glitch"" by naruko in 04:38.87"
+branch,game end glitch
+goal,game end glitch
+gameGoalId,3651
+emulatorVersion,FCEUX 2.3.0
+class,Standard
+systemCode,NES
+submissionId,7170
+gameId,1677
+gameVersionId,2609
+obsoletedById,
+frames,16760
+rerecordCount,815
+systemFrameRate,60.0988138974405
+movieFileName,naruko-finalfantasyii-geg.fm2
+additionalAuthors,
+createTimestamp,2021-09-23T14:00:02
+authors,['naruko']
+tags,"['warpbug', 'restart', 'ace', 'bugs', 'rambugs']"
+flags,['Commentary']
+urls,"['https://www.youtube.com/watch?v=d8dR0Ta0ujQ', 'https://archive.org/download/finalfantasyii-tas-geg-naruko/finalfantasyii-tas-geg-naruko.mkv', 'https://archive.org/download/finalfantasyii-tas-geg-naruko/finalfantasyii-tas-geg-naruko_512kb.mp4']"
+filePaths,['4521M.png']
+SHA1,1A9E01A29472F1161BD16E1B4D76994346A505F6

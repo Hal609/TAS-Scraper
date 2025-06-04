@@ -1,0 +1,25 @@
+,602
+id,5034
+title,"NES Castlevania ""pacifist, minimalist"" by eien86 & Challenger in 10:55.42"
+branch,"pacifist, minimalist"
+goal,"pacifist, minimalist"
+gameGoalId,3144
+emulatorVersion,BizHawk 2.8
+class,Alternative
+systemCode,NES
+submissionId,7908
+gameId,7
+gameVersionId,3682
+obsoletedById,
+frames,39390
+rerecordCount,117822
+systemFrameRate,60.0988138974405
+movieFileName,eien86_challenger-castlevania-pacifist_minimalist.bk2
+additionalAuthors,
+createTimestamp,2022-12-31T06:01:54.404636
+authors,"['eien86', 'Challenger']"
+tags,"['demo', 'nokills', 'death', 'damage', 'bugs', 'random']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=PBwEwiQP3g8', 'https://archive.org/download/castlevania-tas-pacifist_minimalist-eien86_challenger/castlevania-tas-pacifist_minimalist-eien86_challenger.mp4']"
+filePaths,['5034M.png']
+SHA1,A31B8BD5B370A9103343C866F3C2B2998E889341

@@ -1,0 +1,25 @@
+,76
+id,1551
+title,NES Kid Kool and the Quest for the Seven Wonder Herbs by Randil in 13:26.37
+branch,baseline
+goal,baseline
+gameGoalId,952
+emulatorVersion,FCEUX 2.1.4a
+class,Standard
+systemCode,NES
+submissionId,2691
+gameId,651
+gameVersionId,1423
+obsoletedById,
+frames,48462
+rerecordCount,19099
+systemFrameRate,60.0988138974405
+movieFileName,kidkool-randil.fm2
+additionalAuthors,
+createTimestamp,2010-06-20T22:22:13
+authors,['Randil']
+tags,[]
+flags,[]
+urls,"['https://www.archive.org/download/RandilsNesKidKoolIn1326.37/kidkool-tas-randil.mp4', 'https://www.youtube.com/watch?v=xrO0TtdNvsw']"
+filePaths,['1551M.png']
+SHA1,B851EF1C19478DF8987A7F82314FFEBBF9884341

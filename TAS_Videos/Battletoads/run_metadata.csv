@@ -1,0 +1,25 @@
+,452
+id,4271
+title,"NES Battletoads ""warps, 2 players"" by Lobsterzelda in 10:40.61"
+branch,"warps, 2 players"
+goal,"warps, 2 players"
+gameGoalId,3476
+emulatorVersion,BizHawk 2.4.2
+class,Standard
+systemCode,NES
+submissionId,6842
+gameId,66
+gameVersionId,2330
+obsoletedById,
+frames,38500
+rerecordCount,49786
+systemFrameRate,60.0988138974405
+movieFileName,"lobsterzeldav2-battletoads-nes-warps,2players.bk2"
+additionalAuthors,
+createTimestamp,2020-08-25T11:51:23
+authors,['Lobsterzelda']
+tags,"['2p', 'death', 'warps', 'nowarpbug', 'noskipboss', 'bugs', 'nobugs', 'norambugs']"
+flags,"['Verified', 'stars']"
+urls,"['https://www.youtube.com/watch?v=zICdUSGtAG8', 'https://archive.org/download/battletoads-nes-tasv2-warps_2players-lobsterzelda/battletoads-nes-tasv2-warps_2players-lobsterzelda.mkv', 'https://archive.org/download/battletoads-nes-tasv2-warps_2players-lobsterzelda/battletoads-nes-tasv2-warps_2players-lobsterzelda_512kb.mp4']"
+filePaths,['4271M.png']
+SHA1,5C3A497A82BE60704DEDF45248B6AD9B32C855AB

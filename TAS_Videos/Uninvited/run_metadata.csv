@@ -1,0 +1,25 @@
+,39
+id,1152
+title,NES Uninvited by Randil in 08:09.78
+branch,baseline
+goal,baseline
+gameGoalId,73
+emulatorVersion,FCEU 0.98.12
+class,Standard
+systemCode,NES
+submissionId,2008
+gameId,88
+gameVersionId,1746
+obsoletedById,
+frames,29387
+rerecordCount,4646
+systemFrameRate,60.0
+movieFileName,randil-uninvitedv3.fcm
+additionalAuthors,
+createTimestamp,2008-08-05T03:59:59
+authors,['Randil']
+tags,[]
+flags,[]
+urls,"['https://archive.org/download/TasvideosMiscPublications13/uninvited-tasv3-randil.mp4', 'https://archive.org/download/TasvideosMiscPublications13/uninvited-tasv3-randil_10bit444.mp4', 'https://www.youtube.com/watch?v=7MxSKfcyV5g']"
+filePaths,['uninvited930.png']
+SHA1,38A0F366DF579C86679F54FE8803FE9D81223257

@@ -1,0 +1,25 @@
+,230
+id,2867
+title,"NES Wizards & Warriors III: Kuros: Visions of Power by Ferret_Warlord, Dacicus & Alyosha in 17:25.61"
+branch,baseline
+goal,baseline
+gameGoalId,309
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4706
+gameId,189
+gameVersionId,957
+obsoletedById,
+frames,62840
+rerecordCount,17224
+systemFrameRate,60.0988138974405
+movieFileName,"ferretwarlord,dacicus,alyosha-wizwarriors3.fm2"
+additionalAuthors,
+createTimestamp,2015-06-13T12:53:41
+authors,"['Ferret_Warlord', 'Dacicus', 'Alyosha']"
+tags,"['damage', 'warpbug', 'bugs']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=YPiPrkZm1Zg', 'https://archive.org/download/Wizwarriors3-tas-ferretwarlorddacicusalyosha/wizwarriors3-tas-ferretwarlord,dacicus,alyosha.mkv', 'https://archive.org/download/Wizwarriors3-tas-ferretwarlorddacicusalyosha/wizwarriors3-tas-ferretwarlord,dacicus,alyosha_512kb.mp4']"
+filePaths,['2867M.png']
+SHA1,9C04E7357E5B39CFD9D0A119C52102197B4A1BE0

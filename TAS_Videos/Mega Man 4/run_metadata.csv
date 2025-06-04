@@ -1,0 +1,25 @@
+,249
+id,3010
+title,NES Mega Man 4 by Tiancaiwhr in 32:02.60
+branch,baseline
+goal,baseline
+gameGoalId,112
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,4917
+gameId,39
+gameVersionId,2316
+obsoletedById,
+frames,115546
+rerecordCount,32534
+systemFrameRate,60.0988138974405
+movieFileName,tiancaiwhr-megaman4.fm2
+additionalAuthors,
+createTimestamp,2015-11-30T16:12:31
+authors,['Tiancaiwhr']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=QzY4gSijQUs', 'https://archive.org/download/mm4-tas-tiancaiwhr/megaman4-tas-tiancaiwhr.mkv', 'https://archive.org/download/mm4-tas-tiancaiwhr/megaman4-tas-tiancaiwhr_512kb.mp4']"
+filePaths,['3010M.png']
+SHA1,2AE9A049DAFC8C7577584B4B9256F7EF8932B29C

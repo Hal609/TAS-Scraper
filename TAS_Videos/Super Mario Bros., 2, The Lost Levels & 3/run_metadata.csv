@@ -1,0 +1,25 @@
+,199
+id,2636
+title,"NES Super Mario Bros., 2, The Lost Levels & 3 by agwawaf in 08:49.78"
+branch,baseline
+goal,baseline
+gameGoalId,2089
+emulatorVersion,FCEUX 2.1.5
+class,Alternative
+systemCode,NES
+submissionId,4332
+gameId,760
+gameVersionId,2671
+obsoletedById,
+frames,31839
+rerecordCount,33542
+systemFrameRate,60.0988138974405
+movieFileName,agwawaf-smb_1_2j_2_3.fm2
+additionalAuthors,
+createTimestamp,2014-07-11T09:27:52
+authors,['agwawaf']
+tags,"['demo', 'bigame', 'damage', 'warps', 'skipboss', 'ace', 'bugs', 'rambugs']"
+flags,['Verified']
+urls,"['https://archive.org/download/smb_1_2j_2_3-quadtas-agwawaf/smb_1_2j_2_3-quadtas-agwawaf.mkv', 'https://archive.org/download/smb_1_2j_2_3-quadtas-agwawaf/smb_1_2j_2_3-quadtas-agwawaf_512kb.mp4', 'https://www.youtube.com/watch?v=SiHdBS7HPg0']"
+filePaths,['2636M.png']
+SHA1,ea343f4e445a9050d4b4fbac2c77d0693b1d0922

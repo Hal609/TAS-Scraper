@@ -1,0 +1,25 @@
+,429
+id,4203
+title,NES Ufouria: The Saga by aiqiyou in 23:41.98
+branch,baseline
+goal,baseline
+gameGoalId,19
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6761
+gameId,483
+gameVersionId,2010
+obsoletedById,
+frames,71109
+rerecordCount,57216
+systemFrameRate,50.0069789081886
+movieFileName,aiqiyou-ufouriathesaga.fm2
+additionalAuthors,
+createTimestamp,2020-06-06T18:03:46
+authors,['aiqiyou']
+tags,"['death', 'damage']"
+flags,['Atlas']
+urls,"['https://www.youtube.com/watch?v=NomrF9aD4G0', 'https://archive.org/download/ufouriathesaga-tas-aiqiyou/ufouriathesaga-tas-aiqiyou.mkv', 'https://archive.org/download/ufouriathesaga-tas-aiqiyou/ufouriathesaga-tas-aiqiyou_512kb.mp4']"
+filePaths,['4203M.png']
+SHA1,AD6F93B83BCC0454F0DCDD68B364AE3001E76C15

@@ -1,0 +1,25 @@
+,370
+id,3857
+title,NES Metal Gear by dunnius in 22:24.55
+branch,baseline
+goal,baseline
+gameGoalId,243
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6190
+gameId,165
+gameVersionId,979
+obsoletedById,
+frames,80806
+rerecordCount,84110
+systemFrameRate,60.0988138974405
+movieFileName,dunniusv6-metalgear-nes.fm2
+additionalAuthors,
+createTimestamp,2018-12-22T12:05:12
+authors,['dunnius']
+tags,"['death', 'damage']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=vmqG_3-Lvc4', 'https://archive.org/download/metalgear-nes-tasv6-dunnius/metalgear-nes-tasv6-dunnius.mkv', 'https://archive.org/download/metalgear-nes-tasv6-dunnius/metalgear-nes-tasv6-dunnius_512kb.mp4']"
+filePaths,['3857M.png']
+SHA1,9AAA7C001465311AE79D84644AA5FCE1F9766860

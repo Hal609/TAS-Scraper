@@ -1,0 +1,25 @@
+,549
+id,4826
+title,NES Journey to Silius by Riyan & Zakem66 in 07:36.27
+branch,baseline
+goal,baseline
+gameGoalId,107
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7639
+gameId,33
+gameVersionId,1832
+obsoletedById,
+frames,27421
+rerecordCount,18756
+systemFrameRate,60.0988138974405
+movieFileName,"riyan,zakem66-journeytosilius.bk2"
+additionalAuthors,
+createTimestamp,2022-09-07T17:37:35.31585
+authors,"['Riyan', 'Zakem66']"
+tags,"['death', 'damage']"
+flags,[]
+urls,"['https://archive.org/download/journeytosilius-tas-riyan_zakem66/journeytosilius-tas-riyan_zakem66.mp4', 'https://www.youtube.com/watch?v=LBwY3CJs4Po']"
+filePaths,['4826M.png']
+SHA1,275244538589393B552B159AB1D380090C8E8996

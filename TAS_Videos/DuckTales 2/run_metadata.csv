@@ -1,0 +1,25 @@
+,176
+id,2424
+title,NES DuckTales 2 by feos & MESHUGGAH in 08:41.29
+branch,baseline
+goal,baseline
+gameGoalId,101
+emulatorVersion,FCEUX 2.2.1
+class,Standard
+systemCode,NES
+submissionId,4003
+gameId,27
+gameVersionId,1340
+obsoletedById,
+frames,31329
+rerecordCount,76823
+systemFrameRate,60.0988138974405
+movieFileName,"feos,meshuggahv1-ducktales2.fm3"
+additionalAuthors,
+createTimestamp,2013-07-19T21:42:34
+authors,"['feos', 'MESHUGGAH']"
+tags,"['damage', 'random', 'noeasy']"
+flags,['Verified']
+urls,"['https://archive.org/download/ducktales2-tas-feosmeshuggah/ducktales2-tas-feos%2Cmeshuggah.mkv', 'https://www.youtube.com/watch?v=0w8HclEA4ao', 'https://archive.org/download/ducktales2-tas-feosmeshuggah/ducktales2-tas-feos%2Cmeshuggah_512kb.mp4']"
+filePaths,['2424M.png']
+SHA1,76093EA07A16FDAA8AA58730FD29B4977A264B5E

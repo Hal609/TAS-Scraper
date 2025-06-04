@@ -1,0 +1,25 @@
+,302
+id,3312
+title,NES Attack of the Killer Tomatoes by TASeditor in 06:02.02
+branch,baseline
+goal,baseline
+gameGoalId,1931
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,5354
+gameId,1480
+gameVersionId,2551
+obsoletedById,
+frames,21757
+rerecordCount,90385
+systemFrameRate,60.0988138974405
+movieFileName,taseditorv2-attackofthekillertomatoes.fm2
+additionalAuthors,
+createTimestamp,2017-01-21T11:39:29
+authors,['TASeditor']
+tags,['damage']
+flags,['Atlas']
+urls,"['https://www.youtube.com/watch?v=-RsxpiJIaw4', 'https://archive.org/download/attackofthekillertomatoes-tasv2-taseditor/attackofthekillertomatoes-tasv2-taseditor.mkv', 'https://archive.org/download/attackofthekillertomatoes-tasv2-taseditor/attackofthekillertomatoes-tasv2-taseditor_512kb.mp4']"
+filePaths,['3312M.png']
+SHA1,da40fae301047e33c7be5c3e87c2c0265c1f0751

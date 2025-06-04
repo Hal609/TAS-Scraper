@@ -1,0 +1,25 @@
+,363
+id,3789
+title,"NES Donkey Kong, DK Jr., DK 3 & DK Jr. Math by Cyorter in 01:18.39"
+branch,baseline
+goal,baseline
+gameGoalId,2686
+emulatorVersion,BizHawk 2.3
+class,Alternative
+systemCode,NES
+submissionId,6077
+gameId,2068
+gameVersionId,2406
+obsoletedById,
+frames,4711
+rerecordCount,6799
+systemFrameRate,60.0988138974405
+movieFileName,cyorter-dk_1_jr_3_jrmath.bk2
+additionalAuthors,
+createTimestamp,2018-09-17T01:51:47
+authors,['Cyorter']
+tags,"['demo', 'bigame']"
+flags,[]
+urls,"['https://archive.org/download/dk_1_jr_3_jrmath-quadtas-cyorter/dk_1_jr_3_jrmath-quadtas-cyorter.mkv', 'https://archive.org/download/dk_1_jr_3_jrmath-quadtas-cyorter/dk_1_jr_3_jrmath-quadtas-cyorter_512kb.mp4', 'https://www.youtube.com/watch?v=a5e1AyJdTjA']"
+filePaths,['3789M.png']
+SHA1,d8dfacbfec34cdc871d73c901811551fe1706923

@@ -1,0 +1,25 @@
+,243
+id,2989
+title,NES Valkyrie no Bouken: Toki no Kagi Densetsu by Takanawa in 06:12.35
+branch,baseline
+goal,baseline
+gameGoalId,2407
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4878
+gameId,1714
+gameVersionId,2127
+obsoletedById,
+frames,22378
+rerecordCount,20944
+systemFrameRate,60.0988138974405
+movieFileName,takanawa-valkyrienobouken.fm2
+additionalAuthors,
+createTimestamp,2015-10-20T11:49:29
+authors,['Takanawa']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=XOIZofCM-pQ', 'https://archive.org/download/valkyrienobouken-tas-takanawa/valkyrienobouken-tas-takanawa.mkv', 'https://archive.org/download/valkyrienobouken-tas-takanawa/valkyrienobouken-tas-takanawa_512kb.mp4']"
+filePaths,['2989M.png']
+SHA1,5887BBE2D6458F65F6CBCB7AF309629E7C045F86

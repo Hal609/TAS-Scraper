@@ -1,0 +1,25 @@
+,461
+id,4340
+title,NES Karnov by Arc in 08:38.91
+branch,baseline
+goal,baseline
+gameGoalId,160
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6922
+gameId,89
+gameVersionId,2334
+obsoletedById,
+frames,31186
+rerecordCount,9521
+systemFrameRate,60.0988138974405
+movieFileName,arcv2-karnov.fm2
+additionalAuthors,
+createTimestamp,2020-11-22T09:23:42
+authors,['Arc']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=Yu2BjqiAKuA', 'https://archive.org/download/karnov-tasv2-arc/karnov-tasv2-arc.mkv', 'https://archive.org/download/karnov-tasv2-arc/karnov-tasv2-arc_512kb.mp4']"
+filePaths,['4340M.png']
+SHA1,157329cd7df936c0c0dbe4693e9d2880ce52c878

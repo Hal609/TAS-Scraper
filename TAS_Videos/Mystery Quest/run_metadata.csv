@@ -1,0 +1,25 @@
+,173
+id,2416
+title,NES Mystery Quest by TASeditor in 14:26.09
+branch,baseline
+goal,baseline
+gameGoalId,1900
+emulatorVersion,FCEUX 2.2.1
+class,Standard
+systemCode,NES
+submissionId,4004
+gameId,864
+gameVersionId,317
+obsoletedById,
+frames,52051
+rerecordCount,28205
+systemFrameRate,60.0988138974405
+movieFileName,taseditor-mysteryquest.fm2
+additionalAuthors,
+createTimestamp,2013-07-14T08:35:44
+authors,['TASeditor']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/TaseditorsNesMysteryQuestIn1426.09/mysteryquest-tas-taseditor.mkv', 'https://archive.org/download/TaseditorsNesMysteryQuestIn1426.09/mysteryquest-tas-taseditor_10bit444.mkv', 'https://www.youtube.com/watch?v=JTM3kRiX13I']"
+filePaths,['2416M.png']
+SHA1,0C8C6C2085786131AE8E390560977D3041E49F4C

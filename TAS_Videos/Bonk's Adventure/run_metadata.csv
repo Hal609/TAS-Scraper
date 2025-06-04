@@ -1,0 +1,25 @@
+,364
+id,3814
+title,NES Bonk's Adventure by Memory in 17:07.96
+branch,baseline
+goal,baseline
+gameGoalId,3023
+emulatorVersion,BizHawk 2.2.2
+class,Standard
+systemCode,NES
+submissionId,6126
+gameId,1499
+gameVersionId,1949
+obsoletedById,
+frames,61779
+rerecordCount,119975
+systemFrameRate,60.0988138974405
+movieFileName,memory-bonksadventure-nes.bk2
+additionalAuthors,
+createTimestamp,2018-11-04T18:27:45
+authors,['Memory']
+tags,['damage']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=bbQNuaZ8npQ', 'https://archive.org/download/bonksadventure-nes-tas-memory/bonksadventure-nes-tas-memory.mkv', 'https://archive.org/download/bonksadventure-nes-tas-memory/bonksadventure-nes-tas-memory_512kb.mp4']"
+filePaths,['3814M.png']
+SHA1,776C8DB58D968FFACEC93006C5471787A716EB2A

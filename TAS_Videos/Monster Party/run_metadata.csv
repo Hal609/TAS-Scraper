@@ -1,0 +1,25 @@
+,93
+id,1753
+title,NES Monster Party by Tanooki_Teabag in 14:58.07
+branch,baseline
+goal,baseline
+gameGoalId,244
+emulatorVersion,FCEUX 2.1.4a
+class,Standard
+systemCode,NES
+submissionId,3027
+gameId,746
+gameVersionId,1240
+obsoletedById,
+frames,53973
+rerecordCount,10858
+systemFrameRate,60.0988138974405
+movieFileName,tanookiteabag-monsterparty.fm2
+additionalAuthors,
+createTimestamp,2011-03-10T00:48:48
+authors,['Tanooki_Teabag']
+tags,"['damage', 'warps']"
+flags,[]
+urls,"['https://www.archive.org/download/NesMonsterPartyusaByTanookiTeabagIn1458.07/monsterparty-tas-tanookiteabag.mp4', 'https://www.youtube.com/watch?v=azx0wpwuBoQ']"
+filePaths,['1753M.png']
+SHA1,2bc8244cab439ac20baa4724e8a92748d4e430e1

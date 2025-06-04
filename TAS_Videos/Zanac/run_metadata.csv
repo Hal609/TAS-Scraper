@@ -1,0 +1,25 @@
+,561
+id,4866
+title,NES Zanac by adelikat in 34:00.99
+branch,baseline
+goal,baseline
+gameGoalId,36
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7699
+gameId,179
+gameVersionId,55
+obsoletedById,
+frames,122661
+rerecordCount,11599
+systemFrameRate,60.09885273319081
+movieFileName,adelikatv5-zanac.bk2
+additionalAuthors,
+createTimestamp,2022-10-16T11:32:18.047142
+authors,['adelikat']
+tags,"['death', 'warps']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=VSOeDV5wfLk', 'https://archive.org/download/zanac-tasv5-adelikat/zanac-tasv5-adelikat.mp4']"
+filePaths,['4866M.png']
+SHA1,7D568770DCDA9DFD3E5A898C3A9F4A575533986B

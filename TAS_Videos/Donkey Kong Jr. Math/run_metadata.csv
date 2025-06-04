@@ -1,0 +1,25 @@
+,565
+id,4880
+title,"NES Donkey Kong Jr. Math ""Calculate B"" by ShesChardcore & Cephla in 00:41.28"
+branch,Calculate B
+goal,Calculate B
+gameGoalId,3860
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7711
+gameId,2665
+gameVersionId,2768
+obsoletedById,
+frames,2481
+rerecordCount,2752
+systemFrameRate,60.0988138974405
+movieFileName,"sheschardcore,cephla-donkeykongjrmath-calculateb.zip"
+additionalAuthors,
+createTimestamp,2022-10-28T20:23:16.005323
+authors,"['ShesChardcore', 'Cephla']"
+tags,"['2p', 'death', 'random', 'noeasy']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=7-WMRqXTY3k', 'https://archive.org/download/donkeykongjrmath-tas-calculateb-sheschardcore_marioatwork/donkeykongjrmath-tas-calculateb-sheschardcore_marioatwork.mp4']"
+filePaths,['4880M.png']
+SHA1,F05E358803EE665ACA2F84A34D9010D01E604B2B

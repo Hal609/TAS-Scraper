@@ -1,0 +1,25 @@
+,317
+id,3393
+title,NES Circus Caper by DrD2k9 in 07:03.75
+branch,baseline
+goal,baseline
+gameGoalId,2658
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,5471
+gameId,1846
+gameVersionId,1207
+obsoletedById,
+frames,25467
+rerecordCount,13205
+systemFrameRate,60.0988138974405
+movieFileName,drd2k9v2-circuscaper.fm3
+additionalAuthors,
+createTimestamp,2017-05-13T19:54:19
+authors,['DrD2k9']
+tags,"['damage', 'bugs']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=P5nN4jJ0nKs', 'https://archive.org/download/circuscaper-tasv2-drd2k9/circuscaper-tasv2-drd2k9.mkv', 'https://archive.org/download/circuscaper-tasv2-drd2k9/circuscaper-tasv2-drd2k9_512kb.mp4']"
+filePaths,['3393M.png']
+SHA1,43E94E0EB5C9F568AE78149963A9118506BFDF9D

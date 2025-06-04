@@ -1,0 +1,25 @@
+,843
+id,6460
+title,"NES Hokuto no Ken 4: Shichisei Haken Den — Hokuto Shinken no Kanata e ""game end glitch"" by TaoTao in 07:14.52"
+branch,game end glitch
+goal,game end glitch
+gameGoalId,8481
+emulatorVersion,BizHawk 2.10
+class,Standard
+systemCode,NES
+submissionId,9571
+gameId,4699
+gameVersionId,5593
+obsoletedById,
+frames,26114
+rerecordCount,4067
+systemFrameRate,60.0988138974405
+movieFileName,taotao-hokutonoken4shichiseihakendenhokutoshinkennokanatae-gameendglitch.bk2
+additionalAuthors,
+createTimestamp,2025-03-25T14:25:19.737477
+authors,['TaoTao']
+tags,"['warpbug', 'skipboss', 'bugs', 'rambugs']"
+flags,['Commentary']
+urls,"['https://www.youtube.com/watch?v=Syy6gxabprw', 'https://archive.org/download/hokutonoken4shichiseihakendenhokutoshinkennokanatae-tas-gameendglitch-taotao/hokutonoken4shichiseihakendenhokutoshinkennokanatae-tas-gameendglitch-taotao.mp4']"
+filePaths,['6460M.png']
+SHA1,8272ea411a97eb9c30a42a6d33fef50cd7940374

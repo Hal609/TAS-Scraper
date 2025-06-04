@@ -1,0 +1,25 @@
+,806
+id,6243
+title,"NES Gimmick! by Samsara, web2000, negative_seven, SBDWolf, Aglar & Hotarubi in 04:12.38"
+branch,baseline
+goal,baseline
+gameGoalId,21
+emulatorVersion,FCEUX 2.6.1
+class,Standard
+systemCode,NES
+submissionId,9341
+gameId,102
+gameVersionId,2365
+obsoletedById,
+frames,15168
+rerecordCount,45681
+systemFrameRate,60.0988138974405
+movieFileName,"samsara,web2000,negativeseven,sbdwolf,aglar,hotarubi-gimmick.fm2"
+additionalAuthors,
+createTimestamp,2024-10-29T08:02:01.687145
+authors,"['Samsara', 'web2000', 'negative_seven', 'SBDWolf', 'Aglar', 'Hotarubi']"
+tags,"['death', 'damage', 'bugs']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=KjBE4SIQNo8', 'https://archive.org/download/gimmick-tas-samsara_web2000_negativeseven_sbdwolf_aglar_hotarubi/gimmick-tas-samsara_web2000_negativeseven_sbdwolf_aglar_hotarubi.mp4']"
+filePaths,['6243M.png']
+SHA1,835FEE060B15700163A1F8AD9716A163BF79C8FD

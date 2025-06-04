@@ -1,0 +1,25 @@
+,289
+id,3249
+title,NES The Bugs Bunny Birthday Blowout by fcxiaopengyou in 25:44.26
+branch,baseline
+goal,baseline
+gameGoalId,1331
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,5262
+gameId,754
+gameVersionId,2655
+obsoletedById,
+frames,92808
+rerecordCount,31147
+systemFrameRate,60.0988138974405
+movieFileName,fcxiaopengyou-bugsbunnybirthdayblowout.fm2
+additionalAuthors,
+createTimestamp,2016-10-31T12:31:07
+authors,['fcxiaopengyou']
+tags,['damage']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=T6fQ3FSJg44', 'https://archive.org/download/bugsbunnybirthdayblowout-tas-fcxiaopengyou/bugsbunnybirthdayblowout-tas-fcxiaopengyou.mkv', 'https://archive.org/download/bugsbunnybirthdayblowout-tas-fcxiaopengyou/bugsbunnybirthdayblowout-tas-fcxiaopengyou_512kb.mp4']"
+filePaths,['3249M.png']
+SHA1,1fa4f11f5a5b39e0f9ac4323e681a07cab9b80c9

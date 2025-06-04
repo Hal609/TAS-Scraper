@@ -1,0 +1,25 @@
+,146
+id,2178
+title,NES Rainbow Islands: The Story of Bubble Bobble 2 by X2poet in 14:52.53
+branch,baseline
+goal,baseline
+gameGoalId,1518
+emulatorVersion,FCEU 0.98.26
+class,Standard
+systemCode,NES
+submissionId,3008
+gameId,888
+gameVersionId,211
+obsoletedById,
+frames,53640
+rerecordCount,10748
+systemFrameRate,60.0988138974405
+movieFileName,x2poet-bubblebobble2-nodiamond.fm2
+additionalAuthors,
+createTimestamp,2012-11-30T17:55:56
+authors,['X2poet']
+tags,[]
+flags,['Verified']
+urls,"['https://archive.org/download/NesRainbowIslands-TheStoryOfBubbleBobble2noDiamondIn1452.53By/bubblebobble2-tas-x2poet.mkv', 'https://archive.org/download/NesRainbowIslands-TheStoryOfBubbleBobble2noDiamondIn1452.53By/bubblebobble2-tas-x2poet_10bit444.mkv', 'https://www.youtube.com/watch?v=VHnu4Q5qULo']"
+filePaths,['2178M.png']
+SHA1,FFD2213439AA3818E88215FAC318B15616F9E894

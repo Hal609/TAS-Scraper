@@ -1,0 +1,25 @@
+,217
+id,2789
+title,NES BreakThru by MESHUGGAH in 06:35.65
+branch,baseline
+goal,baseline
+gameGoalId,337
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4581
+gameId,1080
+gameVersionId,1759
+obsoletedById,
+frames,23778
+rerecordCount,22275
+systemFrameRate,60.0988138974405
+movieFileName,meshuggah-breakthru.fm2
+additionalAuthors,
+createTimestamp,2015-02-17T18:46:43
+authors,['MESHUGGAH']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=OTdIDw1Ar9M', 'https://archive.org/download/breakthru-tas-meshuggah/breakthru-tas-meshuggah.mkv', 'https://archive.org/download/breakthru-tas-meshuggah/breakthru-tas-meshuggah_512kb.mp4']"
+filePaths,['2789M.png']
+SHA1,f21d03e1522741399ba5c11abbe96e8cf4889b88

@@ -1,0 +1,25 @@
+,371
+id,3868
+title,NES The Krion Conquest by klmz in 12:12.74
+branch,baseline
+goal,baseline
+gameGoalId,288
+emulatorVersion,FCEUX 2.1.6
+class,Standard
+systemCode,NES
+submissionId,6199
+gameId,201
+gameVersionId,2694
+obsoletedById,
+frames,44037
+rerecordCount,103548
+systemFrameRate,60.0988138974405
+movieFileName,klmz-thekrionconquest.fm2
+additionalAuthors,
+createTimestamp,2018-12-26T22:43:50
+authors,['klmz']
+tags,"['death', 'damage', 'bugs']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=u2vkWNyvPI0', 'https://archive.org/download/thekrionconquest-tas-klmz/thekrionconquest-tas-klmz.mkv', 'https://archive.org/download/thekrionconquest-tas-klmz/thekrionconquest-tas-klmz_512kb.mp4']"
+filePaths,['3868M.png']
+SHA1,8887894D6E4443A0EE4C35362779C7625A4CF68E

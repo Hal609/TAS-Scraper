@@ -1,0 +1,25 @@
+,67
+id,1421
+title,NES Wizardry: The Knight of Diamonds by MiezaruMono in 01:11.32
+branch,baseline
+goal,baseline
+gameGoalId,936
+emulatorVersion,FCEUX 2.1.2
+class,Standard
+systemCode,NES
+submissionId,2499
+gameId,549
+gameVersionId,100
+obsoletedById,
+frames,4286
+rerecordCount,165278
+systemFrameRate,60.0988138974405
+movieFileName,miezarumonov2-wizardry.fm2
+additionalAuthors,
+createTimestamp,2009-12-22T04:41:37
+authors,['MiezaruMono']
+tags,['random']
+flags,[]
+urls,"['https://www.archive.org/download/234534234567/wizardry-theknightofdiamonds-tasv2-miezarumono.mkv', 'https://www.youtube.com/watch?v=tUeiWZ2Kkc4']"
+filePaths,['wizardry_2499.png']
+SHA1,74F9D4BCBDB81A389B7E11E4EB06F699CFD3A9B9

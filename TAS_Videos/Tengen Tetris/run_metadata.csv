@@ -1,0 +1,25 @@
+,424
+id,4162
+title,"NES Tengen Tetris ""Cooperative, 30 lines"" by anonymous user in 00:19.44"
+branch,"Cooperative, 30 lines"
+goal,"Cooperative, 30 lines"
+gameGoalId,3418
+emulatorVersion,BizHawk 2.4
+class,Standard
+systemCode,NES
+submissionId,6693
+gameId,1168
+gameVersionId,2708
+obsoletedById,
+frames,1168
+rerecordCount,6586
+systemFrameRate,60.09776177000257
+movieFileName,anonymous_user-tengentetris-coop.zip
+additionalAuthors,anonymous user
+createTimestamp,2020-04-14T06:53:45
+authors,[]
+tags,"['2p', '1level', 'password']"
+flags,['Verified']
+urls,"['https://archive.org/download/tengentetris-tas-coop-anonymoususer/tengentetris-tas-coop-anonymoususer.mkv', 'https://archive.org/download/tengentetris-tas-coop-anonymoususer/tengentetris-tas-coop-anonymoususer_512kb.mp4', 'https://www.youtube.com/watch?v=JB5pOI-VrD4']"
+filePaths,['4162M.png']
+SHA1,34113A102CCFFF6A859F8EBB66C24260D43EC7AB

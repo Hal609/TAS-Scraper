@@ -1,0 +1,25 @@
+,206
+id,2683
+title,NES Trojan by MESHUGGAH in 06:14.33
+branch,baseline
+goal,baseline
+gameGoalId,146
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4422
+gameId,74
+gameVersionId,1160
+obsoletedById,
+frames,22497
+rerecordCount,64897
+systemFrameRate,60.0988138974405
+movieFileName,meshuggah-trojan.fm2
+additionalAuthors,
+createTimestamp,2014-09-08T14:28:10
+authors,['MESHUGGAH']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/trojan-tas-meshuggah/trojan-tas-meshuggah.mkv', 'https://archive.org/download/trojan-tas-meshuggah/trojan-tas-meshuggah_512kb.mp4', 'https://www.youtube.com/watch?v=SpitLSpRGLA']"
+filePaths,['2683M.png']
+SHA1,647BB7FDCF9C37E36F744713C44665BFD9D26AA5

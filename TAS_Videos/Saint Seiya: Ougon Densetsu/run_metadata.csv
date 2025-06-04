@@ -1,0 +1,25 @@
+,705
+id,5473
+title,NES Saint Seiya: Ougon Densetsu by eien86 & TaoTao in 21:16.63
+branch,baseline
+goal,baseline
+gameGoalId,530
+emulatorVersion,BizHawk 2.9
+class,Standard
+systemCode,NES
+submissionId,8478
+gameId,1073
+gameVersionId,1350
+obsoletedById,
+frames,76724
+rerecordCount,19670
+systemFrameRate,60.0988138974405
+movieFileName,"eien86,taotao-saintseiyaougondensetsu.bk2"
+additionalAuthors,
+createTimestamp,2023-08-04T11:49:01.461914
+authors,"['eien86', 'TaoTao']"
+tags,"['damage', 'warpbug', 'rambugs']"
+flags,"['Commentary', 'SensitivityWarning']"
+urls,"['https://www.youtube.com/watch?v=SQkh8P856U0', 'https://archive.org/download/saintseiyaougondensetsu-tas-eien86_taotao/saintseiyaougondensetsu-tas-eien86_taotao.mp4']"
+filePaths,['5473M.png']
+SHA1,2ab12d5520a6ce5bb97c2129990a63c135a82bd7

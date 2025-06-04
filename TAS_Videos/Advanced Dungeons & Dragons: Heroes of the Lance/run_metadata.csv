@@ -1,0 +1,25 @@
+,444
+id,4252
+title,NES Advanced Dungeons & Dragons: Heroes of the Lance by Arc & ktwo in 05:35.90
+branch,baseline
+goal,baseline
+gameGoalId,302
+emulatorVersion,BizHawk 2.4.2
+class,Standard
+systemCode,NES
+submissionId,6803
+gameId,865
+gameVersionId,1050
+obsoletedById,
+frames,20187
+rerecordCount,2560
+systemFrameRate,60.0988138974405
+movieFileName,"arc,ktwov2-advanceddungeonsanddragonshotl.bk2"
+additionalAuthors,
+createTimestamp,2020-08-01T08:57:30
+authors,"['Arc', 'ktwo']"
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=nzAMFfmvfME', 'https://archive.org/download/advanceddungeonsanddragonshotl-tasv2-arc_ktwo/advanceddungeonsanddragonshotl-tasv2-arc_ktwo.mkv', 'https://archive.org/download/advanceddungeonsanddragonshotl-tasv2-arc_ktwo/advanceddungeonsanddragonshotl-tasv2-arc_ktwo_512kb.mp4']"
+filePaths,['4252M.png']
+SHA1,D9328B02916D365C97ED21074333257968E55F91

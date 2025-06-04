@@ -1,0 +1,25 @@
+,110
+id,1930
+title,NES Zen: Intergalactic Ninja by feos in 11:34.21
+branch,baseline
+goal,baseline
+gameGoalId,837
+emulatorVersion,FCEUX 2.1.6
+class,Standard
+systemCode,NES
+submissionId,3386
+gameId,478
+gameVersionId,905
+obsoletedById,
+frames,41721
+rerecordCount,16207
+systemFrameRate,60.0988138974405
+movieFileName,feos-zenintergalacticninja.fm2
+additionalAuthors,
+createTimestamp,2011-12-09T05:31:35
+authors,['feos']
+tags,['damage']
+flags,['Atlas']
+urls,"['https://archive.org/download/zenintergalacticninja-tas-feos/zenintergalacticninja-tas-feos.mkv', 'https://archive.org/download/zenintergalacticninja-tas-feos/zenintergalacticninja-tas-feos_512kb.mp4', 'https://www.youtube.com/watch?v=pO468xy41UU']"
+filePaths,['1930M.png']
+SHA1,B230FFDD6FBE0180C48F181DE792A7321B582273

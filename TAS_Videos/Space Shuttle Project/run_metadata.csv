@@ -1,0 +1,25 @@
+,431
+id,4205
+title,NES Space Shuttle Project by link_7777 in 54:30.01
+branch,baseline
+goal,baseline
+gameGoalId,3451
+emulatorVersion,BizHawk 2.4
+class,Standard
+systemCode,NES
+submissionId,6743
+gameId,2227
+gameVersionId,1731
+obsoletedById,
+frames,196524
+rerecordCount,10792
+systemFrameRate,60.0988138974405
+movieFileName,link_7777-spaceshuttleproject.bk2
+additionalAuthors,
+createTimestamp,2020-06-09T15:29:28
+authors,['link_7777']
+tags,['death']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=vUvNxthIbSw', 'https://archive.org/download/spaceshuttleproject-tas-link_7777/spaceshuttleproject-tas-link_7777.mkv', 'https://archive.org/download/spaceshuttleproject-tas-link_7777/spaceshuttleproject-tas-link_7777_512kb.mp4']"
+filePaths,['4205M.png']
+SHA1,0066DABBFC1E67502B4A28BB46C9F37D7D01C4C2

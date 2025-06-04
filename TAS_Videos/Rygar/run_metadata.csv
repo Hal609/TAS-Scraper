@@ -1,0 +1,25 @@
+,79
+id,1578
+title,"NES Rygar ""no items"" by Cardboard in 06:08.74"
+branch,no items
+goal,no items
+gameGoalId,4922
+emulatorVersion,FCEUX 2.1.4a
+class,Alternative
+systemCode,NES
+submissionId,2743
+gameId,29
+gameVersionId,3663
+obsoletedById,
+frames,22161
+rerecordCount,13306
+systemFrameRate,60.0988138974405
+movieFileName,cardboard-rygar0p.fm2
+additionalAuthors,
+createTimestamp,2010-07-28T03:39:01
+authors,['Cardboard']
+tags,"['nofull', 'death', 'damage', 'warpbug', 'bugs']"
+flags,['Verified']
+urls,"['https://www.archive.org/download/CardboardsNesRygar0In0608.74/rygar-tas-0p-cardboard.mp4', 'https://www.youtube.com/watch?v=yltjOY_0JR0']"
+filePaths,['1578M.png']
+SHA1,A495DD96E798DEE9CE14BCCA7B6B44E93280DB50

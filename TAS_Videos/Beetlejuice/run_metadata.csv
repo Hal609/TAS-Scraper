@@ -1,0 +1,25 @@
+,662
+id,5272
+title,NES Beetlejuice by ktwo in 07:11.07
+branch,baseline
+goal,baseline
+gameGoalId,2618
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,8262
+gameId,1825
+gameVersionId,1534
+obsoletedById,
+frames,25907
+rerecordCount,42067
+systemFrameRate,60.0988138974405
+movieFileName,ktwo[4]-beetlejuice-nes.bk2
+additionalAuthors,
+createTimestamp,2023-05-14T18:40:31.926107
+authors,['ktwo']
+tags,"['death', 'damage', 'warps', 'bugs']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=g6BR84VXYnw', 'https://archive.org/download/beetlejuice-nes-tasv4-ktwo/beetlejuice-nes-tasv4-ktwo.mp4']"
+filePaths,['5272M.png']
+SHA1,CD3C92B7C27940C53DA8ED11B905048AF439942A

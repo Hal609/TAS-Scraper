@@ -1,0 +1,25 @@
+,417
+id,4134
+title,NES The Mutant Virus: Crisis in a Computer World by link_7777 in 17:57.21
+branch,baseline
+goal,baseline
+gameGoalId,3387
+emulatorVersion,Bizhawk 2.3.2
+class,Standard
+systemCode,NES
+submissionId,6642
+gameId,2199
+gameVersionId,1430
+obsoletedById,
+frames,64739
+rerecordCount,52990
+systemFrameRate,60.0988138974405
+movieFileName,link_7777-mutantvirusciacw.bk2
+additionalAuthors,
+createTimestamp,2020-03-17T14:33:30
+authors,['link_7777']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=P0vEkGW33LU', 'https://archive.org/download/mutantvirusciacw-tas-link_7777/mutantvirusciacw-tas-link_7777.mkv', 'https://archive.org/download/mutantvirusciacw-tas-link_7777/mutantvirusciacw-tas-link_7777_512kb.mp4']"
+filePaths,['4134M.png']
+SHA1,C301368AE8B92DE2DCA9CE707BBB150694A157DF

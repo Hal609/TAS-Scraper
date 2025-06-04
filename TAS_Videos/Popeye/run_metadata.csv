@@ -1,0 +1,25 @@
+,157
+id,2251
+title,NES Popeye by MESHUGGAH in 03:30.90
+branch,baseline
+goal,baseline
+gameGoalId,377
+emulatorVersion,FCEUX 2.2.0
+class,Standard
+systemCode,NES
+submissionId,3777
+gameId,871
+gameVersionId,248
+obsoletedById,
+frames,12675
+rerecordCount,59483
+systemFrameRate,60.0988138974405
+movieFileName,meshuggah1-popeye.fm2
+additionalAuthors,
+createTimestamp,2013-01-02T01:18:41
+authors,['MESHUGGAH']
+tags,[]
+flags,[]
+urls,"['https://archive.org/download/IlariEncodingTASVideosMovies2/popeye-tas-meshuggah.mkv', 'https://archive.org/download/IlariEncodingTASVideosMovies2/popeye-tas-meshuggah_10bit444.mkv', 'https://www.youtube.com/watch?v=77pB__RCb-A']"
+filePaths,['2251M.png']
+SHA1,E8851455AD5B7D22F2FDC495E1C1A94D82ADE7DD

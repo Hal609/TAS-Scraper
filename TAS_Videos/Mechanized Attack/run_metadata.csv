@@ -1,0 +1,25 @@
+,448
+id,4261
+title,NES Mechanized Attack by XTREMAL93 in 09:56.83
+branch,baseline
+goal,baseline
+gameGoalId,3478
+emulatorVersion,BizHawk 2.4.2
+class,Standard
+systemCode,NES
+submissionId,6810
+gameId,2244
+gameVersionId,2595
+obsoletedById,
+frames,35869
+rerecordCount,5944
+systemFrameRate,60.0988138974405
+movieFileName,xtremal93-mechanizedattack.bk2
+additionalAuthors,
+createTimestamp,2020-08-09T11:25:44
+authors,['XTREMAL93']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=Cw4SWz4f75U', 'https://archive.org/download/mechanizedattack-tas-xtremal93/mechanizedattack-tas-xtremal93.mkv', 'https://archive.org/download/mechanizedattack-tas-xtremal93/mechanizedattack-tas-xtremal93_512kb.mp4']"
+filePaths,['4261M.png']
+SHA1,7AC704367A42EE41EEE838A2CC0A520CBAED77AA

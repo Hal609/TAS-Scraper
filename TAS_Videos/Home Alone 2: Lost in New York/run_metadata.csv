@@ -1,0 +1,25 @@
+,680
+id,5356
+title,NES Home Alone 2: Lost in New York by ScarfaceNico & Tompa in 06:31.85
+branch,baseline
+goal,baseline
+gameGoalId,1321
+emulatorVersion,BizHawk 2.7
+class,Standard
+systemCode,NES
+submissionId,8352
+gameId,1158
+gameVersionId,230
+obsoletedById,
+frames,23550
+rerecordCount,35947
+systemFrameRate,60.0988138974405
+movieFileName,"scarfacenico,tompa-homealone2lostinnewyork-nes.bk2"
+additionalAuthors,
+createTimestamp,2023-06-21T15:50:50.921782
+authors,"['ScarfaceNico', 'Tompa']"
+tags,"['damage', 'warps']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=-Da7vkKGs20', 'https://archive.org/download/homealone2lostinnewyork-nes-tas-scarfacenico_tompa/homealone2lostinnewyork-nes-tas-scarfacenico_tompa.mp4']"
+filePaths,['5356M.png']
+SHA1,99E049B3855D445042E563ACB4897796F76F484C

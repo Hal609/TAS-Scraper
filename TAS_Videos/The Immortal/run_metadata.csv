@@ -1,0 +1,25 @@
+,378
+id,3923
+title,NES The Immortal by DrD2k9 in 09:25.37
+branch,baseline
+goal,baseline
+gameGoalId,2744
+emulatorVersion,BizHawk 2.3.1
+class,Standard
+systemCode,NES
+submissionId,6288
+gameId,1920
+gameVersionId,1805
+obsoletedById,
+frames,33978
+rerecordCount,8436
+systemFrameRate,60.0988138974405
+movieFileName,drd2k9v2-theimmortal.bk2
+additionalAuthors,
+createTimestamp,2019-03-21T18:45:56
+authors,['DrD2k9']
+tags,[]
+flags,['Atlas']
+urls,"['https://www.youtube.com/watch?v=21lNjGrhn7M', 'https://archive.org/download/theimmortal-tasv2-drd2k9/theimmortal-tasv2-drd2k9.mkv', 'https://archive.org/download/theimmortal-tasv2-drd2k9/theimmortal-tasv2-drd2k9_512kb.mp4']"
+filePaths,['3923M.png']
+SHA1,E8E8120F4DB2EB26549B04634B13A1ABF5A6F3D3

@@ -1,0 +1,25 @@
+,832
+id,6397
+title,NES Star Wars: The Empire Strikes Back by link_7777 in 10:42.96
+branch,baseline
+goal,baseline
+gameGoalId,1479
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,9528
+gameId,808
+gameVersionId,1734
+obsoletedById,
+frames,38641
+rerecordCount,112963
+systemFrameRate,60.0988138974405
+movieFileName,link7777[2]-starwarstheempirestrikesback-nes-.bk2
+additionalAuthors,
+createTimestamp,2025-02-22T07:26:42.817669
+authors,['link_7777']
+tags,"['damage', 'bugs']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=Q16fN-Kz5Tg', 'https://archive.org/download/starwarstheempirestrikesback-nes-tasv2-link7777/starwarstheempirestrikesback-nes-tasv2-link7777.mp4']"
+filePaths,['6397M.png']
+SHA1,d6d5abc2477fb25e8f95dbea0110422400b88dfe

@@ -1,0 +1,25 @@
+,530
+id,4739
+title,"NES Darkwing Duck by DreamYao, J.Y & aiqiyou in 10:43.11"
+branch,baseline
+goal,baseline
+gameGoalId,142
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,7523
+gameId,69
+gameVersionId,710
+obsoletedById,
+frames,38650
+rerecordCount,221816
+systemFrameRate,60.0988138974405
+movieFileName,"dreamyao,jy,aiqiyou-darkwingduck-nes.fm2"
+additionalAuthors,
+createTimestamp,2022-06-24T17:37:27.564658
+authors,"['DreamYao', 'J.Y', 'aiqiyou']"
+tags,"['damage', 'random']"
+flags,"['Verified', 'stars']"
+urls,"['https://www.youtube.com/watch?v=JXw2ZcBOgGE', 'https://archive.org/download/darkwingduck-nes-tas-dreamyao_jy_aiqiyou/darkwingduck-nes-tas-dreamyao_jy_aiqiyou.mp4']"
+filePaths,['4739M.png']
+SHA1,7188D8CE3D8D2A0DCD7B10FBC23A6F84FA9C4161

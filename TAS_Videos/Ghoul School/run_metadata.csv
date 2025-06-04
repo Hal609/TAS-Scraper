@@ -1,0 +1,25 @@
+,80
+id,1587
+title,NES Ghoul School by andrewg in 04:02.73
+branch,baseline
+goal,baseline
+gameGoalId,881
+emulatorVersion,FCEUX 2.1.1-interim
+class,Standard
+systemCode,NES
+submissionId,2748
+gameId,505
+gameVersionId,2343
+obsoletedById,
+frames,14588
+rerecordCount,10347
+systemFrameRate,60.0988138974405
+movieFileName,andrewg-ghoulschool.fm2
+additionalAuthors,
+createTimestamp,2010-08-03T07:09:30
+authors,['andrewg']
+tags,"['damage', 'bugs']"
+flags,"['Verified', 'SensitivityWarning']"
+urls,"['https://www.archive.org/download/NesGhoulSchoolIn0409.53ByAndrewg/ghoulschool-tas-andrewg.mkv', 'https://www.youtube.com/watch?v=pKTrzW2383s']"
+filePaths,['ghoulschool_2748.png']
+SHA1,3774BBA926B79382F413ED911E985BAEA4160DE9

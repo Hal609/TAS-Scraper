@@ -1,0 +1,25 @@
+,82
+id,1625
+title,NES Felix the Cat by Randil in 22:29.01
+branch,baseline
+goal,baseline
+gameGoalId,23
+emulatorVersion,FCEU 0.98.28
+class,Standard
+systemCode,NES
+submissionId,2831
+gameId,103
+gameVersionId,118
+obsoletedById,
+frames,81074
+rerecordCount,11880
+systemFrameRate,60.0988138974405
+movieFileName,randilv2-felixthecat.fm2
+additionalAuthors,
+createTimestamp,2010-09-20T16:23:39
+authors,['Randil']
+tags,['damage']
+flags,['Atlas']
+urls,"['https://www.archive.org/download/NesFelixTheCatIn2229.01/felixthecat-tasv2-randil.mp4', 'https://www.youtube.com/watch?v=CK6iED8wD9I']"
+filePaths,['ftc002.png']
+SHA1,D98426B4955AE9EC4FEAEDB2538AAB35B8209C06

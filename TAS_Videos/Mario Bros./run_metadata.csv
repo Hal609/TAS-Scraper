@@ -1,0 +1,25 @@
+,777
+id,6017
+title,"NES Mario Bros. ""1 player"" by Spikestuff in 07:39.79"
+branch,1 player
+goal,1 player
+gameGoalId,2623
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,5289
+gameId,1329
+gameVersionId,436
+obsoletedById,
+frames,27633
+rerecordCount,11351
+systemFrameRate,60.0988138974405
+movieFileName,spikestuff-mariobros-nes-1player.fm2
+additionalAuthors,
+createTimestamp,2024-06-26T21:25:44.402756
+authors,['Spikestuff']
+tags,"['just1p', 'bugs', 'random', 'noeasy']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=3CplNMIjq18', 'https://archive.org/download/mariobros-nes-tas-1player-spikestuff/mariobros-nes-tas-1player-spikestuff.mp4']"
+filePaths,['6017M.png']
+SHA1,3DE299058D7DDCED4C43A14A9898150F2467A756

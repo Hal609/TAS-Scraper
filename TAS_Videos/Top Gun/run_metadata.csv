@@ -1,0 +1,25 @@
+,145
+id,2177
+title,NES Top Gun by TrenchAce in 26:33.46
+branch,baseline
+goal,baseline
+gameGoalId,1740
+emulatorVersion,FCEUX 2.1.5
+class,Standard
+systemCode,NES
+submissionId,3758
+gameId,1163
+gameVersionId,212
+obsoletedById,
+frames,95765
+rerecordCount,854
+systemFrameRate,60.0988138974405
+movieFileName,trenchace1-topgun.fm2
+additionalAuthors,
+createTimestamp,2012-11-30T04:29:33
+authors,['TrenchAce']
+tags,[]
+flags,['Verified']
+urls,"['https://archive.org/download/IlariEncodingTASVideosMovies2/topgun-tas-trenchace.mkv', 'https://archive.org/download/IlariEncodingTASVideosMovies2/topgun-tas-trenchace_10bit444.mkv', 'https://www.youtube.com/watch?v=FreOqkSiVEM']"
+filePaths,['2177M.png']
+SHA1,D144A1E16646CC52F0D5CA06DDED7EF385CD1AC2

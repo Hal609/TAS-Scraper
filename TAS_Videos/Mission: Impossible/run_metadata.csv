@@ -1,0 +1,25 @@
+,276
+id,3178
+title,NES Mission: Impossible by Zakem66 in 23:27.52
+branch,baseline
+goal,baseline
+gameGoalId,2194
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,5165
+gameId,994
+gameVersionId,2454
+obsoletedById,
+frames,84590
+rerecordCount,38432
+systemFrameRate,60.0988138974405
+movieFileName,zakem66-missionimpossible.fm2
+additionalAuthors,
+createTimestamp,2016-07-17T10:19:28
+authors,['Zakem66']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=UHoNPIFJ-D0', 'https://archive.org/download/missionimpossible-tas-zakem66/missionimpossible-tas-zakem66.mkv', 'https://archive.org/download/missionimpossible-tas-zakem66/missionimpossible-tas-zakem66_512kb.mp4']"
+filePaths,['3178M.png']
+SHA1,EACD57547DF701791D3B73F6DF26B9F1B89452F1

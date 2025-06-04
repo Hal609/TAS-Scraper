@@ -1,0 +1,25 @@
+,101
+id,1825
+title,NES Pinball Quest by Aqfaq in 03:39.52
+branch,baseline
+goal,baseline
+gameGoalId,492
+emulatorVersion,FCEUX 2.1.4a
+class,Standard
+systemCode,NES
+submissionId,3175
+gameId,338
+gameVersionId,412
+obsoletedById,
+frames,13193
+rerecordCount,7157
+systemFrameRate,60.0988138974405
+movieFileName,aqfaq-pinballquest.fm2
+additionalAuthors,
+createTimestamp,2011-06-17T23:42:50
+authors,['Aqfaq']
+tags,[]
+flags,[]
+urls,"['https://archive.org/download/pinballquest-tas-aqfaq/pinballquest-tas-aqfaq.mkv', 'https://archive.org/download/pinballquest-tas-aqfaq/pinballquest-tas-aqfaq_512kb.mp4', 'https://www.youtube.com/watch?v=rOqjUZBqcoA']"
+filePaths,['1825M.png']
+SHA1,1C99DDD0A0ADDF875DADFFCF899FF4D8C5BE953E

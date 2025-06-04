@@ -1,0 +1,25 @@
+,557
+id,4852
+title,"NES Puss 'n Boots: Pero's Great Adventure by EZGames69, ShesChardcore, feos, ThunderAxe31 & Samsara in 06:57.61"
+branch,baseline
+goal,baseline
+gameGoalId,2505
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7664
+gameId,2468
+gameVersionId,608
+obsoletedById,
+frames,25098
+rerecordCount,13875
+systemFrameRate,60.0988138974405
+movieFileName,"ezgames69,sheschardcore,feos,thunderaxe31,samsara-pussnbootsperosgreatadventure.bk2"
+additionalAuthors,
+createTimestamp,2022-10-03T11:51:08.61681
+authors,"['EZGames69', 'ShesChardcore', 'feos', 'ThunderAxe31', 'Samsara']"
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=REcSlMeOb2s', 'https://archive.org/download/pussnbootsperosgreatadventure-tas-ezgames69_sheschardcore_feos_thunderaxe31_samsara/pussnbootsperosgreatadventure-tas-ezgames69_sheschardcore_feos_thunderaxe31_samsara.mp4']"
+filePaths,['4852M.png']
+SHA1,6bbf9464374e5486c644f2aee6c775965de987c6

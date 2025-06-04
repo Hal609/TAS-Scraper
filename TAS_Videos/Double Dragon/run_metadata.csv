@@ -1,0 +1,25 @@
+,283
+id,3211
+title,NES Double Dragon by Alyosha in 08:50.28
+branch,baseline
+goal,baseline
+gameGoalId,122
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,5207
+gameId,50
+gameVersionId,2591
+obsoletedById,
+frames,31869
+rerecordCount,45487
+systemFrameRate,60.0988138974405
+movieFileName,alyosha-doubledragon.fm2
+additionalAuthors,
+createTimestamp,2016-09-03T11:24:08
+authors,['Alyosha']
+tags,"['death', 'damage']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=o4VRTjSgV6A', 'https://archive.org/download/doubledragon-tas-alyosha/doubledragon-tas-alyosha_512kb.mp4', 'https://archive.org/download/doubledragon-tas-alyosha/doubledragon-tas-alyosha.mkv']"
+filePaths,['3211M.png']
+SHA1,84698B12F4E56A37C67BB47359758124C9B012BB

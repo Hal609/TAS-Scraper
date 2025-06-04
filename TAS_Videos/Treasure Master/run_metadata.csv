@@ -1,0 +1,25 @@
+,198
+id,2635
+title,NES Treasure Master by Samsara & micro500 in 19:15.80
+branch,baseline
+goal,baseline
+gameGoalId,1105
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4356
+gameId,1247
+gameVersionId,1613
+obsoletedById,
+frames,69462
+rerecordCount,7917
+systemFrameRate,60.0988138974405
+movieFileName,"samsara,micro500-treasuremaster.fm2"
+additionalAuthors,
+createTimestamp,2014-07-10T14:30:56
+authors,"['Samsara', 'micro500']"
+tags,"['bestending', 'death', 'damage', 'bugs']"
+flags,[]
+urls,"['https://archive.org/download/treasuremaster-tas-samsara_micro500/treasuremaster-tas-samsara_micro500.mkv', 'https://archive.org/download/treasuremaster-tas-samsara_micro500/treasuremaster-tas-samsara_micro500_512kb.mp4', 'https://www.youtube.com/watch?v=oaTvcgT59b8']"
+filePaths,['2635M.png']
+SHA1,c7f9d0502dd0f57789c7d802a6b69722edeb9c57

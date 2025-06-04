@@ -1,0 +1,25 @@
+,269
+id,3139
+title,NES The Adventures of Bayou Billy by Xipo in 16:07.77
+branch,baseline
+goal,baseline
+gameGoalId,256
+emulatorVersion,FCEU 0.98.28
+class,Standard
+systemCode,NES
+submissionId,5114
+gameId,169
+gameVersionId,2198
+obsoletedById,
+frames,58162
+rerecordCount,56727
+systemFrameRate,60.0988138974405
+movieFileName,xipo2-adventuresofbayoubilly.fm2
+additionalAuthors,
+createTimestamp,2016-05-21T05:02:58
+authors,['Xipo']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=Xo9xogG04WU', 'https://archive.org/download/adventuresofbayoubilly-tasv2-xipo/adventuresofbayoubilly-tasv2-xipo.mkv', 'https://archive.org/download/adventuresofbayoubilly-tasv2-xipo/adventuresofbayoubilly-tasv2-xipo_512kb.mp4']"
+filePaths,['3139M.png']
+SHA1,7EBCFDC5CEBFCD64BB371EDE1AF42E1B36A7E3E1

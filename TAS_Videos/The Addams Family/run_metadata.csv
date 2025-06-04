@@ -1,0 +1,25 @@
+,575
+id,4904
+title,NES The Addams Family by ktwo in 10:46.97
+branch,baseline
+goal,baseline
+gameGoalId,137
+emulatorVersion,BizHawk 2.7
+class,Standard
+systemCode,NES
+submissionId,7729
+gameId,65
+gameVersionId,1010
+obsoletedById,
+frames,38882
+rerecordCount,46095
+systemFrameRate,60.0988138974405
+movieFileName,ktwov2-theaddamsfamily-nes.bk2.bk2
+additionalAuthors,
+createTimestamp,2022-11-12T19:20:50.100383
+authors,['ktwo']
+tags,"['death', 'damage', 'bugs']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=2W852yU1zAs', 'https://archive.org/download/theaddamsfamily-nes-tas-ktwo_202211/theaddamsfamily-nes-tas-ktwo.mp4']"
+filePaths,['4904M.png']
+SHA1,C831410A86A9B759A1E5EC53E8E1EE6789C79569

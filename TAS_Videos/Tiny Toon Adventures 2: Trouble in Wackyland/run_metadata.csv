@@ -1,0 +1,25 @@
+,178
+id,2433
+title,NES Tiny Toon Adventures 2: Trouble in Wackyland by Palidian in 13:13.11
+branch,baseline
+goal,baseline
+gameGoalId,771
+emulatorVersion,FCEUX 2.2.1
+class,Standard
+systemCode,NES
+submissionId,4012
+gameId,1345
+gameVersionId,325
+obsoletedById,
+frames,47665
+rerecordCount,6870
+systemFrameRate,60.0988138974405
+movieFileName,palidianv1-tinytoons2.fm2
+additionalAuthors,
+createTimestamp,2013-07-31T18:57:30
+authors,['Palidian']
+tags,['damage']
+flags,['Verified']
+urls,"['https://archive.org/download/IlariEncodingTASVideosMovies6/tinytoons2-tas-palidian.mkv', 'https://archive.org/download/IlariEncodingTASVideosMovies6/tinytoons2-tas-palidian_10bit444.mkv', 'https://www.youtube.com/watch?v=Np8dpTc31A4']"
+filePaths,['2433M.png']
+SHA1,3C17A0BD435EEE8E93A7A700CE2A082A66F8B62A

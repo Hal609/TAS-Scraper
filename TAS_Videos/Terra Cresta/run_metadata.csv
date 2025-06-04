@@ -1,0 +1,25 @@
+,643
+id,5190
+title,NES Terra Cresta by juef in 07:21.36
+branch,baseline
+goal,baseline
+gameGoalId,4286
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,8099
+gameId,3533
+gameVersionId,3825
+obsoletedById,
+frames,26525
+rerecordCount,4612
+systemFrameRate,60.0988138974405
+movieFileName,juef-terracresta-nes.bk2
+additionalAuthors,
+createTimestamp,2023-03-29T00:54:36.545382
+authors,['juef']
+tags,"['death', 'damage']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=NtVwBi-vgW8', 'https://archive.org/download/terracresta-nes-tas-juef/terracresta-nes-tas-juef.mp4']"
+filePaths,['5190M.png']
+SHA1,2C6F2D960DBEFDFAEAD76FAE795526A6C12CD1D1

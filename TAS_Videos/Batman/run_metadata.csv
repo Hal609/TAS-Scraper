@@ -1,0 +1,25 @@
+,782
+id,6038
+title,NES Batman by DreamYao in 09:11.76
+branch,baseline
+goal,baseline
+gameGoalId,130
+emulatorVersion,FCEUX 2.2.3.3256
+class,Standard
+systemCode,NES
+submissionId,9116
+gameId,57
+gameVersionId,500
+obsoletedById,
+frames,33160
+rerecordCount,9595
+systemFrameRate,60.0988138974405
+movieFileName,dreamyao[7]-batman-nes.fm2
+additionalAuthors,
+createTimestamp,2024-07-07T17:41:18.556511
+authors,['DreamYao']
+tags,"['damage', 'random']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=tLUk2NhB37g', 'https://archive.org/download/batman-nes-tasv7-dreamyao/batman-nes-tasv7-dreamyao.mp4']"
+filePaths,['6038M.png']
+SHA1,73b33e67e3c9e1116f9fcb021b10bb1171b8696a

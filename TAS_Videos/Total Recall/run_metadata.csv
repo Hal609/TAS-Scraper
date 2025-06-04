@@ -1,0 +1,25 @@
+,183
+id,2476
+title,NES Total Recall by MESHUGGAH in 04:46.11
+branch,baseline
+goal,baseline
+gameGoalId,784
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4099
+gameId,492
+gameVersionId,337
+obsoletedById,
+frames,17195
+rerecordCount,62335
+systemFrameRate,60.0988138974405
+movieFileName,meshuggahv1-totalrecall.fm2
+additionalAuthors,
+createTimestamp,2013-11-02T15:25:17
+authors,['MESHUGGAH']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/IlariEncodingTASVideosMovies7/totalrecall-tas-meshuggah.mkv', 'https://archive.org/download/IlariEncodingTASVideosMovies7/totalrecall-tas-meshuggah_512kb.mp4', 'https://www.youtube.com/watch?v=bwrRhpjP4fA']"
+filePaths,['2476M.png']
+SHA1,27ED96DD9E208BF0ED06EAD0F6347ED9DEB6799E

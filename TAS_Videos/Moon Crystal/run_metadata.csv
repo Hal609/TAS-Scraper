@@ -1,0 +1,25 @@
+,170
+id,2394
+title,NES Moon Crystal by Hotarubi in 08:19.04
+branch,baseline
+goal,baseline
+gameGoalId,532
+emulatorVersion,FCEUX 2.2.1
+class,Standard
+systemCode,NES
+submissionId,3974
+gameId,302
+gameVersionId,310
+obsoletedById,
+frames,29992
+rerecordCount,20016
+systemFrameRate,60.0988138974405
+movieFileName,hotarubi-mooncrystal.fm2
+additionalAuthors,
+createTimestamp,2013-06-04T14:03:13
+authors,['Hotarubi']
+tags,"['death', 'damage']"
+flags,[]
+urls,"['https://archive.org/download/HotarubisNesMoonCrystalIn0819.05/mooncrystal-tas-hotarubi.mkv', 'https://archive.org/download/HotarubisNesMoonCrystalIn0819.05/mooncrystal-tas-hotarubi_10bit444.mkv', 'https://www.youtube.com/watch?v=UGB9Zja_X5E']"
+filePaths,['2394M.png']
+SHA1,495E41FEB430C4DB5F1452AAF7B828ADC3CAA881

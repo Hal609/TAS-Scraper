@@ -1,0 +1,25 @@
+,722
+id,5641
+title,"NES Might and Magic: Secret of the Inner Sanctum ""item glitch"" by TaoTao in 05:00.70"
+branch,item glitch
+goal,item glitch
+gameGoalId,3885
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,8680
+gameId,371
+gameVersionId,384
+obsoletedById,
+frames,23546
+rerecordCount,2034
+systemFrameRate,78.30299063390964
+movieFileName,taotao-mightandmagic-nes-itemglitch.bk2
+additionalAuthors,
+createTimestamp,2023-10-30T08:49:09.745529
+authors,['TaoTao']
+tags,"['warpbug', 'bugs', 'random', 'resources']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=TgDmWhbR3mE', 'https://archive.org/download/mightandmagic-nes-tas-itemglitch-taotao/mightandmagic-nes-tas-itemglitch-taotao.mp4']"
+filePaths,['5641M.png']
+SHA1,8DE4F9DD211A02DF5B328FB7305BD651F07E8859

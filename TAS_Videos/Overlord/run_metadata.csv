@@ -1,0 +1,25 @@
+,441
+id,4239
+title,NES Overlord by FatRatKnight & link_7777 in 03:57.41
+branch,baseline
+goal,baseline
+gameGoalId,2587
+emulatorVersion,BizHawk 2.4
+class,Standard
+systemCode,NES
+submissionId,6783
+gameId,2235
+gameVersionId,2103
+obsoletedById,
+frames,14268
+rerecordCount,4413
+systemFrameRate,60.0988138974405
+movieFileName,"fatratknight,link_7777-overlord.bk2"
+additionalAuthors,
+createTimestamp,2020-07-19T09:05:32
+authors,"['FatRatKnight', 'link_7777']"
+tags,"['damage', 'noeasy']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=cSGztoDqYa4', 'https://archive.org/download/overlord-tas-fatratknight_link_7777/overlord-tas-fatratknight,link_7777.mkv', 'https://archive.org/download/overlord-tas-fatratknight_link_7777/overlord-tas-fatratknight,link_7777_512kb.mp4']"
+filePaths,['4239M.png']
+SHA1,7B706C1E981BDE05AF8E1692CFCFC43EE494A58B

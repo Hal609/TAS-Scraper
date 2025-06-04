@@ -1,0 +1,25 @@
+,446
+id,4255
+title,NES King Kong 2: Ikari no Megaton Punch by Baddap1 in 02:55.31
+branch,baseline
+goal,baseline
+gameGoalId,559
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6812
+gameId,325
+gameVersionId,882
+obsoletedById,
+frames,10536
+rerecordCount,6599
+systemFrameRate,60.0988138974405
+movieFileName,baddap1-kingkong2.fm2
+additionalAuthors,
+createTimestamp,2020-08-02T08:55:20
+authors,['Baddap1']
+tags,"['damage', 'warps', 'warpbug', 'bugs']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=zbXz0Ac63pM', 'https://archive.org/download/kingkong2-tas-baddap1/kingkong2-tas-baddap1.mkv', 'https://archive.org/download/kingkong2-tas-baddap1/kingkong2-tas-baddap1_512kb.mp4']"
+filePaths,['4255M.png']
+SHA1,75822C00ABC9D8174178E5B160BA6AFB0B2982A4

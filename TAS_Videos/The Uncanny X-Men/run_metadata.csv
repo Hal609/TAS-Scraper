@@ -1,0 +1,25 @@
+,144
+id,2172
+title,"NES The Uncanny X-Men ""2 players"" by goofydylan8 in 05:05.81"
+branch,2 players
+goal,2 players
+gameGoalId,4990
+emulatorVersion,FCEUX 2.1.5
+class,Standard
+systemCode,NES
+submissionId,3430
+gameId,991
+gameVersionId,210
+obsoletedById,
+frames,18379
+rerecordCount,0
+systemFrameRate,60.0988138974405
+movieFileName,goofydylan81-uncannyxmen.fm2
+additionalAuthors,
+createTimestamp,2012-11-29T02:53:00
+authors,['goofydylan8']
+tags,"['2p', 'death', 'damage']"
+flags,[]
+urls,"['https://archive.org/download/IlariEncodingTASVideosDegaMovies/uncannyxmen-tas-goofydylan8.mkv', 'https://archive.org/download/IlariEncodingTASVideosDegaMovies/uncannyxmen-tas-goofydylan8_10bit444.mkv', 'https://www.youtube.com/watch?v=Pp7bikNZylE']"
+filePaths,['2172M.png']
+SHA1,73A77854D7139671C51051402661DECDC3166FDB

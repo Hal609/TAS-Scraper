@@ -1,0 +1,25 @@
+,591
+id,4973
+title,NES Ghostbusters II by ShesChardcore in 08:30.19
+branch,baseline
+goal,baseline
+gameGoalId,4105
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7831
+gameId,3392
+gameVersionId,3624
+obsoletedById,
+frames,30662
+rerecordCount,7924
+systemFrameRate,60.0988138974405
+movieFileName,sheschardcore-ghostbustersii-nes.bk2
+additionalAuthors,
+createTimestamp,2022-12-05T12:44:41.863906
+authors,['ShesChardcore']
+tags,"['death', 'damage', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=I7gYnL7CWko', 'https://archive.org/download/ghostbustersii-nes-tas-sheschardcore/ghostbustersii-nes-tas-sheschardcore.mp4']"
+filePaths,['4973M.png']
+SHA1,39686592401187D923A7C929BD044DFC97CC9A67

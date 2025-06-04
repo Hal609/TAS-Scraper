@@ -1,0 +1,25 @@
+,668
+id,5294
+title,"NES Ivan ""Ironman"" Stewart's Super Off Road by eien86 in 50:31.34"
+branch,baseline
+goal,baseline
+gameGoalId,4415
+emulatorVersion,BizHawk 2.9
+class,Standard
+systemCode,NES
+submissionId,8284
+gameId,3595
+gameVersionId,3920
+obsoletedById,
+frames,182180
+rerecordCount,0
+systemFrameRate,60.0988138974405
+movieFileName,eien86-ivanironmanstewartssuperoffroad.bk2
+additionalAuthors,
+createTimestamp,2023-05-26T23:40:50.908557
+authors,['eien86']
+tags,['random']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=naZyTQADSiQ', 'https://archive.org/download/ivanironmanstewartssuperoffroad-tas-eien86/ivanironmanstewartssuperoffroad-tas-eien86.mp4']"
+filePaths,['5294M.png']
+SHA1,57919B685B55EE3ED3AD98FB1D25626B98BE7D39

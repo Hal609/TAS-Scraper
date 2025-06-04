@@ -1,0 +1,25 @@
+,389
+id,3995
+title,NES Strider by Baddap1 in 03:04.56
+branch,baseline
+goal,baseline
+gameGoalId,225
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6406
+gameId,360
+gameVersionId,1211
+obsoletedById,
+frames,11092
+rerecordCount,16499
+systemFrameRate,60.0988138974405
+movieFileName,baddap1-strider-nes.fm2
+additionalAuthors,
+createTimestamp,2019-07-15T15:16:46
+authors,['Baddap1']
+tags,"['damage', 'bugs']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=xvxeGXGovM8', 'https://archive.org/download/strider-nes-tas-baddap1/strider-nes-tas-baddap1.mkv', 'https://archive.org/download/strider-nes-tas-baddap1/strider-nes-tas-baddap1_512kb.mp4']"
+filePaths,['3995M.png']
+SHA1,A91CF3FF63DD7A45C8C83BC0E192C1011D217609

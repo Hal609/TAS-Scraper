@@ -1,0 +1,25 @@
+,226
+id,2847
+title,NES Rad Racer by FatRatKnight in 20:32.89
+branch,baseline
+goal,baseline
+gameGoalId,379
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4661
+gameId,214
+gameVersionId,1320
+obsoletedById,
+frames,74095
+rerecordCount,12671
+systemFrameRate,60.0988138974405
+movieFileName,fatratknight-radracer.fm2
+additionalAuthors,
+createTimestamp,2015-05-15T15:20:54
+authors,['FatRatKnight']
+tags,['random']
+flags,"['Verified', 'Commentary']"
+urls,"['https://www.youtube.com/watch?v=8hyVa6y8D54', 'https://archive.org/download/radracer-tas-fatratknight/radracer-tas-fatratknight.mkv', 'https://archive.org/download/radracer-tas-fatratknight/radracer-tas-fatratknight_512kb.mp4']"
+filePaths,['2847M.png']
+SHA1,8E1BACB45E381557EC36797A9239817C0FE04629

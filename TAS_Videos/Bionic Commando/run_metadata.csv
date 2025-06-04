@@ -1,0 +1,25 @@
+,804
+id,6228
+title,"NES Bionic Commando ""all items"" by Zed_Shift in 18:31.82"
+branch,all items
+goal,all items
+gameGoalId,2123
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,9268
+gameId,32
+gameVersionId,364
+obsoletedById,
+frames,66819
+rerecordCount,27518
+systemFrameRate,60.0988138974405
+movieFileName,zed_shift-bioniccommando-nes-allitems.bk2
+additionalAuthors,
+createTimestamp,2024-10-20T20:35:46.169234
+authors,['Zed_Shift']
+tags,"['full', 'damage', 'bugs']"
+flags,"['Verified', 'SensitivityWarning']"
+urls,"['https://www.youtube.com/watch?v=yfdtfeOw1To', 'https://archive.org/download/bioniccommando-nes-tas-allitems-zed_shift/bioniccommando-nes-tas-allitems-zed_shift.mp4']"
+filePaths,['6228M.png']
+SHA1,8F2F7D70AB38FA203651972C7BD4A0CCA3638162

@@ -1,0 +1,25 @@
+,780
+id,6029
+title,NES Maniac Mansion by Arc & ShesChardcore in 05:19.47
+branch,baseline
+goal,baseline
+gameGoalId,156
+emulatorVersion,FCEUX 2.6.6
+class,Standard
+systemCode,NES
+submissionId,9092
+gameId,84
+gameVersionId,59
+obsoletedById,
+frames,19200
+rerecordCount,6538
+systemFrameRate,60.0988138974405
+movieFileName,arc_sheschardcorev2-maniacmansion-nes.fm2
+additionalAuthors,
+createTimestamp,2024-07-05T00:54:29.414253
+authors,"['Arc', 'ShesChardcore']"
+tags,['bugs']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=sAFFFPBfaSg', 'https://archive.org/download/maniacmansion-nes-tasv2-arc_sheschardcore/maniacmansion-nes-tasv2-arc_sheschardcore.mp4']"
+filePaths,['6029M.png']
+SHA1,7317d1f1096b57f6ab8f3001bcdd35665c291b1a

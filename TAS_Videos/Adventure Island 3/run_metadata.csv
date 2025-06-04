@@ -1,0 +1,25 @@
+,483
+id,4462
+title,NES Adventure Island 3 by J.Y in 18:19.92
+branch,baseline
+goal,baseline
+gameGoalId,114
+emulatorVersion,FCEUX 2.3.0
+class,Standard
+systemCode,NES
+submissionId,7125
+gameId,42
+gameVersionId,2604
+obsoletedById,
+frames,66104
+rerecordCount,22063
+systemFrameRate,60.0988138974405
+movieFileName,jy-adventureisland3.fm2
+additionalAuthors,
+createTimestamp,2021-05-31T14:26:24
+authors,['J.Y']
+tags,"['damage', 'warps']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=PYgGghz-K_Y', 'https://archive.org/download/adventureisland3-tas-jy/adventureisland3-tas-jy.mkv', 'https://archive.org/download/adventureisland3-tas-jy/adventureisland3-tas-jy_512kb.mp4']"
+filePaths,['4462M.png']
+SHA1,9F8D51762125DF0C1A6AB6EFF41FBF7D0E65D465

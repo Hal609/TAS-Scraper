@@ -1,0 +1,25 @@
+,319
+id,3400
+title,NES Castlevania II: Simon's Quest by zggzdydp in 28:11.11
+branch,baseline
+goal,baseline
+gameGoalId,285
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,5418
+gameId,8
+gameVersionId,2008
+obsoletedById,
+frames,101634
+rerecordCount,36332
+systemFrameRate,60.0988138974405
+movieFileName,zggzdydp3-cv2.fm2
+additionalAuthors,
+createTimestamp,2017-05-23T13:50:37
+authors,['zggzdydp']
+tags,"['damage', 'warps', 'bugs', 'random']"
+flags,['Atlas']
+urls,"['https://archive.org/download/simonsquest-tasv3-zggzdydp/simonsquest-tasv3-zggzdydp.mkv', 'https://archive.org/download/simonsquest-tasv3-zggzdydp/simonsquest-tasv3-zggzdydp_512kb.mp4', 'https://www.youtube.com/watch?v=XzojgeUrjMk']"
+filePaths,['3400M.png']
+SHA1,D6B96FD98AE480C694A103FE9A5D7D84EEAFB6F7

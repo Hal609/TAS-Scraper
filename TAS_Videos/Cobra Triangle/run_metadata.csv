@@ -1,0 +1,25 @@
+,308
+id,3347
+title,NES Cobra Triangle by Meerkov in 16:43.73
+branch,baseline
+goal,baseline
+gameGoalId,153
+emulatorVersion,BizHawk 1.11.6
+class,Standard
+systemCode,NES
+submissionId,5405
+gameId,81
+gameVersionId,1625
+obsoletedById,
+frames,60323
+rerecordCount,13539
+systemFrameRate,60.0988138974405
+movieFileName,meerkov-cobratriangle.bk2
+additionalAuthors,
+createTimestamp,2017-03-11T11:01:06
+authors,['Meerkov']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=Yb7xgG7IoEs', 'https://archive.org/download/cobratriangle-tas-meerkov/cobratriangle-tas-meerkov.mkv', 'https://archive.org/download/cobratriangle-tas-meerkov/cobratriangle-tas-meerkov_512kb.mp4']"
+filePaths,['3347M.png']
+SHA1,36636860236C9B83BD6FC92085EBA010D1C514DA

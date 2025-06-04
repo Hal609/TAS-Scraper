@@ -1,0 +1,25 @@
+,380
+id,3930
+title,"NES Shadowgate ""game end glitch"" by DrD2k9, Zekna & Randil in 04:17.09"
+branch,game end glitch
+goal,game end glitch
+gameGoalId,5047
+emulatorVersion,BizHawk 2.3.1
+class,Standard
+systemCode,NES
+submissionId,6293
+gameId,37
+gameVersionId,1492
+obsoletedById,
+frames,15451
+rerecordCount,4508
+systemFrameRate,60.0988138974405
+movieFileName,drd2k9_zenka_randil-shadowgate.bk2
+additionalAuthors,
+createTimestamp,2019-03-31T02:11:53
+authors,"['DrD2k9', 'Zekna', 'Randil']"
+tags,"['death', 'warpbug', 'bugs', 'rambugs']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=FcM5C_uKIuk', 'https://archive.org/download/shadowgate-tas-drd2k9_zekna_randil/shadowgate-tas-drd2k9_zekna_randil.mkv', 'https://archive.org/download/shadowgate-tas-drd2k9_zekna_randil/shadowgate-tas-drd2k9_zekna_randil_512kb.mp4']"
+filePaths,['3930M.png']
+SHA1,1AF2C83B4724EFBFAC7FCA00FAB7F7A8E100CACA

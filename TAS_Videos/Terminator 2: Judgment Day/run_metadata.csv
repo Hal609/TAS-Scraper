@@ -1,0 +1,25 @@
+,132
+id,2123
+title,NES Terminator 2: Judgment Day by goofydylan8 in 11:52.56
+branch,baseline
+goal,baseline
+gameGoalId,1554
+emulatorVersion,FCEUX 2.1.5
+class,Standard
+systemCode,NES
+submissionId,3441
+gameId,996
+gameVersionId,183
+obsoletedById,
+frames,42824
+rerecordCount,0
+systemFrameRate,60.0988138974405
+movieFileName,goofydylan8-terminator2.fm2
+additionalAuthors,
+createTimestamp,2012-11-08T16:57:01
+authors,['goofydylan8']
+tags,"['damage', 'random']"
+flags,[]
+urls,"['https://archive.org/download/Goofydylan8sNesTerminator2-JudgmentDayIn1152.56/terminator2-tas-goofyfylan8.mkv', 'https://archive.org/download/Goofydylan8sNesTerminator2-JudgmentDayIn1152.56/terminator2-tas-goofyfylan8_10bit444.mkv', 'https://www.youtube.com/watch?v=dp7H5x7vXNo']"
+filePaths,['2123M.png']
+SHA1,26A9230F97FFFD39D8D43538DFB0195BFD38377B

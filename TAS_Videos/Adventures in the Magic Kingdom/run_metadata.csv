@@ -1,0 +1,25 @@
+,361
+id,3779
+title,NES Adventures in the Magic Kingdom by link_7777 in 09:56.98
+branch,baseline
+goal,baseline
+gameGoalId,514
+emulatorVersion,BizHawk 2.2.2
+class,Standard
+systemCode,NES
+submissionId,6069
+gameId,877
+gameVersionId,2527
+obsoletedById,
+frames,35878
+rerecordCount,18125
+systemFrameRate,60.0988138974405
+movieFileName,link_7777-disneyadventuresinthemagickingdom.bk2
+additionalAuthors,
+createTimestamp,2018-09-03T15:21:54
+authors,['link_7777']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=3KXMr-EOUQc', 'https://archive.org/download/disneyadventuresinthemagickingdom-tas-link_7777/disneyadventuresinthemagickingdom-tas-link_7777.mkv', 'https://archive.org/download/disneyadventuresinthemagickingdom-tas-link_7777/disneyadventuresinthemagickingdom-tas-link_7777_512kb.mp4']"
+filePaths,['3779M.png']
+SHA1,CC8CB9EEBAAE9C695BE7EE965E3C8D7CF82C6D18

@@ -1,0 +1,25 @@
+,509
+id,4612
+title,NES Low G Man: The Low Gravity Man by goofydylan8 & Alyosha in 10:09.81
+branch,baseline
+goal,baseline
+gameGoalId,1647
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7337
+gameId,1059
+gameVersionId,490
+obsoletedById,
+frames,36649
+rerecordCount,18766
+systemFrameRate,60.0988138974405
+movieFileName,"goofydylan8,alyosha-lowgman.bk2"
+additionalAuthors,
+createTimestamp,2022-04-03T10:23:34.010889
+authors,"['goofydylan8', 'Alyosha']"
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=ZJMpaFlzwWY', 'https://archive.org/download/lowgman-tas-goofydylan8alyosha/lowgman-tas-goofydylan8%2Calyosha.mp4']"
+filePaths,['4612M.png']
+SHA1,A5D317F9565DFEFD286BC50E828667C5801B606B

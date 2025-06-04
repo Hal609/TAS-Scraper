@@ -1,0 +1,25 @@
+,298
+id,3297
+title,NES Faxanadu by Invariel in 23:04.69
+branch,baseline
+goal,baseline
+gameGoalId,241
+emulatorVersion,BizHawk 1.11.9.1
+class,Standard
+systemCode,NES
+submissionId,5338
+gameId,163
+gameVersionId,4841
+obsoletedById,
+frames,83218
+rerecordCount,25859
+systemFrameRate,60.0988138974405
+movieFileName,invariel-faxanadu.bk2
+additionalAuthors,
+createTimestamp,2016-12-29T14:17:47
+authors,['Invariel']
+tags,"['death', 'damage']"
+flags,['Atlas']
+urls,"['https://www.youtube.com/watch?v=IjbKDOvbQc8', 'https://archive.org/download/faxanadu-tas-invariel/faxanadu-tas-invariel.mkv', 'https://archive.org/download/faxanadu-tas-invariel/faxanadu-tas-invariel_512kb.mp4']"
+filePaths,['3297M.png']
+SHA1,82DF2202F81BFA6DABEF3105991C2E13C283E1D2

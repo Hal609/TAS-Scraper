@@ -1,0 +1,25 @@
+,798
+id,6133
+title,"NES The Goonies ""all items"" by McBobX in 04:14.43"
+branch,all items
+goal,all items
+gameGoalId,5549
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,9165
+gameId,79
+gameVersionId,2105
+obsoletedById,
+frames,15291
+rerecordCount,4514
+systemFrameRate,60.0988138974405
+movieFileName,mcbobx-thegoonies-nes-allitems.fm2
+additionalAuthors,
+createTimestamp,2024-08-27T17:48:47.464162
+authors,['McBobX']
+tags,"['full', 'death', 'damage', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=MeayakIMfH0', 'https://archive.org/download/thegoonies-nes-tas-allitems-mcbobx/thegoonies-nes-tas-allitems-mcbobx.mp4']"
+filePaths,['6133M.png']
+SHA1,78E80A5BDF23FEB5F287FDA15A9BFFA4431FC7BA

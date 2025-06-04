@@ -1,0 +1,25 @@
+,342
+id,3667
+title,NES Adventure Island by ktwo in 35:45.55
+branch,baseline
+goal,baseline
+gameGoalId,320
+emulatorVersion,BizHawk 1.12.1
+class,Standard
+systemCode,NES
+submissionId,5870
+gameId,293
+gameVersionId,1446
+obsoletedById,
+frames,128945
+rerecordCount,27001
+systemFrameRate,60.0988138974405
+movieFileName,ktwo-adventureisland.bk2
+additionalAuthors,
+createTimestamp,2018-04-02T17:25:51
+authors,['ktwo']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=XIgobXbaW4o', 'https://archive.org/download/adventureisland-tas-ktwo/adventureisland-tas-ktwo.mkv', 'https://archive.org/download/adventureisland-tas-ktwo/adventureisland-tas-ktwo_512kb.mp4']"
+filePaths,['3667M.png']
+SHA1,22EE75B82F4A6412AA6BB940E109704975B95185

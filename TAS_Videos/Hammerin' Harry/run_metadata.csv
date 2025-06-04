@@ -1,0 +1,25 @@
+,414
+id,4130
+title,NES Hammerin' Harry by Bloopiero in 06:45.90
+branch,baseline
+goal,baseline
+gameGoalId,655
+emulatorVersion,BizHawk 2.3.2
+class,Standard
+systemCode,NES
+submissionId,6636
+gameId,382
+gameVersionId,1347
+obsoletedById,
+frames,24394
+rerecordCount,37429
+systemFrameRate,60.0988138974405
+movieFileName,bloopiero-hammerinharry.bk2
+additionalAuthors,
+createTimestamp,2020-03-14T09:28:44
+authors,['Bloopiero']
+tags,['damage']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=5sW7sJfm9AU', 'https://archive.org/download/hammerinharry-tas-bloopiero/hammerinharry-tas-bloopiero.mkv', 'https://archive.org/download/hammerinharry-tas-bloopiero/hammerinharry-tas-bloopiero_512kb.mp4']"
+filePaths,['4130M.png']
+SHA1,95610C432927F8E2179B1A49496A083AED34A322

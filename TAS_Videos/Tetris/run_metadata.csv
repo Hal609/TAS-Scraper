@@ -1,0 +1,25 @@
+,558
+id,4853
+title,"NES Tetris ""maximum score"" by r57shell & Archanfel in 02:53.13"
+branch,maximum score
+goal,maximum score
+gameGoalId,3959
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,7625
+gameId,170
+gameVersionId,1507
+obsoletedById,
+frames,10405
+rerecordCount,999999
+systemFrameRate,60.0988138974405
+movieFileName,r57shell_archanfel-tetris-maxscore.fm2
+additionalAuthors,
+createTimestamp,2022-10-04T13:03:20.654163
+authors,"['r57shell', 'Archanfel']"
+tags,"['maxscore', 'bestending', 'bugs']"
+flags,['Verified']
+urls,"['http://archive.org/download/tetris-tas-maxscore-r57shell_archanfel/tetris-tas-maxscore-r57shell_archanfel.mp4', 'http://www.youtube.com/watch?v=WB43YjoZGaQ']"
+filePaths,['4853M.png']
+SHA1,77747840541BFC62A28A5957692A98C550BD6B2B

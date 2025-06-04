@@ -1,0 +1,25 @@
+,567
+id,4884
+title,"NES Rush'n Attack ""1 player"" by peco_de_guile & aiqiyou in 09:39.76"
+branch,1 player
+goal,1 player
+gameGoalId,3991
+emulatorVersion,FCEUX 2.3.0
+class,Standard
+systemCode,NES
+submissionId,7674
+gameId,47
+gameVersionId,322
+obsoletedById,
+frames,34843
+rerecordCount,4297
+systemFrameRate,60.0988138974405
+movieFileName,"peco_de_guile,aiqiyou-rushnattack-1player.fm2"
+additionalAuthors,
+createTimestamp,2022-11-02T15:41:26.497712
+authors,"['peco_de_guile', 'aiqiyou']"
+tags,['just1p']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=bb5IUIdvXbE', 'https://archive.org/download/rushnattack-tas-1player-pecodeguile_aiqiyou/rushnattack-tas-1player-pecodeguile_aiqiyou.mp4']"
+filePaths,['4884M.png']
+SHA1,0AD3979BA3C7696166FB60B0461F4409DA653303

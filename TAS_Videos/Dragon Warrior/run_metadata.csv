@@ -1,0 +1,25 @@
+,663
+id,5273
+title,"NES Dragon Warrior ""game end glitch"" by TaoTao in 06:19.51"
+branch,game end glitch
+goal,game end glitch
+gameGoalId,4269
+emulatorVersion,BizHawk 2.9
+class,Standard
+systemCode,NES
+submissionId,8072
+gameId,67
+gameVersionId,1599
+obsoletedById,
+frames,28092
+rerecordCount,1452
+systemFrameRate,74.02226334580519
+movieFileName,taotao-dragonwarrior-gameendglitch.bk2
+additionalAuthors,
+createTimestamp,2023-05-15T10:18:26.427489
+authors,['TaoTao']
+tags,"['death', 'damage', 'warpbug', 'skipboss', 'rambugs', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=yzIzqQc-FWw', 'https://archive.org/download/dragonwarrior-tas-gameendglitch-taotao/dragonwarrior-tas-gameendglitch-taotao.mp4']"
+filePaths,['5273M.png']
+SHA1,17AA26ECD1197A2CD2B5F02D71AEC3342B229D25

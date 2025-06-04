@@ -1,0 +1,25 @@
+,664
+id,5280
+title,"NES Duck Hunt ""Game A, maximum score"" by DrD2k9 in 17:58.64"
+branch,"Game A, maximum score"
+goal,"Game A, maximum score"
+gameGoalId,4374
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,8225
+gameId,1140
+gameVersionId,2382
+obsoletedById,
+frames,64825
+rerecordCount,1823
+systemFrameRate,60.0988138974405
+movieFileName,"drd2k9-duckhunt-game_a,maxscore.bk2"
+additionalAuthors,
+createTimestamp,2023-05-19T09:39:29.991094
+authors,['DrD2k9']
+tags,"['maxscore', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=Mt9Ft_gYaKM', 'https://archive.org/download/duckhunt-tas-gamea_maxscore-drd2k9/duckhunt-tas-gamea_maxscore-drd2k9.mp4']"
+filePaths,['5280M.png']
+SHA1,8E18068823635A115E2FC0925FF3BDA209EC6A42

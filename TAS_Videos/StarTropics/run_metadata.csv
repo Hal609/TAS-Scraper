@@ -1,0 +1,25 @@
+,29
+id,1034
+title,NES StarTropics by Aglar in 1:01:26.30
+branch,baseline
+goal,baseline
+gameGoalId,277
+emulatorVersion,FCEU 0.98.13
+class,Standard
+systemCode,NES
+submissionId,1807
+gameId,178
+gameVersionId,60
+obsoletedById,
+frames,221542
+rerecordCount,21384
+systemFrameRate,60.0988138974405
+movieFileName,aglar-startropics.fcm
+additionalAuthors,
+createTimestamp,2007-12-23T18:48:56
+authors,['Aglar']
+tags,"['damage', 'bugs', 'random']"
+flags,[]
+urls,"['https://archive.org/download/GugaTasvideosEncodes2/startropics-tas-aglar.mkv', 'https://archive.org/download/GugaTasvideosEncodes2/startropics-tas-aglar_512kb.mp4', 'https://www.youtube.com/watch?v=apbK2B7JwOo']"
+filePaths,['startr1034.png']
+SHA1,fdd3d68c7b5b2f9dc7ec50d9888b0a8edbaaec28

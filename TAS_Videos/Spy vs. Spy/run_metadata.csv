@@ -1,0 +1,25 @@
+,136
+id,2137
+title,NES Spy vs. Spy by Sir VG in 08:46.52
+branch,baseline
+goal,baseline
+gameGoalId,436
+emulatorVersion,FCEU 0.98.15
+class,Standard
+systemCode,NES
+submissionId,1296
+gameId,1009
+gameVersionId,188
+obsoletedById,
+frames,31643
+rerecordCount,141
+systemFrameRate,60.0988138974405
+movieFileName,sirvg-spyvsspy.fcm
+additionalAuthors,
+createTimestamp,2012-11-14T15:06:31
+authors,['Sir_VG']
+tags,"['death', 'damage', 'restart']"
+flags,[]
+urls,"['https://archive.org/download/NesSpyVsSpyIn0847.38BySirVg/spyvsspy-tas-sirvg.mkv', 'https://archive.org/download/NesSpyVsSpyIn0847.38BySirVg/spyvsspy-tas-sirvg_10bit444.mkv', 'https://www.youtube.com/watch?v=VFtehME_u4Y']"
+filePaths,['2137M.png']
+SHA1,C78094D25F091C053272867444E88E80841C85EB

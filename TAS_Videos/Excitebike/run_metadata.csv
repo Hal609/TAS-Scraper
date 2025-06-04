@@ -1,0 +1,25 @@
+,62
+id,1348
+title,NES Excitebike by Lord_Tom in 05:29.44
+branch,baseline
+goal,baseline
+gameGoalId,297
+emulatorVersion,FCEUX 2.1.1
+class,Standard
+systemCode,NES
+submissionId,2383
+gameId,68
+gameVersionId,1035
+obsoletedById,
+frames,19799
+rerecordCount,3182
+systemFrameRate,60.0988138974405
+movieFileName,lordtom-excitebike.fm2
+additionalAuthors,
+createTimestamp,2009-08-31T18:56:46
+authors,['Lord_Tom']
+tags,"['gametimer', 'bugs', 'noeasy']"
+flags,"['Verified', 'Commentary', 'Atlas', 'stars']"
+urls,"['https://www.archive.org/download/excitebiketaslordtom/excitebike-tas-lordtom.mkv', 'https://www.youtube.com/watch?v=ksJBMt_frcY']"
+filePaths,['excitebike_1348.png']
+SHA1,2E9897846E54A4A9865E87DE7517C6710BDEC255

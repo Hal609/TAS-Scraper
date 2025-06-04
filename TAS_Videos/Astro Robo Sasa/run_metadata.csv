@@ -1,0 +1,25 @@
+,297
+id,3291
+title,"NES Astro Robo Sasa ""2 players"" by TaoTao in 04:49.82"
+branch,2 players
+goal,2 players
+gameGoalId,5057
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,5304
+gameId,1829
+gameVersionId,1819
+obsoletedById,
+frames,17418
+rerecordCount,32541
+systemFrameRate,60.0988138974405
+movieFileName,taotao-astrorobosasa.fm2
+additionalAuthors,
+createTimestamp,2016-12-25T16:16:07
+authors,['TaoTao']
+tags,"['2p', 'damage']"
+flags,[]
+urls,"['https://youtube.com/watch?v=_gUrfH6-AZM', 'https://archive.org/download/astrorobosasa-tas-taotao/astrorobosasa-tas-taotao.mkv', 'https://archive.org/download/astrorobosasa-tas-taotao/astrorobosasa-tas-taotao_512kb.mp4']"
+filePaths,['3291M.png']
+SHA1,D7A35F5AD1F68284E64330EDA80A85335995C00A

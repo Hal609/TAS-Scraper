@@ -1,0 +1,25 @@
+,476
+id,4425
+title,"NES Zelda II: The Adventure of Link ""100%"" by Arc & Inzult in 1:02:40.84"
+branch,100%
+goal,100%
+gameGoalId,3597
+emulatorVersion,BizHawk 2.6.1
+class,Alternative
+systemCode,NES
+submissionId,7039
+gameId,208
+gameVersionId,3941
+obsoletedById,
+frames,226022
+rerecordCount,33983
+systemFrameRate,60.0988138974405
+movieFileName,arc_inzult-zeldaii-100p.bk2
+additionalAuthors,
+createTimestamp,2021-04-02T19:24:27
+authors,"['Arc', 'Inzult']"
+tags,"['full', 'death', 'damage', 'nowarpbug', 'restart', 'nobugs', 'random']"
+flags,"['Verified', 'SensitivityWarning']"
+urls,"['https://www.youtube.com/watch?v=T_4cYrqUli8', 'https://archive.org/download/zeldaii-tas-100p-arc_inzult/zeldaii-tas-100p-arc_inzult.mkv', 'https://archive.org/download/zeldaii-tas-100p-arc_inzult/zeldaii-tas-100p-arc_inzult_512kb.mp4']"
+filePaths,['4425M.png']
+SHA1,353489A57F24A429572E76BD455BC51D821F7036

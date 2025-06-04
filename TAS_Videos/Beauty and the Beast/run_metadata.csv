@@ -1,0 +1,25 @@
+,293
+id,3281
+title,NES Beauty and the Beast by DrD2k9 in 16:34.98
+branch,baseline
+goal,baseline
+gameGoalId,2613
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,5273
+gameId,1826
+gameVersionId,2363
+obsoletedById,
+frames,49756
+rerecordCount,7536
+systemFrameRate,50.0069789081886
+movieFileName,drd2k9v1-beautyandthebeast.fm3
+additionalAuthors,
+createTimestamp,2016-12-11T23:15:53
+authors,['DrD2k9']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=o67rvKgU-Vw', 'https://archive.org/download/beautyandthebeast-tas-drd2k9/beautyandthebeast-tas-drd2k9.mkv', 'https://archive.org/download/beautyandthebeast-tas-drd2k9/beautyandthebeast-tas-drd2k9_512kb.mp4']"
+filePaths,['3281M.png']
+SHA1,8BD8815AC4C09077145F2640BC37A5AC0E2B41EF

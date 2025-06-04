@@ -1,0 +1,25 @@
+,578
+id,4909
+title,NES R.C. Pro-Am II by FatRatKnight & eien86 in 28:57.70
+branch,baseline
+goal,baseline
+gameGoalId,4025
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7720
+gameId,2786
+gameVersionId,2953
+obsoletedById,
+frames,104434
+rerecordCount,15615
+systemFrameRate,60.0988138974405
+movieFileName,"fatratknight,eien86-rcproam2.bk2"
+additionalAuthors,
+createTimestamp,2022-11-13T23:52:43.320778
+authors,"['FatRatKnight', 'eien86']"
+tags,['random']
+flags,['Atlas']
+urls,"['https://www.youtube.com/watch?v=tkjzC2WDSGM', 'https://archive.org/download/rcproam2-tas-fatratknight_eien86/rcproam2-tas-fatratknight_eien86.mp4']"
+filePaths,['4909M.png']
+SHA1,8C68582BDAA32FBC8C7CD858991D4E00D3B1569C

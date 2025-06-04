@@ -1,0 +1,25 @@
+,348
+id,3718
+title,NES Spy Hunter by link_7777 in 05:56.86
+branch,baseline
+goal,baseline
+gameGoalId,3017
+emulatorVersion,BizHawk 2.2.2
+class,Standard
+systemCode,NES
+submissionId,5973
+gameId,2037
+gameVersionId,1449
+obsoletedById,
+frames,21447
+rerecordCount,13241
+systemFrameRate,60.0988138974405
+movieFileName,link_7777-spyhunter-nes.bk2
+additionalAuthors,
+createTimestamp,2018-06-02T11:24:20
+authors,['link_7777']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=A5qTK92KvF4', 'https://archive.org/download/spyhunter-nes-tas-link_7777/spyhunter-nes-tas-link_7777.mkv', 'https://archive.org/download/spyhunter-nes-tas-link_7777/spyhunter-nes-tas-link_7777_512kb.mp4']"
+filePaths,['3718M.png']
+SHA1,18365FE8E037A50D2127129F81CE291CAB4C1A3E

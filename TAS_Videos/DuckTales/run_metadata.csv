@@ -1,0 +1,25 @@
+,790
+id,6052
+title,"NES DuckTales ""bad ending"" by Jvuln33 in 07:47.68"
+branch,bad ending
+goal,bad ending
+gameGoalId,5429
+emulatorVersion,BizHawk 2.8
+class,Alternative
+systemCode,NES
+submissionId,9164
+gameId,26
+gameVersionId,842
+obsoletedById,
+frames,28107
+rerecordCount,5796
+systemFrameRate,60.09898208746627
+movieFileName,jvuln33v2-ducktales-nes-badending.bk2
+additionalAuthors,
+createTimestamp,2024-07-21T19:15:37.502616
+authors,['Jvuln33']
+tags,"['damage', 'noeasy', 'badending']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=NS9MiktoKGs', 'https://archive.org/download/ducktales-nes-tasv2-badending-jvuln33/ducktales-nes-tasv2-badending-jvuln33.mp4']"
+filePaths,['6052M.png']
+SHA1,4B5720BC6E0590C9372CFBD0C418F8EFD4D0C96D

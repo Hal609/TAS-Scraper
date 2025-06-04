@@ -1,0 +1,25 @@
+,399
+id,4058
+title,"NES Dr. Mario ""all levels"" by poco_cpp, inari80000 & tas_suki in 05:43.00"
+branch,all levels
+goal,all levels
+gameGoalId,3104
+emulatorVersion,BizHawk 2.3.2
+class,Standard
+systemCode,NES
+submissionId,6518
+gameId,518
+gameVersionId,1317
+obsoletedById,
+frames,20614
+rerecordCount,15259
+systemFrameRate,60.0988138974405
+movieFileName,"poco_cpp,inari80000,tas_suki-drmario-nes.bk2"
+additionalAuthors,"inari80000,tas_suki"
+createTimestamp,2019-10-29T14:00:48
+authors,['poco_cpp']
+tags,"['full', 'bestending', 'restart', 'bugs', 'random', 'noeasy']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=lALKw8c4Lqw', 'https://archive.org/download/drmario-nes-tas-alllevels-poco_cppinari80000tas_suki/drmario-nes-tas-alllevels-poco_cpp,inari80000,tas_suki.mkv', 'https://archive.org/download/drmario-nes-tas-alllevels-poco_cppinari80000tas_suki/drmario-nes-tas-alllevels-poco_cpp,inari80000,tas_suki_512kb.mp4']"
+filePaths,['4058M.png']
+SHA1,01DE1E04C396298358E86468BA96148066688194

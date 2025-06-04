@@ -1,0 +1,25 @@
+,240
+id,2963
+title,"NES Ice Climber ""2 players"" by Alyosha in 18:26.39"
+branch,2 players
+goal,2 players
+gameGoalId,4824
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4841
+gameId,133
+gameVersionId,1499
+obsoletedById,
+frames,66493
+rerecordCount,17057
+systemFrameRate,60.0988138974405
+movieFileName,alyosha-iceclimber.fm2
+additionalAuthors,
+createTimestamp,2015-09-27T08:30:18
+authors,['Alyosha']
+tags,"['speed_tradeoff', '2p', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=t7iDWQOWEEU', 'https://archive.org/download/iceclimber-tas-alyosha/iceclimber-tas-alyosha.mkv', 'https://archive.org/download/iceclimber-tas-alyosha/iceclimber-tas-alyosha_512kb.mp4']"
+filePaths,['2963Ma.png']
+SHA1,09D97003BF9D676F24A75CF3E1DCED28CDA3BE59

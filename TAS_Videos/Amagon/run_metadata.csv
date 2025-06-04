@@ -1,0 +1,25 @@
+,109
+id,1924
+title,NES Amagon by Tanooki_Teabag in 18:01.79
+branch,baseline
+goal,baseline
+gameGoalId,471
+emulatorVersion,FCEUX 2.1.4a
+class,Standard
+systemCode,NES
+submissionId,3357
+gameId,322
+gameVersionId,1179
+obsoletedById,
+frames,65014
+rerecordCount,19365
+systemFrameRate,60.0988138974405
+movieFileName,tanookiteabag-amagon.fm2
+additionalAuthors,
+createTimestamp,2011-11-22T19:33:48
+authors,['Tanooki_Teabag']
+tags,"['death', 'damage']"
+flags,[]
+urls,"['https://www.archive.org/download/NesAmagonTasIn1801.79ByTanookiTeabag/amagon-tas-tanookiteabag.mp4', 'https://www.archive.org/download/NesAmagonTasIn1801.79ByTanookiTeabag/amagon-tas-tanookiteabag_10bit444.mp4', 'https://www.youtube.com/watch?v=RzDyBrNndck']"
+filePaths,['1924M.png']
+SHA1,B38F511063E51D109ED5475B73DEB68BF1ADAB98

@@ -1,0 +1,25 @@
+,831
+id,6391
+title,NES Shin Satomi Hakken-den: Hikari to Yami no Tatakai by AmaizumiUni in 38:08.53
+branch,baseline
+goal,baseline
+gameGoalId,8410
+emulatorVersion,FCEUX 2.6.6
+class,Standard
+systemCode,NES
+submissionId,9507
+gameId,4664
+gameVersionId,5543
+obsoletedById,
+frames,137538
+rerecordCount,15493
+systemFrameRate,60.0988138974405
+movieFileName,amaizumiuni-shinsatomihakkendenhikaritoyaminotatakai.fm2
+additionalAuthors,
+createTimestamp,2025-02-19T08:04:26.103151
+authors,['AmaizumiUni']
+tags,"['damage', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=HFFgeyB1EDQ', 'https://archive.org/download/shinsatomihakkendenhikaritoyaminotatakai-tas-amaizumiuni/shinsatomihakkendenhikaritoyaminotatakai-tas-amaizumiuni.mp4']"
+filePaths,['6391M.png']
+SHA1,ac0d556b93a6274b64f6f3beb3225100c8476129

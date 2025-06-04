@@ -1,0 +1,25 @@
+,459
+id,4323
+title,"NES Battletoads & Double Dragon: The Ultimate Team ""2 Players"" by Lobsterzelda & feos in 16:27.56"
+branch,2 Players
+goal,2 Players
+gameGoalId,1407
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6897
+gameId,778
+gameVersionId,1628
+obsoletedById,
+frames,59351
+rerecordCount,126405
+systemFrameRate,60.0988138974405
+movieFileName,"lobsterzelda,feos-battletoadsanddoubledragonut-nes-2p.fm2"
+additionalAuthors,
+createTimestamp,2020-11-05T12:42:19
+authors,"['Lobsterzelda', 'feos']"
+tags,"['speed_tradeoff', '2p', 'death', 'damage', 'bugs', 'random']"
+flags,['stars']
+urls,"['https://www.youtube.com/watch?v=AtJUfgZVmqQ', 'https://archive.org/download/battletoadsanddoubledragonut-nes-tas-2p-lobsterzelda_feos/battletoadsanddoubledragonut-nes-tas-2p-lobsterzelda_feos.mkv', 'https://archive.org/download/battletoadsanddoubledragonut-nes-tas-2p-lobsterzelda_feos/battletoadsanddoubledragonut-nes-tas-2p-lobsterzelda_feos_512kb.mp4']"
+filePaths,['4323M.png']
+SHA1,61832d0f955cff169ff059bd557be4f522b15b7c

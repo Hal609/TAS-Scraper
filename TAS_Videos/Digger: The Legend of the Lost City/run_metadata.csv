@@ -1,0 +1,25 @@
+,259
+id,3082
+title,NES Digger: The Legend of the Lost City by Jules in 03:26.06
+branch,baseline
+goal,baseline
+gameGoalId,1139
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,5013
+gameId,664
+gameVersionId,2257
+obsoletedById,
+frames,12384
+rerecordCount,16227
+systemFrameRate,60.0988138974405
+movieFileName,robyns-diggertrock.fm2
+additionalAuthors,
+createTimestamp,2016-02-12T17:24:47
+authors,['Jules']
+tags,"['damage', 'warps']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=4AUPk_TF3Fk', 'https://archive.org/download/diggertrock-tas-robyns/diggertrock-tas-robyns.mkv', 'https://archive.org/download/diggertrock-tas-robyns/diggertrock-tas-robyns_512kb.mp4']"
+filePaths,['3082M.png']
+SHA1,a3aa8100733d15f50c9166fab6533ba56577174a

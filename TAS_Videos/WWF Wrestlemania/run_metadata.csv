@@ -1,0 +1,25 @@
+,628
+id,5124
+title,NES WWF Wrestlemania by ShesChardcore in 03:22.45
+branch,baseline
+goal,baseline
+gameGoalId,4180
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7934
+gameId,3504
+gameVersionId,3773
+obsoletedById,
+frames,12167
+rerecordCount,5090
+systemFrameRate,60.0988138974405
+movieFileName,sheschardcore-wwfwrestlemania-nes.bk2
+additionalAuthors,
+createTimestamp,2023-03-01T12:05:33.82068
+authors,['ShesChardcore']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=oe8cHf3rxDs', 'https://archive.org/download/wwfwrestlemania-nes-tas-sheschardcore/wwfwrestlemania-nes-tas-sheschardcore.mp4']"
+filePaths,['5124M.png']
+SHA1,F721C5E1433975B801EA2B0981EBD862853528FD

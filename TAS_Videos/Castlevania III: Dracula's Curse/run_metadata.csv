@@ -1,0 +1,25 @@
+,572
+id,4895
+title,"NES Castlevania III: Dracula's Curse ""Grant path, warp glitch"" by scrimpeh in 14:18.24"
+branch,"Grant path, warp glitch"
+goal,"Grant path, warp glitch"
+gameGoalId,2583
+emulatorVersion,BizHawk 2.6.2
+class,Standard
+systemCode,NES
+submissionId,7743
+gameId,55
+gameVersionId,466
+obsoletedById,
+frames,51579
+rerecordCount,77191
+systemFrameRate,60.098899002259465
+movieFileName,scrimpehv2-castlevania3-grantwarpglitch.bk2.zip.bk2
+additionalAuthors,
+createTimestamp,2022-11-07T03:58:25.879059
+authors,['scrimpeh']
+tags,"['death', 'damage', 'warpbug']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=siIr80BjvHU', 'https://archive.org/download/castlevania3-tasv2-grantwarpglitch-scrimpeh/castlevania3-tasv2-grantwarpglitch-scrimpeh.mp4']"
+filePaths,['4895M.png']
+SHA1,F91281D5D9CC26BCF6FB4DE2F5BE086BC633D49B

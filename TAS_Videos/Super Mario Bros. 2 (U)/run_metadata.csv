@@ -1,0 +1,25 @@
+,823
+id,6366
+title,"NES Super Mario Bros. 2 ""warpless"" by Aglar, andrewg & Alyosha in 18:21.87"
+branch,warpless
+goal,warpless
+gameGoalId,401
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,9497
+gameId,2
+gameVersionId,2372
+obsoletedById,
+frames,66221
+rerecordCount,28615
+systemFrameRate,60.0988138974405
+movieFileName,"aglar,andrewg,alyosha-smb2usa-warpless.bk2"
+additionalAuthors,
+createTimestamp,2025-01-31T17:23:15.842315
+authors,"['Aglar', 'andrewg', 'Alyosha']"
+tags,"['damage', 'nowarps', 'bugs']"
+flags,"['Verified', 'stars', 'SensitivityWarning']"
+urls,"['https://www.youtube.com/watch?v=0EMhOwdKfvM', 'https://archive.org/download/smb2usa-tas-warpless-aglar_andrewg_alyosha/smb2usa-tas-warpless-aglar_andrewg_alyosha.mp4']"
+filePaths,['6366M.png']
+SHA1,7DF0F595B074F587C6A1D8F47E031F045D540DAE

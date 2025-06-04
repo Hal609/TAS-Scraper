@@ -1,0 +1,25 @@
+,86
+id,1698
+title,NES Castle of Dragon by adelikat & Randil in 06:28.44
+branch,baseline
+goal,baseline
+gameGoalId,246
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,2940
+gameId,173
+gameVersionId,2707
+obsoletedById,
+frames,23345
+rerecordCount,93300
+systemFrameRate,60.0988138974405
+movieFileName,"adelikat,randil-castledragon.fm2"
+additionalAuthors,
+createTimestamp,2010-12-22T02:43:13
+authors,"['adelikat', 'Randil']"
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=Tu5dBhv9pBI', 'https://archive.org/download/GugaTasvideosEncodes1/castleofdragon-tas-adelikat_randil.mkv', 'https://archive.org/download/GugaTasvideosEncodes1/castleofdragon-tas-adelikat_randil_512kb.mp4']"
+filePaths,['cod_1698.png']
+SHA1,795761BBFA1616D266C17DFBC5FF0F00C41E5275

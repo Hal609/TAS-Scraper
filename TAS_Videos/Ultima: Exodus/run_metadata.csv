@@ -1,0 +1,25 @@
+,125
+id,2061
+title,NES Ultima: Exodus by nanogyth in 21:22.80
+branch,baseline
+goal,baseline
+gameGoalId,1667
+emulatorVersion,FCEUX 2.1.6
+class,Standard
+systemCode,NES
+submissionId,3625
+gameId,1069
+gameVersionId,161
+obsoletedById,
+frames,77095
+rerecordCount,16533
+systemFrameRate,60.0988138974405
+movieFileName,nanogyth-ultima-exodus.fm2
+additionalAuthors,
+createTimestamp,2012-06-15T14:12:19
+authors,['nanogyth']
+tags,"['damage', 'restart', 'savebugs']"
+flags,"['Verified', 'Commentary']"
+urls,"['https://archive.org/download/NesUltimaExodusIn2122.8ByNanogyth/ultima-exodus-tas-nanogyth.mkv', 'https://archive.org/download/NesUltimaExodusIn2122.8ByNanogyth/ultima-exodus-tas-nanogyth_10bit444.mkv', 'https://www.youtube.com/watch?v=sjYsyTkbSrM']"
+filePaths,['2061M.png']
+SHA1,5CCA5711144626A28F9BC2B4445E1C334FCEA770

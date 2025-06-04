@@ -1,0 +1,25 @@
+,474
+id,4420
+title,"NES Teenage Mutant Ninja Turtles III: The Manhattan Project ""2 players"" by Geesk, GJJJGJJJ & aiqiyou in 26:56.29"
+branch,2 players
+goal,2 players
+gameGoalId,3294
+emulatorVersion,FCEUX 2.2.3.3256
+class,Standard
+systemCode,NES
+submissionId,7036
+gameId,324
+gameVersionId,1386
+obsoletedById,
+frames,97137
+rerecordCount,156035
+systemFrameRate,60.0988138974405
+movieFileName,"geesk,gjjjgjjj,aiqiyou-tmnt3-2p.fm2"
+additionalAuthors,
+createTimestamp,2021-03-21T17:41:01
+authors,"['Geesk', 'GJJJGJJJ', 'aiqiyou']"
+tags,"['2p', 'death', 'damage', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=g84J6WqSb-U', 'https://archive.org/download/tmnt3-tas-2p-geesk_gjjjgjjj_aiqiyou/tmnt3-tas-2p-geesk_gjjjgjjj_aiqiyou.mkv', 'https://archive.org/download/tmnt3-tas-2p-geesk_gjjjgjjj_aiqiyou/tmnt3-tas-2p-geesk_gjjjgjjj_aiqiyou_512kb.mp4']"
+filePaths,['4420M.png']
+SHA1,30B6AFB694AB5045B88F723A1ADE44575C33FB69

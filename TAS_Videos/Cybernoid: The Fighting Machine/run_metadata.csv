@@ -1,0 +1,25 @@
+,294
+id,3282
+title,NES Cybernoid: The Fighting Machine by Alyosha in 04:38.36
+branch,baseline
+goal,baseline
+gameGoalId,469
+emulatorVersion,BizHawk 1.11.8.2
+class,Standard
+systemCode,NES
+submissionId,5292
+gameId,1150
+gameVersionId,1415
+obsoletedById,
+frames,16729
+rerecordCount,10364
+systemFrameRate,60.0988138974405
+movieFileName,alyosha-cybernoid.bk2
+additionalAuthors,
+createTimestamp,2016-12-12T15:11:43
+authors,['Alyosha']
+tags,"['death', 'noeasy']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=MhEYUZZBNvA', 'https://archive.org/download/cybernoid-tas-alyosha/cybernoid-tas-alyosha.mkv', 'https://archive.org/download/cybernoid-tas-alyosha/cybernoid-tas-alyosha_512kb.mp4']"
+filePaths,['3282M.png']
+SHA1,7310c85d5abadf9ce2e0bc830e2b4b9c2121b24c

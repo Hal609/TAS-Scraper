@@ -1,0 +1,25 @@
+,743
+id,5767
+title,NES Alfred Chicken by Induviel in 11:22.36
+branch,baseline
+goal,baseline
+gameGoalId,983
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,8822
+gameId,1014
+gameVersionId,2369
+obsoletedById,
+frames,41009
+rerecordCount,13012
+systemFrameRate,60.0988138974405
+movieFileName,induviel-alfredchicken-nes.bk2
+additionalAuthors,
+createTimestamp,2024-01-18T15:45:29.842938
+authors,['Induviel']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=ShUc5O8RiQs', 'https://archive.org/download/alfredchicken-nes-tas-induviel/alfredchicken-nes-tas-induviel.mp4']"
+filePaths,['5767M.png']
+SHA1,C1BC357FCE0AEE0973E8D1F7AAC75A68D52BEA02

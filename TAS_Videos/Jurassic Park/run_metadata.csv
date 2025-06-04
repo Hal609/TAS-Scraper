@@ -1,0 +1,25 @@
+,232
+id,2878
+title,NES Jurassic Park by jlun2 in 23:52.87
+branch,baseline
+goal,baseline
+gameGoalId,1499
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4726
+gameId,896
+gameVersionId,988
+obsoletedById,
+frames,86114
+rerecordCount,37264
+systemFrameRate,60.0988138974405
+movieFileName,jlun2-jurassicpark.fm2
+additionalAuthors,
+createTimestamp,2015-06-27T16:54:31
+authors,['jlun2']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=0_AzqSM7fUk', 'https://archive.org/download/jurassicpark-tas-jlun2/jurassicpark-tas-jlun2.mkv', 'https://archive.org/download/jurassicpark-tas-jlun2/jurassicpark-tas-jlun2_512kb.mp4']"
+filePaths,['2878M.png']
+SHA1,3429CD3D0AF90EF2315D63C641826DBF35E3C4B8

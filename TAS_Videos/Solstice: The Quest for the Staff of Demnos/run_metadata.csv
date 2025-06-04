@@ -1,0 +1,25 @@
+,169
+id,2393
+title,"NES Solstice: The Quest for the Staff of Demnos ""100%"" by AndiHoffi in 11:03.24"
+branch,100%
+goal,100%
+gameGoalId,1180
+emulatorVersion,FCEUX 2.2.0
+class,Standard
+systemCode,NES
+submissionId,3971
+gameId,13
+gameVersionId,282
+obsoletedById,
+frames,39860
+rerecordCount,47635
+systemFrameRate,60.0988138974405
+movieFileName,andihoffi3-solstice100.fm3
+additionalAuthors,
+createTimestamp,2013-05-29T16:21:01
+authors,['AndiHoffi']
+tags,['full']
+flags,['Verified']
+urls,"['https://archive.org/download/IlariEncodingTASVideosMovies5/solstice-tasv3-100p-andihoffi.mkv', 'https://archive.org/download/IlariEncodingTASVideosMovies5/solstice-tasv3-100p-andihoffi_10bit444.mkv', 'https://www.youtube.com/watch?v=6BuW7SuZnEg']"
+filePaths,['2393M.png']
+SHA1,992DA7FAC9248204CDDCDF2E37412007359603BA

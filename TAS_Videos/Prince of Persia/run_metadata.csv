@@ -1,0 +1,25 @@
+,519
+id,4651
+title,NES Prince of Persia by eien86 in 15:20.05
+branch,baseline
+goal,baseline
+gameGoalId,115
+emulatorVersion,BizHawk 2.7
+class,Standard
+systemCode,NES
+submissionId,7422
+gameId,43
+gameVersionId,555
+obsoletedById,
+frames,55294
+rerecordCount,1091
+systemFrameRate,60.0988138974405
+movieFileName,eien86-princeofpersia-nes.bk2
+additionalAuthors,
+createTimestamp,2022-05-02T15:26:48.421598
+authors,['eien86']
+tags,['damage']
+flags,"['Verified', 'SensitivityWarning']"
+urls,"['https://www.youtube.com/watch?v=dU3hOh2Rb8g', 'https://archive.org/download/princeofpersia-nes-tas-eien86/princeofpersia-nes-tas-eien86.mp4']"
+filePaths,['4651M.png']
+SHA1,6b58f149f34fa829135619c58700caaa95b9cde3

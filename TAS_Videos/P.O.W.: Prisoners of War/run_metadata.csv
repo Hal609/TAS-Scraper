@@ -1,0 +1,25 @@
+,707
+id,5498
+title,NES P.O.W.: Prisoners of War by NhatNM in 18:06.16
+branch,baseline
+goal,baseline
+gameGoalId,4581
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,8514
+gameId,3850
+gameVersionId,4242
+obsoletedById,
+frames,65277
+rerecordCount,19759
+systemFrameRate,60.0988138974405
+movieFileName,nhatnm-powprisonersofwar-nes.bk2
+additionalAuthors,
+createTimestamp,2023-08-17T20:53:13.161358
+authors,['NhatNM']
+tags,['random']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=3_q7lliwT74', 'https://archive.org/download/powprisonersofwar-nes-tas-nhatnm/powprisonersofwar-nes-tas-nhatnm.mp4']"
+filePaths,['5498M.png']
+SHA1,A942F478AC91B4288D7682E7FE15C3D60B82BFF3

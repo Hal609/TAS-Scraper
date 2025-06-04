@@ -1,0 +1,25 @@
+,408
+id,4113
+title,NES The Lion King by Lobsterzelda & Bluely in 05:09.10
+branch,baseline
+goal,baseline
+gameGoalId,3218
+emulatorVersion,BizHawk 2.3.3
+class,Standard
+systemCode,NES
+submissionId,6609
+gameId,1282
+gameVersionId,2061
+obsoletedById,
+frames,15457
+rerecordCount,19284
+systemFrameRate,50.0069789081886
+movieFileName,"lobsterzelda,bluely-lionking.bk2"
+additionalAuthors,
+createTimestamp,2020-02-23T19:40:06
+authors,"['Lobsterzelda', 'Bluely']"
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=8-1AbesTK8A', 'https://archive.org/download/lionking-nes-tas-lobsterzeldabluely/lionking-nes-tas-lobsterzelda%2Cbluely.mkv', 'https://archive.org/download/lionking-nes-tas-lobsterzeldabluely/lionking-nes-tas-lobsterzelda%2Cbluely_512kb.mp4']"
+filePaths,['4113M.png']
+SHA1,7841C458014849207BB63B60E1DA7D5C6884C5DD

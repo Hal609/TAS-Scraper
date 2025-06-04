@@ -1,0 +1,25 @@
+,451
+id,4269
+title,NES The Punisher by XTREMAL93 in 59:00.50
+branch,baseline
+goal,baseline
+gameGoalId,3492
+emulatorVersion,Bizhawk 2.4.2
+class,Standard
+systemCode,NES
+submissionId,6831
+gameId,2245
+gameVersionId,1433
+obsoletedById,
+frames,212780
+rerecordCount,17747
+systemFrameRate,60.0988138974405
+movieFileName,xtremal93-punisher.bk2
+additionalAuthors,
+createTimestamp,2020-08-21T09:02:44
+authors,['XTREMAL93']
+tags,"['kills', 'death', 'damage']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=2WL5tLOeKeU', 'https://archive.org/download/punisher-tas-xtremal93/punisher-tas-xtremal93.mkv', 'https://archive.org/download/punisher-tas-xtremal93/punisher-tas-xtremal93_512kb.mp4']"
+filePaths,['4269M.png']
+SHA1,E1B29A14727391738B0A48C9AE409A76012EC2AC

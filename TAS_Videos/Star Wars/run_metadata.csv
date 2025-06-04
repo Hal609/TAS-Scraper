@@ -1,0 +1,25 @@
+,83
+id,1653
+title,NES Star Wars by Aglar in 07:53.35
+branch,baseline
+goal,baseline
+gameGoalId,311
+emulatorVersion,FCEUX 2.1.2
+class,Standard
+systemCode,NES
+submissionId,2880
+gameId,193
+gameVersionId,1850
+obsoletedById,
+frames,28448
+rerecordCount,24262
+systemFrameRate,60.0988138974405
+movieFileName,aglar-starwars.fm2
+additionalAuthors,
+createTimestamp,2010-10-21T02:34:49
+authors,['Aglar']
+tags,['damage']
+flags,['Atlas']
+urls,"['https://archive.org/download/starwars-tas-aglar/starwars-tas-aglar.mkv', 'https://www.youtube.com/watch?v=tyPemk0NcSQ', 'https://archive.org/download/starwars-tas-aglar/starwars-tas-aglar_512kb.mp4']"
+filePaths,['starwars_2880.png']
+SHA1,372CBD8991C8A1D5ED15189B47D5990FBA5D4485

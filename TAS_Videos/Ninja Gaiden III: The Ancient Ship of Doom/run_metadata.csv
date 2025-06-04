@@ -1,0 +1,25 @@
+,188
+id,2507
+title,NES Ninja Gaiden III: The Ancient Ship of Doom by Rum in 11:08.73
+branch,baseline
+goal,baseline
+gameGoalId,219
+emulatorVersion,FCEUX 2.1.4a
+class,Standard
+systemCode,NES
+submissionId,4150
+gameId,168
+gameVersionId,353
+obsoletedById,
+frames,40190
+rerecordCount,22008
+systemFrameRate,60.0988138974405
+movieFileName,rumv1-ninjagaiden3.fm2
+additionalAuthors,
+createTimestamp,2014-01-05T19:53:19
+authors,['Rum']
+tags,['damage']
+flags,['Verified']
+urls,"['https://archive.org/download/IlariEncodingTASVideosMovies7/ninjagaiden3-tas-rum.mkv', 'https://archive.org/download/IlariEncodingTASVideosMovies7/ninjagaiden3-tas-rum_512kb.mp4', 'https://www.youtube.com/watch?v=4K_QRUlyEv8']"
+filePaths,['2507M.png']
+SHA1,3F2E6DAC76BA14EFC177B5653AB043E53A04D365

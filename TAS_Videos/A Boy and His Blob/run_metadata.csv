@@ -1,0 +1,25 @@
+,207
+id,2692
+title,"NES A Boy and His Blob by MESHUGGAH, Zephyrz & Aglar in 01:19.14"
+branch,baseline
+goal,baseline
+gameGoalId,147
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4441
+gameId,75
+gameVersionId,1223
+obsoletedById,
+frames,4756
+rerecordCount,35919
+systemFrameRate,60.0988138974405
+movieFileName,"meshuggah,zephyrz,aglar-aboyandhisblob.fm2"
+additionalAuthors,
+createTimestamp,2014-09-28T14:27:50
+authors,"['MESHUGGAH', 'Zephyrz', 'Aglar']"
+tags,['bugs']
+flags,['Verified']
+urls,"['https://archive.org/download/aboyandhisblob-tas-meshuggahzephyrzaglar/aboyandhisblob-tas-meshuggahzephyrzaglar.mkv', 'https://archive.org/download/aboyandhisblob-tas-meshuggahzephyrzaglar/aboyandhisblob-tas-meshuggahzephyrzaglar_512kb.mp4', 'https://www.youtube.com/watch?v=tJPeSm7T-dM']"
+filePaths,['2692M.png']
+SHA1,74e43903d7b7a8d6b17e53f2774a4b2d26a2ea9a

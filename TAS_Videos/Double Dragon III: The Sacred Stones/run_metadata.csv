@@ -1,0 +1,25 @@
+,320
+id,3409
+title,"NES Double Dragon III: The Sacred Stones ""1 player"" by Xipo in 10:03.77"
+branch,1 player
+goal,1 player
+gameGoalId,4790
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,5500
+gameId,52
+gameVersionId,1967
+obsoletedById,
+frames,36286
+rerecordCount,69166
+systemFrameRate,60.0988138974405
+movieFileName,xipov4-doubledragon3.fm2
+additionalAuthors,
+createTimestamp,2017-05-28T11:16:56
+authors,['Xipo']
+tags,"['just1p', 'death', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=YnXYG-lOcI0', 'https://archive.org/download/doubledragon3-tasv4-xipo/doubledragon3-tasv4-xipo.mkv', 'https://archive.org/download/doubledragon3-tasv4-xipo/doubledragon3-tasv4-xipo_512kb.mp4']"
+filePaths,['3409M.png']
+SHA1,18ECC9CAD3B1C36653867EA02A8465F2046AA459

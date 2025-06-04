@@ -1,0 +1,25 @@
+,192
+id,2569
+title,NES Wayne's World by Dooty in 05:29.99
+branch,baseline
+goal,baseline
+gameGoalId,1996
+emulatorVersion,BizHawk 1.6.1
+class,Standard
+systemCode,NES
+submissionId,4243
+gameId,1518
+gameVersionId,376
+obsoletedById,
+frames,19832
+rerecordCount,15913
+systemFrameRate,60.0988138974405
+movieFileName,dooty-waynesworld.bkm
+additionalAuthors,
+createTimestamp,2014-04-05T09:50:42
+authors,['Dooty']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/DootysNesWaynesWorldIn0529.99/waynesworld-tas-dooty.mkv', 'https://archive.org/download/DootysNesWaynesWorldIn0529.99/waynesworld-tas-dooty_512kb.mp4', 'https://www.youtube.com/watch?v=b-zTmmdQVVE']"
+filePaths,['2569M.png']
+SHA1,7363720E0BC3EB2E138DF9D11E816A7176705EFC

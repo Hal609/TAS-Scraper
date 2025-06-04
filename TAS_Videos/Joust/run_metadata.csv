@@ -1,0 +1,25 @@
+,211
+id,2728
+title,"NES Joust ""2 players"" by feos in 06:52.55"
+branch,2 players
+goal,2 players
+gameGoalId,5034
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4485
+gameId,1614
+gameVersionId,453
+obsoletedById,
+frames,24794
+rerecordCount,20179
+systemFrameRate,60.0988138974405
+movieFileName,feos-joust.fm3
+additionalAuthors,
+createTimestamp,2014-12-06T12:32:45
+authors,['feos']
+tags,"['2p', 'noeasy']"
+flags,['Verified']
+urls,"['https://archive.org/download/joust-tas-feos/joust-tas-feos.mkv', 'https://archive.org/download/joust-tas-feos/joust-tas-feos_512kb.mp4', 'https://www.youtube.com/watch?v=0Fb8rUh8j1U']"
+filePaths,['2728M.png']
+SHA1,BCEEC93358696071C562173441AD564EF6CACB02

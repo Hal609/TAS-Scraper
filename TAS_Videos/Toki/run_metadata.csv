@@ -1,0 +1,25 @@
+,366
+id,3830
+title,NES Toki by XTREMAL93 in 09:51.81
+branch,baseline
+goal,baseline
+gameGoalId,300
+emulatorVersion,BizHawk 2.3
+class,Standard
+systemCode,NES
+submissionId,6153
+gameId,1012
+gameVersionId,1204
+obsoletedById,
+frames,35567
+rerecordCount,10280
+systemFrameRate,60.0988138974405
+movieFileName,xtremal93v2-toki.bk2
+additionalAuthors,
+createTimestamp,2018-11-27T18:55:16
+authors,['XTREMAL93']
+tags,"['death', 'damage']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=xX2lFohmQmY', 'https://archive.org/download/toki-tasv2-xtremal93/toki-tasv2-xtremal93.mkv', 'https://archive.org/download/toki-tasv2-xtremal93/toki-tasv2-xtremal93_512kb.mp4']"
+filePaths,['3830M.png']
+SHA1,AACA3416696B8BFE96FDD53F7C652AEF5E10B211

@@ -1,0 +1,25 @@
+,416
+id,4133
+title,"NES Jackal ""2 players"" by zyr2288 & aiqiyou in 07:10.82"
+branch,2 players
+goal,2 players
+gameGoalId,3386
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6640
+gameId,155
+gameVersionId,2053
+obsoletedById,
+frames,25892
+rerecordCount,42748
+systemFrameRate,60.0988138974405
+movieFileName,"zyr2288,aiqiyou-jackal-2p.fm2"
+additionalAuthors,
+createTimestamp,2020-03-15T23:57:25
+authors,"['zyr2288', 'aiqiyou']"
+tags,"['2p', 'death']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=ye5gRpZTfUI', 'https://archive.org/download/jackal-tas-2p-zyr2288aiqiyou/jackal-tas-2p-zyr2288,aiqiyou.mkv', 'https://archive.org/download/jackal-tas-2p-zyr2288aiqiyou/jackal-tas-2p-zyr2288,aiqiyou_512kb.mp4']"
+filePaths,['4133M.png']
+SHA1,86C392A1D9A731FA48E148AFBE60AF75F918CB5A

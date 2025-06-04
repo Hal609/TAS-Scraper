@@ -1,0 +1,25 @@
+,527
+id,4705
+title,"NES Indivisible ""Clearest!"" by FractalFusion in 03:07.92"
+branch,Clearest!
+goal,Clearest!
+gameGoalId,3780
+emulatorVersion,BizHawk 2.5.2
+class,Standard
+systemCode,NES
+submissionId,7371
+gameId,2449
+gameVersionId,586
+obsoletedById,
+frames,11294
+rerecordCount,14715
+systemFrameRate,60.0988138974405
+movieFileName,fractalfusion-indivisible-nes.bk2
+additionalAuthors,
+createTimestamp,2022-06-10T07:17:57.146227
+authors,['FractalFusion']
+tags,['full']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=6_Ekb8cJO8I', 'https://archive.org/download/indivisible-nes-tas-fractalfusion/indivisible-nes-tas-fractalfusion.mp4']"
+filePaths,['4705M.png']
+SHA1,d13c7b57f93bf4a677cc35285008317810e50867

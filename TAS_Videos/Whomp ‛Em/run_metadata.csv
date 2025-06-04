@@ -1,0 +1,25 @@
+,7
+id,688
+title,NES Whomp ‛Em by adelikat in 11:39.45
+branch,baseline
+goal,baseline
+gameGoalId,199
+emulatorVersion,FCEU 0.98.12
+class,Standard
+systemCode,NES
+submissionId,1147
+gameId,143
+gameVersionId,2352
+obsoletedById,
+frames,41967
+rerecordCount,17213
+systemFrameRate,60.0
+movieFileName,adelikat-whompem.fcm
+additionalAuthors,
+createTimestamp,2006-09-24T20:35:17
+authors,['adelikat']
+tags,['damage']
+flags,['Atlas']
+urls,"['https://archive.org/download/whompem-tas-adelikat/whompem-tas-adelikat.mp4', 'https://www.youtube.com/watch?v=JOtuEXfq57g']"
+filePaths,['whompem2.png']
+SHA1,F5B48A4A18A3002838AC93EAF93C1BA4571501D2

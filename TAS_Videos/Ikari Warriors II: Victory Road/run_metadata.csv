@@ -1,0 +1,25 @@
+,460
+id,4338
+title,"NES Ikari Warriors II: Victory Road ""1 player"" by ktwo in 07:45.52"
+branch,1 player
+goal,1 player
+gameGoalId,5082
+emulatorVersion,BizHawk 2.3.1
+class,Standard
+systemCode,NES
+submissionId,6920
+gameId,2249
+gameVersionId,2250
+obsoletedById,
+frames,27977
+rerecordCount,14562
+systemFrameRate,60.0988138974405
+movieFileName,ktwov2-ikariwarriors2victoryroad.bk2
+additionalAuthors,
+createTimestamp,2020-11-18T15:25:08
+authors,['ktwo']
+tags,"['just1p', 'damage']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=V32dAppgoDA', 'https://archive.org/download/ikariwarriors2victoryroad-tasv2-ktwo/ikariwarriors2victoryroad-tasv2-ktwo.mkv', 'https://archive.org/download/ikariwarriors2victoryroad-tasv2-ktwo/ikariwarriors2victoryroad-tasv2-ktwo_512kb.mp4']"
+filePaths,['4338M.png']
+SHA1,2A43AEFD2768874E211B6EBA74441BF295C64BA6

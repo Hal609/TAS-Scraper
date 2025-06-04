@@ -1,0 +1,25 @@
+,0
+id,369
+title,NES Street Fighter 2010: The Final Fight by nesrocks in 17:39.98
+branch,baseline
+goal,baseline
+gameGoalId,38
+emulatorVersion,FCEU 0.98.12
+class,Standard
+systemCode,NES
+submissionId,680
+gameId,100
+gameVersionId,4860
+obsoletedById,
+frames,63599
+rerecordCount,5626
+systemFrameRate,60.0
+movieFileName,foda-sf2010.fcm
+additionalAuthors,
+createTimestamp,2005-07-04T19:02:13
+authors,['nesrocks']
+tags,['nowarpbug']
+flags,[]
+urls,"['https://archive.org/download/streetfighter2010-tas-nesrocks/streetfighter2010-tas-nesrocks.mkv', 'https://archive.org/download/streetfighter2010-tas-nesrocks/streetfighter2010-tas-nesrocks_512kb.mp4', 'https://www.youtube.com/watch?v=dk2irqF-RSw']"
+filePaths,['sf2010.png']
+SHA1,92F1DC8FC7C9420CF26D063611FA7D9067197740

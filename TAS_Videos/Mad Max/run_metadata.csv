@@ -1,0 +1,25 @@
+,153
+id,2197
+title,NES Mad Max by Twisted_Eye in 13:08.53
+branch,baseline
+goal,baseline
+gameGoalId,534
+emulatorVersion,FCEUX 2.2.0
+class,Standard
+systemCode,NES
+submissionId,1125
+gameId,1342
+gameVersionId,2023
+obsoletedById,
+frames,47390
+rerecordCount,1851
+systemFrameRate,60.0988138974405
+movieFileName,twistedeye-madmax.fm2
+additionalAuthors,
+createTimestamp,2012-12-08T20:19:12
+authors,['Twisted_Eye']
+tags,[]
+flags,[]
+urls,"['https://archive.org/download/MadMaxusaIn1309.83ByTwistedEye/madmax-tas-twistedeye.mkv', 'https://archive.org/download/MadMaxusaIn1309.83ByTwistedEye/madmax-tas-twistedeye_10bit444.mkv', 'https://www.youtube.com/watch?v=6KjzvhUbbfg']"
+filePaths,['2197M.png']
+SHA1,d7bc3dc0f95c9294c9d98bed070e942fe4246f2f

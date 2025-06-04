@@ -1,0 +1,25 @@
+,658
+id,5254
+title,"NES Donkey Kong ""all items"" by Phil, Spikestuff, GoddessMaria & Alyosha in 01:15.03"
+branch,all items
+goal,all items
+gameGoalId,4383
+emulatorVersion,BizHawk 2.9
+class,Standard
+systemCode,NES
+submissionId,8235
+gameId,210
+gameVersionId,86
+obsoletedById,
+frames,4509
+rerecordCount,0
+systemFrameRate,60.0988138974405
+movieFileName,"phil,spikestuff,goddessmaria,alyosha-donkeykong-nes-allitems.bk2"
+additionalAuthors,
+createTimestamp,2023-05-05T00:59:30.540531
+authors,"['Phil', 'Spikestuff', 'GoddessMaria', 'Alyosha']"
+tags,"['full', 'bugs', 'noeasy']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=JuUSYAJEZqQ', 'https://archive.org/download/donkeykong-nes-tas-allitems-phil_spikestuff_goddessmaria_alyosha/donkeykong-nes-tas-allitems-phil_spikestuff_goddessmaria_alyosha.mp4']"
+filePaths,['5254M.png']
+SHA1,d8dfacbfec34cdc871d73c901811551fe1706923

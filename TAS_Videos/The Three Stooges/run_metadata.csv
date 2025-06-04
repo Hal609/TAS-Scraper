@@ -1,0 +1,25 @@
+,535
+id,4752
+title,"NES The Three Stooges ""best ending"" by Darkman425 in 15:41.27"
+branch,best ending
+goal,best ending
+gameGoalId,3901
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7543
+gameId,1463
+gameVersionId,1904
+obsoletedById,
+frames,56569
+rerecordCount,3356
+systemFrameRate,60.098897191091915
+movieFileName,darkman425-thethreestooges.bk2
+additionalAuthors,
+createTimestamp,2022-07-06T07:30:59.476318
+authors,['Darkman425']
+tags,"['bestending', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=XRfxCjHR3uw', 'https://archive.org/download/thethreestooges-tas-darkman425/thethreestooges-tas-darkman425.mp4']"
+filePaths,['4752M.png']
+SHA1,9C76AE827AE356046EFC8E582B926788B5B63164

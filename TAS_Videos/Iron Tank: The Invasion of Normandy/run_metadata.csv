@@ -1,0 +1,25 @@
+,172
+id,2412
+title,NES Iron Tank: The Invasion of Normandy by £e Nécroyeur in 11:47.47
+branch,baseline
+goal,baseline
+gameGoalId,1897
+emulatorVersion,FCEUX 2.1.5
+class,Standard
+systemCode,NES
+submissionId,4001
+gameId,1470
+gameVersionId,318
+obsoletedById,
+frames,42518
+rerecordCount,83384
+systemFrameRate,60.0988138974405
+movieFileName,lenecroyeur1-irontank.fm2
+additionalAuthors,
+createTimestamp,2013-07-05T10:39:42
+authors,['£e_Nécroyeur']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/IlariEncodingTASVideosMovies6/irontank-tas-lenecroyeur.mkv', 'https://archive.org/download/IlariEncodingTASVideosMovies6/irontank-tas-lenecroyeur_10bit444.mkv', 'https://www.youtube.com/watch?v=4UnyBRA9WZ4']"
+filePaths,['2412M.png']
+SHA1,7D86532B323CA75D827DA5EA5F67D2F10FD39690

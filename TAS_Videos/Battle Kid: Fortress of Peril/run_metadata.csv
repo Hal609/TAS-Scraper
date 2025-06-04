@@ -1,0 +1,25 @@
+,544
+id,4791
+title,"NES Battle Kid: Fortress of Peril ""SGCLEVEL"" by Fortranm in 00:27.65"
+branch,SGCLEVEL
+goal,SGCLEVEL
+gameGoalId,3941
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7600
+gameId,764
+gameVersionId,1132
+obsoletedById,
+frames,1662
+rerecordCount,1096
+systemFrameRate,60.10168732055944
+movieFileName,fortranm-battlekidfortressofperil-sgclevel.bk2
+additionalAuthors,
+createTimestamp,2022-08-03T13:36:48.910829
+authors,['Fortranm']
+tags,['password']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=3nKFWgXR8fY', 'https://archive.org/download/battlekidfortressofperil-tas-sgclevel-fortranm/battlekidfortressofperil-tas-sgclevel-fortranm.mp4']"
+filePaths,['4791M.png']
+SHA1,BD4F026D7D399EBD331B883ADA06C80D04B60BE2

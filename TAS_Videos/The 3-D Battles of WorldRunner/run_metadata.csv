@@ -1,0 +1,25 @@
+,346
+id,3690
+title,NES The 3-D Battles of WorldRunner by DrD2k9 & EZGames69 in 18:00.64
+branch,baseline
+goal,baseline
+gameGoalId,2948
+emulatorVersion,BizHawk 1.13.1
+class,Standard
+systemCode,NES
+submissionId,5877
+gameId,1739
+gameVersionId,2499
+obsoletedById,
+frames,64945
+rerecordCount,20603
+systemFrameRate,60.0988138974405
+movieFileName,"drd2k9,ezgames69-3dbattlesofworldrunner.bk2"
+additionalAuthors,
+createTimestamp,2018-04-29T07:47:47
+authors,"['DrD2k9', 'EZGames69']"
+tags,['noeasy']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=5NR_jpYT9As', 'https://archive.org/download/3dbattlesofworldrunner-tas-drd2k9ezgames69/3dbattlesofworldrunner-tas-drd2k9%2Cezgames69.mkv', 'https://archive.org/download/3dbattlesofworldrunner-tas-drd2k9ezgames69/3dbattlesofworldrunner-tas-drd2k9%2Cezgames69_512kb.mp4']"
+filePaths,['3690M.png']
+SHA1,75B6CC94A952875C936DABFBB6157F9A11C5AC49

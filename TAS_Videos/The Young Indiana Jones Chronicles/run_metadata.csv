@@ -1,0 +1,25 @@
+,367
+id,3836
+title,NES The Young Indiana Jones Chronicles by XTREMAL93 in 10:50.83
+branch,baseline
+goal,baseline
+gameGoalId,1556
+emulatorVersion,BizHawk 2.3
+class,Standard
+systemCode,NES
+submissionId,6164
+gameId,999
+gameVersionId,2126
+obsoletedById,
+frames,39114
+rerecordCount,11722
+systemFrameRate,60.0988138974405
+movieFileName,xtremal93-theyoungindianajoneschronicles.bk2
+additionalAuthors,
+createTimestamp,2018-12-03T15:45:05
+authors,['XTREMAL93']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=RSogucuhikw', 'https://archive.org/download/theyoungindianajoneschronicles-tas-xtremal93/theyoungindianajoneschronicles-tas-xtremal93.mkv', 'https://archive.org/download/theyoungindianajoneschronicles-tas-xtremal93/theyoungindianajoneschronicles-tas-xtremal93_512kb.mp4']"
+filePaths,['3836M.png']
+SHA1,9D4142B9AF92D5592DE54DFE508AB4B70E4E7DB2

@@ -1,0 +1,25 @@
+,252
+id,3026
+title,"NES Snake Rattle 'n' Roll ""warpless, 2 players"" by Alyosha & MESHUGGAH in 06:52.65"
+branch,"warpless, 2 players"
+goal,"warpless, 2 players"
+gameGoalId,4825
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4935
+gameId,107
+gameVersionId,2465
+obsoletedById,
+frames,24800
+rerecordCount,34113
+systemFrameRate,60.0988138974405
+movieFileName,alyosha_meshuggah-snakerattlenroll-2players.fm2
+additionalAuthors,
+createTimestamp,2015-12-19T01:10:00
+authors,"['Alyosha', 'MESHUGGAH']"
+tags,"['2p', 'nowarps']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=pqeG_5vM3PU', 'https://archive.org/download/snakerattlenroll-tas-2players-alyosha_meshuggah/snakerattlenroll-tas-2players-alyosha_meshuggah.mkv', 'https://archive.org/download/snakerattlenroll-tas-2players-alyosha_meshuggah/snakerattlenroll-tas-2players-alyosha_meshuggah_512kb.mp4']"
+filePaths,['3026M.png']
+SHA1,3a95fa7bab8aa16e43a5652158abec2b74b277b4

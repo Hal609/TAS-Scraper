@@ -1,0 +1,25 @@
+,135
+id,2135
+title,NES Gyromite by kirbymuncher in 23:07.71
+branch,baseline
+goal,baseline
+gameGoalId,692
+emulatorVersion,FCEUX 2.1.5
+class,Standard
+systemCode,NES
+submissionId,1668
+gameId,1215
+gameVersionId,187
+obsoletedById,
+frames,83400
+rerecordCount,4480
+systemFrameRate,60.0988138974405
+movieFileName,kirbymuncher-gyromite.fm2
+additionalAuthors,
+createTimestamp,2012-11-13T03:46:26
+authors,['kirbymuncher']
+tags,[]
+flags,[]
+urls,"['https://archive.org/download/NesGyromiteworldIn2307.71ByKirbymuncher/gyromite-tas-kirbymuncher.mkv', 'https://archive.org/download/NesGyromiteworldIn2307.71ByKirbymuncher/gyromite-tas-kirbymuncher_10bit444.mkv', 'https://www.youtube.com/watch?v=zupqEC3MVKI']"
+filePaths,['2135M.png']
+SHA1,77B3A27B07CF7625227478ADA2D42006CAD3F7D6

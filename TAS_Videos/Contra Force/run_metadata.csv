@@ -1,0 +1,25 @@
+,400
+id,4062
+title,NES Contra Force by Xipo in 09:56.00
+branch,baseline
+goal,baseline
+gameGoalId,1129
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6536
+gameId,658
+gameVersionId,1610
+obsoletedById,
+frames,35819
+rerecordCount,103720
+systemFrameRate,60.0988138974405
+movieFileName,xipo-contraforce.fm2
+additionalAuthors,
+createTimestamp,2019-11-02T09:43:33
+authors,['Xipo']
+tags,"['death', 'bugs', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=nMCdDnRT2qQ', 'https://archive.org/download/contraforce-tas-xipo/contraforce-tas-xipo.mkv', 'https://archive.org/download/contraforce-tas-xipo/contraforce-tas-xipo_512kb.mp4']"
+filePaths,['4062M.png']
+SHA1,9fa1ee5fcacada43cfda91773c7298c722b7d990

@@ -1,0 +1,25 @@
+,538
+id,4761
+title,NES The Last Ninja by ShesChardcore in 07:55.67
+branch,baseline
+goal,baseline
+gameGoalId,2310
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7567
+gameId,1663
+gameVersionId,1513
+obsoletedById,
+frames,28587
+rerecordCount,13481
+systemFrameRate,60.0988138974405
+movieFileName,sheschardcore-thelastninja.bk2
+additionalAuthors,
+createTimestamp,2022-07-08T17:49:33.852074
+authors,['ShesChardcore']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=3bT-tz4121M', 'https://archive.org/download/thelastninja-tas-sheschardcore/thelastninja-tas-sheschardcore.mp4']"
+filePaths,['4761M.png']
+SHA1,01EA132A014B655DFD0EF67DA8629CEC3A28EBA1

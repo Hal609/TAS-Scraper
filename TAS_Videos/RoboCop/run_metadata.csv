@@ -1,0 +1,25 @@
+,225
+id,2846
+title,NES RoboCop by Dimon12321 in 09:49.68
+branch,baseline
+goal,baseline
+gameGoalId,382
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4679
+gameId,1206
+gameVersionId,1719
+obsoletedById,
+frames,35439
+rerecordCount,424
+systemFrameRate,60.0988138974405
+movieFileName,dimon12321-robocop.fm2
+additionalAuthors,
+createTimestamp,2015-05-15T12:58:27
+authors,['Dimon12321']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=WsBOTzr0jmw', 'https://archive.org/download/robocop-tas-dimon12321/robocop-tas-dimon12321.mkv', 'https://archive.org/download/robocop-tas-dimon12321/robocop-tas-dimon12321_512kb.mp4']"
+filePaths,['2846M.png']
+SHA1,9103A9355FE00769BEF3FE74F8DFEF29FEDEBABF

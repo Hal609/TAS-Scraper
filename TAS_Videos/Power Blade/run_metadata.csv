@@ -1,0 +1,25 @@
+,403
+id,4080
+title,NES Power Blade by scrimpeh in 13:54.01
+branch,baseline
+goal,baseline
+gameGoalId,45
+emulatorVersion,BizHawk 2.3
+class,Standard
+systemCode,NES
+submissionId,6553
+gameId,109
+gameVersionId,889
+obsoletedById,
+frames,50123
+rerecordCount,51692
+systemFrameRate,60.0988138974405
+movieFileName,scrimpeh-powerblade.bk2
+additionalAuthors,
+createTimestamp,2019-12-12T20:54:57
+authors,['scrimpeh']
+tags,"['damage', 'noeasy']"
+flags,['Atlas']
+urls,"['https://www.youtube.com/watch?v=nP9s8rvp59Q', 'https://archive.org/download/powerblade-tas-scrimpeh/powerblade-tas-scrimpeh.mkv', 'https://archive.org/download/powerblade-tas-scrimpeh/powerblade-tas-scrimpeh_512kb.mp4']"
+filePaths,['4080M.png']
+SHA1,5D2AB4AF581D6B81B9A97A505798AE3B2F494D8A

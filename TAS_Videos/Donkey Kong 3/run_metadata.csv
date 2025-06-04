@@ -1,0 +1,25 @@
+,637
+id,5172
+title,NES Donkey Kong 3 by klmz in 00:48.00
+branch,baseline
+goal,baseline
+gameGoalId,470
+emulatorVersion,FCEUX 2.1.6
+class,Standard
+systemCode,NES
+submissionId,5993
+gameId,866
+gameVersionId,209
+obsoletedById,
+frames,2885
+rerecordCount,2517
+systemFrameRate,60.0988138974405
+movieFileName,klmz-donkeykong3.fm2
+additionalAuthors,
+createTimestamp,2023-03-19T15:58:36.748975
+authors,['klmz']
+tags,['death']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=qHFAXXw3oYk', 'https://archive.org/download/donkeykong3-tas-klmz/donkeykong3-tas-klmz.mp4']"
+filePaths,['5172M.png']
+SHA1,EC6FA944C672A2522C8BC270A25842281C65FF5D

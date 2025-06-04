@@ -1,0 +1,25 @@
+,478
+id,4441
+title,NES King's Quest V: Absence Makes the Heart Go Yonder! by FractalFusion in 30:59.69
+branch,baseline
+goal,baseline
+gameGoalId,783
+emulatorVersion,BizHawk 2.5.2
+class,Standard
+systemCode,NES
+submissionId,7050
+gameId,1144
+gameVersionId,1685
+obsoletedById,
+frames,111765
+rerecordCount,33089
+systemFrameRate,60.0988138974405
+movieFileName,fractalfusion-kingsquestv.bk2
+additionalAuthors,
+createTimestamp,2021-04-24T15:47:29
+authors,['FractalFusion']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=UfAZlkcRXCo', 'https://archive.org/download/kingsquestv-tas-fractalfusion/kingsquestv-tas-fractalfusion.mkv', 'https://archive.org/download/kingsquestv-tas-fractalfusion/kingsquestv-tas-fractalfusion_512kb.mp4']"
+filePaths,['4441M.png']
+SHA1,C695E7CAE3B4BA49CABC2A12E9F7DCB06C18B8CC

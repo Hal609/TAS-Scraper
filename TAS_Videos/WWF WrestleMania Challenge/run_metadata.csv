@@ -1,0 +1,25 @@
+,612
+id,5076
+title,"NES WWF WrestleMania Challenge ""1 VS 8: Super Challenge"" by ShesChardcore in 02:17.22"
+branch,1 VS 8: Super Challenge
+goal,1 VS 8: Super Challenge
+gameGoalId,4182
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7941
+gameId,3472
+gameVersionId,3730
+obsoletedById,
+frames,8247
+rerecordCount,3360
+systemFrameRate,60.0988138974405
+movieFileName,sheschardcore-wwfwrestlemaniachallenge-1vs8.bk2
+additionalAuthors,
+createTimestamp,2023-02-06T15:53:39.465757
+authors,['ShesChardcore']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=lVIBMkSt91M', 'https://archive.org/download/wwfwrestlemaniachallenge-tas-sheschardcore/wwfwrestlemaniachallenge-tas-1vs8-sheschardcore.mp4']"
+filePaths,['5076M.png']
+SHA1,8848DABF75B06560FFD743D83F2F081644A8FF7C

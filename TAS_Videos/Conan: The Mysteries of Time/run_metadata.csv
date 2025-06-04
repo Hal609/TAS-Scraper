@@ -1,0 +1,25 @@
+,360
+id,3765
+title,NES Conan: The Mysteries of Time by klmz in 04:59.77
+branch,baseline
+goal,baseline
+gameGoalId,3032
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,6000
+gameId,2061
+gameVersionId,938
+obsoletedById,
+frames,18016
+rerecordCount,13634
+systemFrameRate,60.0988138974405
+movieFileName,klmz-conanthemysteriesoftime.fm2
+additionalAuthors,
+createTimestamp,2018-08-11T16:17:57
+authors,['klmz']
+tags,"['damage', 'bugs']"
+flags,[]
+urls,"['https://archive.org/download/conanthemysteriesoftime-tas-klmz/conanthemysteriesoftime-tas-klmz.mkv', 'https://archive.org/download/conanthemysteriesoftime-tas-klmz/conanthemysteriesoftime-tas-klmz_512kb.mp4', 'https://www.youtube.com/watch?v=YPxobJifP5A']"
+filePaths,['3765M.png']
+SHA1,35A0843FF05BEF92DC80A77ED267E1201EBABF25

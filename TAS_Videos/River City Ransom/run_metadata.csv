@@ -1,0 +1,25 @@
+,462
+id,4344
+title,"NES River City Ransom ""1 player"" by willbobsled in 05:14.45"
+branch,1 player
+goal,1 player
+gameGoalId,3539
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6932
+gameId,36
+gameVersionId,373
+obsoletedById,
+frames,18898
+rerecordCount,41477
+systemFrameRate,60.0988138974405
+movieFileName,willbobsled-rivercityransom-1p.fm2
+additionalAuthors,
+createTimestamp,2020-12-03T18:05:09
+authors,['willbobsled']
+tags,"['just1p', 'death', 'damage', 'easy']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=hFUeVm5ugD0', 'https://archive.org/download/rivercityransom-tas-1p-willbobsled/rivercityransom-tas-1p-willbobsled.mkv', 'https://archive.org/download/rivercityransom-tas-1p-willbobsled/rivercityransom-tas-1p-willbobsled_512kb.mp4']"
+filePaths,['4344M.png']
+SHA1,A8612A36D9D2739D2B321B6EBB97C2757CCCA410

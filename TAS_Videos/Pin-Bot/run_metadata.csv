@@ -1,0 +1,25 @@
+,335
+id,3624
+title,NES Pin-Bot by link_7777 & Inzult in 01:36.37
+branch,baseline
+goal,baseline
+gameGoalId,497
+emulatorVersion,BizHawk 2.2.1
+class,Standard
+systemCode,NES
+submissionId,5788
+gameId,1152
+gameVersionId,2431
+obsoletedById,
+frames,5792
+rerecordCount,5160
+systemFrameRate,60.0988138974405
+movieFileName,"link_7777,inzult-pinbot.bk2"
+additionalAuthors,
+createTimestamp,2018-02-05T18:24:50
+authors,"['link_7777', 'Inzult']"
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=7vpLDWQeGHQ', 'https://archive.org/download/Pinbot-tas-link_7777inzult/pinbot-tas-link_7777,inzult.mkv', 'https://archive.org/download/Pinbot-tas-link_7777inzult/pinbot-tas-link_7777,inzult_512kb.mp4']"
+filePaths,['3624M.png']
+SHA1,34C38489BBD97E673B74CFC18CF45EA4C2E2ABAA

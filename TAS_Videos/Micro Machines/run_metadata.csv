@@ -1,0 +1,25 @@
+,818
+id,6341
+title,NES Micro Machines by Challenger & eien86 in 28:35.62
+branch,baseline
+goal,baseline
+gameGoalId,8348
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,9439
+gameId,3620
+gameVersionId,5497
+obsoletedById,
+frames,103107
+rerecordCount,0
+systemFrameRate,60.0988138974405
+movieFileName,"challenger,eien86-micromachines-nes.bk2"
+additionalAuthors,
+createTimestamp,2025-01-11T10:48:21.526829
+authors,"['Challenger', 'eien86']"
+tags,"['bugs', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=MZZlVCktT3c', 'https://archive.org/download/micromachines-nes-tas-challenger_eien86/micromachines-nes-tas-challenger_eien86.mp4']"
+filePaths,['6341M.png']
+SHA1,c8027702179cfeaed2c538d4eb5672e12a99f1ef

@@ -1,0 +1,25 @@
+,13
+id,823
+title,NES Hi no Tori: Gaou no Bouken by AnS in 14:16.73
+branch,baseline
+goal,baseline
+gameGoalId,96
+emulatorVersion,FCEU 0.98.16
+class,Standard
+systemCode,NES
+submissionId,1482
+gameId,22
+gameVersionId,1691
+obsoletedById,
+frames,51404
+rerecordCount,9528
+systemFrameRate,60.0
+movieFileName,ans-hinotori.fcm
+additionalAuthors,
+createTimestamp,2007-03-25T10:31:43
+authors,['AnS']
+tags,"['damage', 'warps', 'random']"
+flags,[]
+urls,"['https://archive.org/download/hinotori-tas-ans/hinotori-tas-ans.mkv', 'https://archive.org/download/hinotori-tas-ans/hinotori-tas-ans_512kb.mp4', 'https://www.youtube.com/watch?v=d4jmk2pwuK0']"
+filePaths,['hnt_ans.png']
+SHA1,D2A36CAF2740EBD67B36AB0E243EBF9BB79C3635

@@ -1,0 +1,25 @@
+,116
+id,1956
+title,NES Ghostbusters by MESHUGGAH in 01:34.34
+branch,baseline
+goal,baseline
+gameGoalId,768
+emulatorVersion,FCEUX 2.1.6 (interim svn2267)
+class,Standard
+systemCode,NES
+submissionId,3427
+gameId,571
+gameVersionId,1533
+obsoletedById,
+frames,5670
+rerecordCount,3135
+systemFrameRate,60.0988138974405
+movieFileName,meshuggah-ghostbusters.fm2
+additionalAuthors,
+createTimestamp,2012-01-25T07:51:10
+authors,['MESHUGGAH']
+tags,"['damage', 'warpbug', 'bugs']"
+flags,['SensitivityWarning']
+urls,"['https://www.archive.org/download/NesGhostbustersjpnIn0134.34ByMeshuggah/ghostbusters-tas-meshuggah.mp4', 'https://www.archive.org/download/NesGhostbustersjpnIn0134.34ByMeshuggah/ghostbusters-tas-meshuggah_10bit444.mp4', 'https://www.youtube.com/watch?v=61_5dqgzKx4']"
+filePaths,['1956M.png']
+SHA1,84A8CCCD512938F30DF72EDAE148F1A18E468146

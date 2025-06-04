@@ -1,0 +1,25 @@
+,92
+id,1725
+title,NES The Terminator by AKheon in 06:18.39
+branch,baseline
+goal,baseline
+gameGoalId,1210
+emulatorVersion,FCEUX 2.1.4a
+class,Standard
+systemCode,NES
+submissionId,2982
+gameId,735
+gameVersionId,413
+obsoletedById,
+frames,22741
+rerecordCount,14084
+systemFrameRate,60.0988138974405
+movieFileName,akheon-terminator.fm2
+additionalAuthors,
+createTimestamp,2011-01-22T17:37:20
+authors,['AKheon']
+tags,"['speed_tradeoff', 'damage', 'bugs']"
+flags,[]
+urls,"['https://www.archive.org/download/NESTheTerminatorUSAIn0618.39ByAKheon/terminator-tas-akheon.mkv', 'https://www.archive.org/download/NESTheTerminatorUSAIn0618.39ByAKheon/terminator-tas-akheon_512kb.mp4', 'https://www.youtube.com/watch?v=rbGFa4j43o8']"
+filePaths,['1725M.png']
+SHA1,5B4C78A47CE7D494B7CDD2E952009C20F9C5B131

@@ -1,0 +1,25 @@
+,245
+id,2999
+title,NES Xexyz by £e_Nécroyeur in 23:43.62
+branch,baseline
+goal,baseline
+gameGoalId,626
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4894
+gameId,1193
+gameVersionId,2203
+obsoletedById,
+frames,85558
+rerecordCount,20784
+systemFrameRate,60.0988138974405
+movieFileName,lenecroyeur-xexyz.fm2
+additionalAuthors,
+createTimestamp,2015-11-03T19:41:38
+authors,['£e_Nécroyeur']
+tags,['damage']
+flags,['SensitivityWarning']
+urls,"['https://www.youtube.com/watch?v=OrxfFJFoz5s', 'https://archive.org/download/xexyz-tas-lenecroyeur/xexyz-tas-lenecroyeur.mkv', 'https://archive.org/download/xexyz-tas-lenecroyeur/xexyz-tas-lenecroyeur_512kb.mp4']"
+filePaths,['2999M.png']
+SHA1,BA0772CB3F4542A1F1F665D1970E7C0CE5B4F467

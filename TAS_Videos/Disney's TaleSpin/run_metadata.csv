@@ -1,0 +1,25 @@
+,137
+id,2141
+title,NES Disney's TaleSpin by Thorning in 17:18.02
+branch,baseline
+goal,baseline
+gameGoalId,524
+emulatorVersion,FCEU 0.98.15
+class,Standard
+systemCode,NES
+submissionId,1811
+gameId,1161
+gameVersionId,190
+obsoletedById,
+frames,62384
+rerecordCount,4738
+systemFrameRate,60.0988138974405
+movieFileName,thorning-talespin.fm2
+additionalAuthors,
+createTimestamp,2012-11-18T06:02:14
+authors,['Thorning']
+tags,[]
+flags,[]
+urls,"['https://archive.org/download/ThorningsNesTalespinIn1718.02/talespin-tas-thorning.mkv', 'https://archive.org/download/ThorningsNesTalespinIn1718.02/talespin-tas-thorning_10bit444.mkv', 'https://www.youtube.com/watch?v=rUPs1eCbzgA']"
+filePaths,['2141M.png']
+SHA1,FB47C50D404EBAB3274F2E9B1AAC0BE1F1BC9664

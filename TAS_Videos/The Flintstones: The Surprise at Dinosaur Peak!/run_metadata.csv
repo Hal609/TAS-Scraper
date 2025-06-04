@@ -1,0 +1,25 @@
+,760
+id,5872
+title,NES The Flintstones: The Surprise at Dinosaur Peak! by Exonym in 14:06.74
+branch,baseline
+goal,baseline
+gameGoalId,48
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,8935
+gameId,929
+gameVersionId,2160
+obsoletedById,
+frames,50888
+rerecordCount,35831
+systemFrameRate,60.0989912964033
+movieFileName,exonym-flintstonesdinosaurpeak.bk2
+additionalAuthors,
+createTimestamp,2024-03-19T23:07:23.298532
+authors,['Exonym']
+tags,['damage']
+flags,[]
+urls,"['https://youtu.be/8m_-MKcI7gM', 'https://archive.org/download/flintstonesdinosaurpeak-nes-tas-exonym/flintstonesdinosaurpeak-nes-tas-exonym.mp4']"
+filePaths,['5872M.png']
+SHA1,5a6ae3e6897414758a8791783f3a482e5a2dd0fb

@@ -1,0 +1,25 @@
+,271
+id,3145
+title,"NES Rockin' Kats ""Channel X"" by Arc & AnS in 01:02.88"
+branch,Channel X
+goal,Channel X
+gameGoalId,531
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,5117
+gameId,80
+gameVersionId,1056
+obsoletedById,
+frames,3779
+rerecordCount,6423
+systemFrameRate,60.0988138974405
+movieFileName,"arc,ans-rockinkats-channelx.fm2"
+additionalAuthors,
+createTimestamp,2016-05-29T20:15:41
+authors,"['Arc', 'AnS']"
+tags,"['1level', 'noeasy', 'password']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=2huyo3gBTPI', 'https://archive.org/download/Rockinkats-tas-channelx-arcans/rockinkats-tas-channelx-arc,ans.mkv', 'https://archive.org/download/Rockinkats-tas-channelx-arcans/rockinkats-tas-channelx-arc,ans_512kb.mp4']"
+filePaths,['3145M.png']
+SHA1,56a494cdf35d11b515d3bd3630396ce97add66e1

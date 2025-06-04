@@ -1,0 +1,25 @@
+,261
+id,3094
+title,NES Elevator Action by Alyosha in 06:47.33
+branch,baseline
+goal,baseline
+gameGoalId,460
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,5028
+gameId,257
+gameVersionId,2645
+obsoletedById,
+frames,24480
+rerecordCount,5337
+systemFrameRate,60.0988138974405
+movieFileName,alyosha-elevatoraction.fm2
+additionalAuthors,
+createTimestamp,2016-03-06T17:48:07
+authors,['Alyosha']
+tags,"['death', 'bugs']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=pvAuHWSk3Ig', 'https://archive.org/download/elevatoraction-tas-alyosha/elevatoraction-tas-alyosha.mkv', 'https://archive.org/download/elevatoraction-tas-alyosha/elevatoraction-tas-alyosha_512kb.mp4']"
+filePaths,['3094M.png']
+SHA1,8E1BACB45E381557EC36797A9239817C0FE04629

@@ -1,0 +1,25 @@
+,246
+id,3000
+title,NES Mickey Mousecapade by Alyosha in 07:16.58
+branch,baseline
+goal,baseline
+gameGoalId,125
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4898
+gameId,53
+gameVersionId,2153
+obsoletedById,
+frames,26238
+rerecordCount,6768
+systemFrameRate,60.0988138974405
+movieFileName,alyosha-mickeymousecapade.fm2
+additionalAuthors,
+createTimestamp,2015-11-05T12:32:12
+authors,['Alyosha']
+tags,[]
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=EKm2OnN0VJU', 'https://archive.org/download/mickeymousecapade-tas-alyosha/mickeymousecapade-tas-alyosha.mkv', 'https://archive.org/download/mickeymousecapade-tas-alyosha/mickeymousecapade-tas-alyosha_512kb.mp4']"
+filePaths,['3000M.png']
+SHA1,4AE2AE167E06E65E14422D045BB52154612BB0A2

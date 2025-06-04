@@ -1,0 +1,25 @@
+,238
+id,2949
+title,NES Fester's Quest by ars4326 in 19:38.81
+branch,baseline
+goal,baseline
+gameGoalId,2373
+emulatorVersion,BizHawk 1.11.0
+class,Alternative
+systemCode,NES
+submissionId,4816
+gameId,1697
+gameVersionId,2563
+obsoletedById,
+frames,70845
+rerecordCount,18437
+systemFrameRate,60.0988138974405
+movieFileName,ars4326-festersquest.bk2
+additionalAuthors,
+createTimestamp,2015-09-09T13:04:43
+authors,['ars4326']
+tags,"['speed_tradeoff', 'damage', 'nobugs']"
+flags,['Verified']
+urls,"['https://archive.org/download/festersquest-tas-ars4326/festersquest-tas-ars4326.mkv', 'https://archive.org/download/festersquest-tas-ars4326/festersquest-tas-ars4326_512kb.mp4', 'https://www.youtube.com/watch?v=bNllAdfZ0qY']"
+filePaths,['2949M.png']
+SHA1,DF91B37AABCF7742BB80EC2B7F5384DF7940BE58

@@ -1,0 +1,25 @@
+,12
+id,749
+title,NES Paperboy by Randil in 11:30.78
+branch,baseline
+goal,baseline
+gameGoalId,600
+emulatorVersion,FCEU 0.98.12
+class,Standard
+systemCode,NES
+submissionId,1380
+gameId,339
+gameVersionId,1786
+obsoletedById,
+frames,41447
+rerecordCount,13921
+systemFrameRate,60.0
+movieFileName,randil-paperboy.fcm
+additionalAuthors,
+createTimestamp,2006-12-25T20:08:02
+authors,['Randil']
+tags,"['speed_tradeoff', 'death']"
+flags,[]
+urls,"['https://archive.org/download/paperboy-tas-randil/paperboy-tas-randil.mp4', 'https://www.youtube.com/watch?v=2pqT5ckOMrU']"
+filePaths,['paperboy.png']
+SHA1,CA7641AE940CF656C12E8E697A50C34959F1D468

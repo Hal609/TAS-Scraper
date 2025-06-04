@@ -1,0 +1,25 @@
+,50
+id,1224
+title,"NES New Ghostbusters II ""1 player"" by Zus in 17:45.59"
+branch,1 player
+goal,1 player
+gameGoalId,4886
+emulatorVersion,FCEUX 2.0.2
+class,Standard
+systemCode,NES
+submissionId,2122
+gameId,486
+gameVersionId,1325
+obsoletedById,
+frames,53287
+rerecordCount,4221
+systemFrameRate,50.0069789081886
+movieFileName,zus-newghostbustersii.fm2
+additionalAuthors,
+createTimestamp,2008-11-27T18:29:20
+authors,['Zus']
+tags,['just1p']
+flags,[]
+urls,"['https://archive.org/download/newghostbustersii-tas-zus/newghostbustersii-tas-zus.mkv', 'https://archive.org/download/newghostbustersii-tas-zus/newghostbustersii-tas-zus_512kb.mp4', 'https://www.youtube.com/watch?v=dgoHUhhqKo8']"
+filePaths,['newghostbustersii_2122.png']
+SHA1,1E1CCA1663ACA0DD0D3372E842EAAC8FCD245802

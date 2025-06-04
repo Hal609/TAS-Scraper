@@ -1,0 +1,25 @@
+,344
+id,3683
+title,NES Zoda's Revenge: StarTropics II by Ferret_Warlord in 54:36.92
+branch,baseline
+goal,baseline
+gameGoalId,431
+emulatorVersion,BizHawk 1.11.6
+class,Standard
+systemCode,NES
+submissionId,5921
+gameId,243
+gameVersionId,1854
+obsoletedById,
+frames,196939
+rerecordCount,31289
+systemFrameRate,60.0988138974405
+movieFileName,ferretwarlord-zodasrevengestartropics2.bk2
+additionalAuthors,
+createTimestamp,2018-04-24T19:11:14
+authors,['Ferret_Warlord']
+tags,"['damage', 'bugs']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=K_xBCD3h0rQ', 'https://archive.org/download/zodasrevengestartropics2-tas-ferretwarlord/zodasrevengestartropics2-tas-ferretwarlord.mkv', 'https://archive.org/download/zodasrevengestartropics2-tas-ferretwarlord/zodasrevengestartropics2-tas-ferretwarlord_512kb.mp4']"
+filePaths,['3683M-new.png']
+SHA1,72F7137E3A43F0388C078987AFFD3FECFC1BCA32

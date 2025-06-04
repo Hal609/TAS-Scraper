@@ -1,0 +1,25 @@
+,449
+id,4265
+title,"NES A Nightmare on Elm Street ""4 Players"" by Samsara in 14:45.21"
+branch,4 Players
+goal,4 Players
+gameGoalId,612
+emulatorVersion,BizHawk 2.4.2
+class,Alternative
+systemCode,NES
+submissionId,6828
+gameId,101
+gameVersionId,1785
+obsoletedById,
+frames,53200
+rerecordCount,44487
+systemFrameRate,60.0988138974405
+movieFileName,samsara-anoes.bk2
+additionalAuthors,
+createTimestamp,2020-08-17T16:00:02
+authors,['Samsara']
+tags,"['4p', 'damage']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=LHke4LDvMmM', 'https://archive.org/download/anoes-tas-samsara/anoes-tas-samsara.mkv', 'https://archive.org/download/anoes-tas-samsara/anoes-tas-samsara_512kb.mp4']"
+filePaths,['4265M.png']
+SHA1,b2d2e8a85dcec7a4b7a9a6a24f59be3103f7d49c

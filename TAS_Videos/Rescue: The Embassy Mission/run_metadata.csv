@@ -1,0 +1,25 @@
+,601
+id,5027
+title,NES Rescue: The Embassy Mission by ShesChardcore in 01:11.93
+branch,baseline
+goal,baseline
+gameGoalId,515
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7892
+gameId,1159
+gameVersionId,1262
+obsoletedById,
+frames,4323
+rerecordCount,5656
+systemFrameRate,60.099925336630506
+movieFileName,sheschardcore-rescuetheembassymission.bk2
+additionalAuthors,
+createTimestamp,2022-12-30T11:01:52.77101
+authors,['ShesChardcore']
+tags,"['death', 'noeasy']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=EQnVJAL2c0o', 'http://www.archive.org/download/rescuetheembassymission-tas-sheschardcore/rescuetheembassymission-tas-sheschardcore.mp4']"
+filePaths,['5027M.png']
+SHA1,8C3A5F1FFF7470618111976CEFAEA6C41E3E4B31

@@ -1,0 +1,25 @@
+,603
+id,5035
+title,NES Defenders of Dynatron City by ShesChardcore in 10:26.34
+branch,baseline
+goal,baseline
+gameGoalId,4163
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7912
+gameId,3448
+gameVersionId,3694
+obsoletedById,
+frames,37642
+rerecordCount,16647
+systemFrameRate,60.0988138974405
+movieFileName,sheschardcore-dodc.bk2
+additionalAuthors,
+createTimestamp,2022-12-31T08:01:57.376211
+authors,['ShesChardcore']
+tags,['damage']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=hdaW2cq6Khg', 'https://archive.org/download/dodc-tas-sheschardcore/dodc-tas-sheschardcore.mp4']"
+filePaths,['5035M.png']
+SHA1,e500c60f712d9e2bde8cabe093c308aa7f5f27d2

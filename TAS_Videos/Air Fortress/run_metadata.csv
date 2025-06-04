@@ -1,0 +1,25 @@
+,140
+id,2164
+title,NES Air Fortress by tool23 in 41:04.31
+branch,baseline
+goal,baseline
+gameGoalId,501
+emulatorVersion,FCEU 0.98.15
+class,Standard
+systemCode,NES
+submissionId,1040
+gameId,976
+gameVersionId,203
+obsoletedById,
+frames,148102
+rerecordCount,13976
+systemFrameRate,60.0988138974405
+movieFileName,tool23-airfortress.fcm
+additionalAuthors,
+createTimestamp,2012-11-22T15:12:28
+authors,['tool23']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/NesAirFortressIn4108.37ByTool23/airfortress-tas-tool23.mkv', 'https://archive.org/download/NesAirFortressIn4108.37ByTool23/airfortress-tas-tool23_10bit444.mkv', 'https://www.youtube.com/watch?v=3ju-0gUfYr8']"
+filePaths,['2164M.png']
+SHA1,1B72FC01E717B2F498960DC52BF31D2F0F2FEEB3

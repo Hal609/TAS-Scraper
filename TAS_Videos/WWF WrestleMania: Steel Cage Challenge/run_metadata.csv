@@ -1,0 +1,25 @@
+,610
+id,5066
+title,NES WWF WrestleMania: Steel Cage Challenge by ShesChardcore in 05:12.35
+branch,baseline
+goal,baseline
+gameGoalId,4168
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7918
+gameId,3466
+gameVersionId,3721
+obsoletedById,
+frames,18772
+rerecordCount,5263
+systemFrameRate,60.0988138974405
+movieFileName,sheschardcore-wwfwrestlemaniasteelcagechallenge.bk2
+additionalAuthors,
+createTimestamp,2023-02-01T01:28:18.628671
+authors,['ShesChardcore']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=H1aTgDfX3BM', 'https://archive.org/download/wwfwrestlemaniasteelcagechallenge-tas-sheschardcore/wwfwrestlemaniasteelcagechallenge-tas-sheschardcore.mp4']"
+filePaths,['5066M.png']
+SHA1,A0B2454E7BCAD92BBED8DC3BE869758BF8FACE30

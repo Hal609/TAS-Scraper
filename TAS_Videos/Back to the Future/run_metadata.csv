@@ -1,0 +1,25 @@
+,596
+id,5002
+title,NES Back to the Future by adelikat in 17:08.42
+branch,baseline
+goal,baseline
+gameGoalId,306
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7865
+gameId,900
+gameVersionId,1836
+obsoletedById,
+frames,61807
+rerecordCount,4414
+systemFrameRate,60.098891394646934
+movieFileName,adelikat-backtothefuture.bk2
+additionalAuthors,
+createTimestamp,2022-12-19T21:14:43.905684
+authors,['adelikat']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=qWLLJYTZ02M', 'https://archive.org/download/backtothefuture-tas-adelikat/backtothefuture-tas-adelikat.mp4']"
+filePaths,['5002M.png']
+SHA1,E97AE831C57414CF1C6B95CE591E106429A7361C

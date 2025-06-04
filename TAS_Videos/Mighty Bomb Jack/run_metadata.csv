@@ -1,0 +1,25 @@
+,840
+id,6444
+title,NES Mighty Bomb Jack (USA) by ktwo & SpaceColonizer in 05:59.41
+branch,baseline
+goal,baseline
+gameGoalId,451
+emulatorVersion,Bizhawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,9563
+gameId,390
+gameVersionId,4138
+obsoletedById,
+frames,21600
+rerecordCount,55295
+systemFrameRate,60.0988138974405
+movieFileName,"ktwo,spacecolonizer[2]-mightybombjack-usa.bk2"
+additionalAuthors,
+createTimestamp,2025-03-20T15:50:15.079262
+authors,"['ktwo', 'SpaceColonizer']"
+tags,"['death', 'warps', 'resources']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=vnzxy9SYB6A', 'https://archive.org/download/mightbombjack-usa-tasv2-ktwo_spacecolonizer/mightbombjack-usa-tasv2-ktwo_spacecolonizer.mp4']"
+filePaths,['6444M.png']
+SHA1,ef82f282c4516e8fc92dbea376015aeb5c1239e6

@@ -1,0 +1,25 @@
+,494
+id,4523
+title,"NES Final Fantasy III ""game end glitch"" by naruko in 05:54.68"
+branch,game end glitch
+goal,game end glitch
+gameGoalId,1923
+emulatorVersion,FCEUX 2.3.0
+class,Standard
+systemCode,NES
+submissionId,7197
+gameId,737
+gameVersionId,1928
+obsoletedById,
+frames,21316
+rerecordCount,682
+systemFrameRate,60.0988138974405
+movieFileName,naruko-finalfantasyiii.fm2
+additionalAuthors,
+createTimestamp,2021-09-24T13:54:18
+authors,['naruko']
+tags,"['damage', 'warpbug', 'skipboss', 'bugs', 'rambugs', 'random']"
+flags,['SensitivityWarning']
+urls,"['https://www.youtube.com/watch?v=NJkIFRebp5E', 'https://archive.org/download/finalfantasyiii-tas-naruko/finalfantasyiii-tas-naruko.mkv', 'https://archive.org/download/finalfantasyiii-tas-naruko/finalfantasyiii-tas-naruko_512kb.mp4']"
+filePaths,['4523M.png']
+SHA1,C4443FC24625E3C2BB859525EB44B6B3A80E7C35

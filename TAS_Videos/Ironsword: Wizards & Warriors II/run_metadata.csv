@@ -1,0 +1,25 @@
+,551
+id,4839
+title,"NES Ironsword: Wizards & Warriors II by eien86, Aglar & Randil in 07:09.06"
+branch,baseline
+goal,baseline
+gameGoalId,283
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7646
+gameId,185
+gameVersionId,2044
+obsoletedById,
+frames,25786
+rerecordCount,47
+systemFrameRate,60.0988138974405
+movieFileName,"eien86,aglar,randil-ironswordwizardsandwarriorsii.bk2"
+additionalAuthors,
+createTimestamp,2022-09-23T03:18:39.602836
+authors,"['eien86', 'Aglar', 'Randil']"
+tags,['damage']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=EZymh-bETBc', 'https://archive.org/download/ironswordwizardsandwarriorsii-tas-eien86_aglar_randil/ironswordwizardsandwarriorsii-tas-eien86_aglar_randil.mp4']"
+filePaths,['4839M.png']
+SHA1,97B79E432F62403FB9F877090850C41112A9A168

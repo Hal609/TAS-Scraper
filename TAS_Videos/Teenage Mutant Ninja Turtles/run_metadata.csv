@@ -1,0 +1,25 @@
+,496
+id,4543
+title,NES Teenage Mutant Ninja Turtles by DreamYao in 15:36.19
+branch,baseline
+goal,baseline
+gameGoalId,223
+emulatorVersion,BizHawk 2.6.1
+class,Standard
+systemCode,NES
+submissionId,7226
+gameId,152
+gameVersionId,1453
+obsoletedById,
+frames,56264
+rerecordCount,166445
+systemFrameRate,60.0988138974405
+movieFileName,dreamyao-tmnt-nes.bk2
+additionalAuthors,
+createTimestamp,2021-10-31T00:00:05
+authors,['DreamYao']
+tags,"['death', 'damage', 'bugs']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=MMBm6iZafn4', 'https://archive.org/download/tmnt-nes-tas-dreamyao/tmnt-nes-tas-dreamyao.mkv', 'https://archive.org/download/tmnt-nes-tas-dreamyao/tmnt-nes-tas-dreamyao_512kb.mp4']"
+filePaths,['4543M.png']
+SHA1,89ADF2D9E453FC7FC491F968495C80C0C4A568D5

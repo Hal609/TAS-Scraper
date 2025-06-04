@@ -1,0 +1,25 @@
+,485
+id,4469
+title,NES Ghosts 'n Goblins by DreamYao in 08:04.45
+branch,baseline
+goal,baseline
+gameGoalId,82
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,7126
+gameId,6
+gameVersionId,4093
+obsoletedById,
+frames,29115
+rerecordCount,53778
+systemFrameRate,60.0988138974405
+movieFileName,dreamyao-gng.fm2
+additionalAuthors,
+createTimestamp,2021-06-11T14:00:03
+authors,['DreamYao']
+tags,['damage']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=H8dNpF--EEs', 'https://archive.org/download/ghostsngoblins-tas-dreamyao/ghostsngoblins-tas-dreamyao.mkv', 'https://archive.org/download/ghostsngoblins-tas-dreamyao/ghostsngoblins-tas-dreamyao_512kb.mp4']"
+filePaths,['4469M.png']
+SHA1,8DE81D363E11CECB570A9D18237F7B56B2B659DB

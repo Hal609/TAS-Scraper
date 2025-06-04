@@ -1,0 +1,25 @@
+,171
+id,2407
+title,NES Metal Mech: Man & Machine by TASeditor in 13:56.02
+branch,baseline
+goal,baseline
+gameGoalId,1892
+emulatorVersion,FCEUX 2.2.0
+class,Standard
+systemCode,NES
+submissionId,3991
+gameId,1469
+gameVersionId,316
+obsoletedById,
+frames,50244
+rerecordCount,49726
+systemFrameRate,60.0988138974405
+movieFileName,taseditor-metalmech.fm2
+additionalAuthors,
+createTimestamp,2013-06-26T14:19:38
+authors,['TASeditor']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/TaseditorsNesMetalMechManMachineIn1356.02/metalmech-tas-taseditor.mkv', 'https://archive.org/download/TaseditorsNesMetalMechManMachineIn1356.02/metalmech-tas-taseditor_10bit444.mkv', 'https://www.youtube.com/watch?v=6lvFtJ7WQx4']"
+filePaths,['2407M.png']
+SHA1,491F6A151CB43C794F1E0984E3645E946B5F5600

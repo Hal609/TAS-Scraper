@@ -1,0 +1,25 @@
+,841
+id,6447
+title,NES Mappy by Spikestuff in 06:02.00
+branch,baseline
+goal,baseline
+gameGoalId,2496
+emulatorVersion,BizHawk 2.10
+class,Standard
+systemCode,NES
+submissionId,9558
+gameId,1761
+gameVersionId,1103
+obsoletedById,
+frames,21756
+rerecordCount,8208
+systemFrameRate,60.0988138974405
+movieFileName,spikestuffv2-mappy-nes.bk2
+additionalAuthors,
+createTimestamp,2025-03-22T08:50:32.808479
+authors,['Spikestuff']
+tags,['death']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=DB-henc3SeA', 'https://archive.org/download/mappy-nes-tasv2-spikestuff/mappy-nes-tasv2-spikestuff.mp4']"
+filePaths,['6447M.png']
+SHA1,30A06C63F13D33DC5BB307F15D4BE7D4478740AF

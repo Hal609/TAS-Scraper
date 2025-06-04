@@ -1,0 +1,25 @@
+,244
+id,2990
+title,NES The Guardian Legend by ZakkyDraggy in 42:38.15
+branch,baseline
+goal,baseline
+gameGoalId,2410
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4885
+gameId,1321
+gameVersionId,1461
+obsoletedById,
+frames,153742
+rerecordCount,14727
+systemFrameRate,60.0988138974405
+movieFileName,zakkythegoatragon-theguardianlegend.fm2
+additionalAuthors,
+createTimestamp,2015-10-24T08:53:03
+authors,['ZakkyDraggy']
+tags,"['death', 'damage', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=eE3-jFIJluU', 'https://archive.org/download/theguardianlegend-tas-zakkythegoatragon/theguardianlegend-tas-zakkythegoatragon.mkv', 'https://archive.org/download/theguardianlegend-tas-zakkythegoatragon/theguardianlegend-tas-zakkythegoatragon_512kb.mp4']"
+filePaths,['2990M.png']
+SHA1,D00D73C7764A4C3513892B97AFB939F30E522245

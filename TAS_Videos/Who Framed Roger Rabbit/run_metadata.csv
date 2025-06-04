@@ -1,0 +1,25 @@
+,512
+id,4621
+title,NES Who Framed Roger Rabbit by Arc & Alyosha in 03:46.86
+branch,baseline
+goal,baseline
+gameGoalId,420
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7354
+gameId,962
+gameVersionId,502
+obsoletedById,
+frames,13634
+rerecordCount,57580
+systemFrameRate,60.0988138974405
+movieFileName,"arc,alyosha-whoframedrogerrabbit.bk2"
+additionalAuthors,
+createTimestamp,2022-04-09T12:06:11.238062
+authors,"['Arc', 'Alyosha']"
+tags,"['death', 'random']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=OhIg-tgyrAg', 'https://archive.org/download/whoframedrogerrabbit-tas-arc_alyosha/whoframedrogerrabbit-tas-arc_alyosha.mp4']"
+filePaths,['4621M.png']
+SHA1,2D0637ADD8D84BE3E1CB754A91346AFA502904CD

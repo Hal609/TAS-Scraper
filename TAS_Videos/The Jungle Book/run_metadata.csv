@@ -1,0 +1,25 @@
+,667
+id,5292
+title,NES The Jungle Book by DreamYao in 16:31.85
+branch,baseline
+goal,baseline
+gameGoalId,1285
+emulatorVersion,FCEUX 2.2.1
+class,Standard
+systemCode,NES
+submissionId,8281
+gameId,1179
+gameVersionId,186
+obsoletedById,
+frames,59609
+rerecordCount,172622
+systemFrameRate,60.0988138974405
+movieFileName,dreamyao[2]-thejunglebook-nes.fm2
+additionalAuthors,
+createTimestamp,2023-05-25T01:43:39.344255
+authors,['DreamYao']
+tags,"['death', 'damage', 'noeasy']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=RF1IFN7j0Yw', 'https://archive.org/download/thejunglebook-nes-tasv2-dreamyao/thejunglebook-nes-tasv2-dreamyao.mp4']"
+filePaths,['5292M.png']
+SHA1,A2D12631F4FA1BD2FF6415004265C66CD40B4AF5

@@ -1,0 +1,25 @@
+,507
+id,4610
+title,NES Time Lord by link_7777 & Alyosha in 09:46.92
+branch,baseline
+goal,baseline
+gameGoalId,1504
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7339
+gameId,816
+gameVersionId,492
+obsoletedById,
+frames,35273
+rerecordCount,4957
+systemFrameRate,60.0988138974405
+movieFileName,"link_7777,alyosha-timelord.bk2"
+additionalAuthors,
+createTimestamp,2022-03-28T02:37:05.546253
+authors,"['link_7777', 'Alyosha']"
+tags,[]
+flags,"['Verified', 'Atlas']"
+urls,"['https://www.youtube.com/watch?v=08zEAMCq9qQ', 'https://archive.org/download/timelord-tas-link_7777_alyosha/timelord-tas-link_7777_alyosha.mp4']"
+filePaths,['4610M.png']
+SHA1,E9061DDCD4D25D8E0F46B4C0A7DC8F81B3420D3B

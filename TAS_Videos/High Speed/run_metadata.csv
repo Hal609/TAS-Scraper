@@ -1,0 +1,25 @@
+,52
+id,1228
+title,NES High Speed by dwangoAC in 20:05.56
+branch,baseline
+goal,baseline
+gameGoalId,838
+emulatorVersion,FCEUX 2.0.2
+class,Standard
+systemCode,NES
+submissionId,2116
+gameId,489
+gameVersionId,875
+obsoletedById,
+frames,72453
+rerecordCount,39202
+systemFrameRate,60.0988138974405
+movieFileName,dwangoac-highspeed.fm2
+additionalAuthors,
+createTimestamp,2008-11-29T10:10:09
+authors,['dwangoAC']
+tags,"['speed_tradeoff', 'random']"
+flags,[]
+urls,"['https://www.archive.org/download/NesHighSpeedusaIn2005.57ByDwangoac/highspeed-tas-dwangoac.mkv', 'https://www.archive.org/download/NesHighSpeedusaIn2005.57ByDwangoac/highspeed-tas-dwangoac_512kb.mp4', 'https://www.youtube.com/watch?v=8kiuO-f5m64']"
+filePaths,['highspeed_2116.png']
+SHA1,B7E821B0FC0389CA7FE2E9A941840173B1779337

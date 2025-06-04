@@ -1,0 +1,25 @@
+,27
+id,999
+title,NES G.I. Joe by Xipo in 16:49.60
+branch,baseline
+goal,baseline
+gameGoalId,242
+emulatorVersion,FCEU 0.98.15
+class,Standard
+systemCode,NES
+submissionId,1758
+gameId,292
+gameVersionId,57
+obsoletedById,
+frames,60576
+rerecordCount,48651
+systemFrameRate,60.0
+movieFileName,xipo-gijoe.fcm
+additionalAuthors,
+createTimestamp,2007-11-21T01:58:27
+authors,['Xipo']
+tags,"['death', 'damage']"
+flags,[]
+urls,"['https://archive.org/download/gijoe-tas-xipo/gijoe-tas-xipo.mp4', 'https://www.youtube.com/watch?v=d8ZbY2CAPHE']"
+filePaths,['GIJoe999.png']
+SHA1,d64aee0326d862664eeb35a9010cae31217a0c69

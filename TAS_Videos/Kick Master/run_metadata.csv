@@ -1,0 +1,25 @@
+,44
+id,1174
+title,NES Kick Master by dragonxyk in 08:31.54
+branch,baseline
+goal,baseline
+gameGoalId,404
+emulatorVersion,FCEU 0.98.16
+class,Standard
+systemCode,NES
+submissionId,2050
+gameId,244
+gameVersionId,391
+obsoletedById,
+frames,30743
+rerecordCount,21077
+systemFrameRate,60.0988138974405
+movieFileName,dragonxyk-kickmaster.fcm
+additionalAuthors,
+createTimestamp,2008-08-13T03:49:19
+authors,['dragonxyk']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/kickmaster-tas-dragonxyk/kickmaster-tas-dragonxyk.mp4', 'https://www.youtube.com/watch?v=fEOreFkqCyk']"
+filePaths,['kickmaster_1173.png']
+SHA1,8675BD893B287DD686642A3F609FA4F42C6D02BA

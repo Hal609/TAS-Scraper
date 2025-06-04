@@ -1,0 +1,25 @@
+,31
+id,1043
+title,NES Tom & Jerry by HHS in 08:37.22
+branch,baseline
+goal,baseline
+gameGoalId,592
+emulatorVersion,FCEU 0.98.12
+class,Standard
+systemCode,NES
+submissionId,1829
+gameId,353
+gameVersionId,1511
+obsoletedById,
+frames,31033
+rerecordCount,10205
+systemFrameRate,60.0
+movieFileName,hhs-tomjerry.fcm
+additionalAuthors,
+createTimestamp,2008-01-19T03:07:04
+authors,['HHS']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/tomandjerry-nes-tas-hhs/tomandjerry-nes-tas-hhs.mp4', 'https://www.youtube.com/watch?v=f7BzHcCa8VI']"
+filePaths,['tomjerry_nes_1043.png']
+SHA1,D6EBFE209995E8DB14E82DF952E8C5B10B025460

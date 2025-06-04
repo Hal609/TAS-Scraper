@@ -1,0 +1,25 @@
+,778
+id,6018
+title,"NES Monster in My Pocket ""2 players"" by DreamYao in 13:39.55"
+branch,2 players
+goal,2 players
+gameGoalId,4880
+emulatorVersion,FCEUX 2.2.3.3256
+class,Standard
+systemCode,NES
+submissionId,9136
+gameId,473
+gameVersionId,1881
+obsoletedById,
+frames,49254
+rerecordCount,143619
+systemFrameRate,60.0988138974405
+movieFileName,dreamyao-monsterinmypocket-2players.fm2
+additionalAuthors,
+createTimestamp,2024-06-28T04:19:46.531266
+authors,['DreamYao']
+tags,"['2p', 'death', 'damage']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=e1I8HwjRSYs', 'https://archive.org/download/monsterinmypocket-tas-2players-dreamyao/monsterinmypocket-tas-2players-dreamyao.mp4']"
+filePaths,['6018M.png']
+SHA1,B3AEC4E889C480402DAC7265855A698101376E14

@@ -1,0 +1,25 @@
+,174
+id,2421
+title,"NES Battle City ""2 players"" by NhatNM in 13:00.35"
+branch,2 players
+goal,2 players
+gameGoalId,5019
+emulatorVersion,FCEUX 2.2.1
+class,Standard
+systemCode,NES
+submissionId,4013
+gameId,1471
+gameVersionId,2190
+obsoletedById,
+frames,46898
+rerecordCount,17139
+systemFrameRate,60.0988138974405
+movieFileName,xxnkxx1-battlecity.fm2
+additionalAuthors,
+createTimestamp,2013-07-18T13:11:51
+authors,['NhatNM']
+tags,"['speed_tradeoff', '2p', 'random', 'noeasy']"
+flags,['stars']
+urls,"['https://archive.org/download/IlariEncodingTASVideosMovies6/battlecity-tas-xxnkxx.mkv', 'https://archive.org/download/IlariEncodingTASVideosMovies6/battlecity-tas-xxnkxx_10bit444.mkv', 'https://www.youtube.com/watch?v=1_q0GMg7Hd4']"
+filePaths,['2421M.png']
+SHA1,E1061C9241B06A965FB7845CB951D921ACA010EF

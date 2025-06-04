@@ -1,0 +1,25 @@
+,311
+id,3363
+title,"NES The Quest of Ki ""warps"" by fsvgm777, ruadath & TaoTao in 02:27.51"
+branch,warps
+goal,warps
+gameGoalId,2350
+emulatorVersion,Bizhawk 1.11.9
+class,Standard
+systemCode,NES
+submissionId,5401
+gameId,1643
+gameVersionId,1174
+obsoletedById,
+frames,8865
+rerecordCount,10813
+systemFrameRate,60.0988138974405
+movieFileName,fsvgm777_rudath_taotao-questofki-warps.bk2
+additionalAuthors,
+createTimestamp,2017-04-03T16:04:32
+authors,"['fsvgm777', 'ruadath', 'TaoTao']"
+tags,"['warps', 'restart']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=vCdNaKcFTFA', 'https://archive.org/download/questofki-tas-warps-fsvgm777_rudath_taotao/questofki-tas-warps-fsvgm777_rudath_taotao.mkv', 'https://archive.org/download/questofki-tas-warps-fsvgm777_rudath_taotao/questofki-tas-warps-fsvgm777_rudath_taotao_512kb.mp4']"
+filePaths,['3363M.png']
+SHA1,8A5F3D42A90C39B6110F89B18937D2CB369FCD98

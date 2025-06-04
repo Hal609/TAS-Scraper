@@ -1,0 +1,25 @@
+,830
+id,6389
+title,"NES Kirby's Adventure ""game end glitch"" by DarkRiolu27 in 00:34.01"
+branch,game end glitch
+goal,game end glitch
+gameGoalId,2655
+emulatorVersion,BizHawk 2.10
+class,Standard
+systemCode,NES
+submissionId,9484
+gameId,41
+gameVersionId,559
+obsoletedById,
+frames,2044
+rerecordCount,17984
+systemFrameRate,60.0988138974405
+movieFileName,darkriolu27-kirbysadventure-geg.bk2
+additionalAuthors,
+createTimestamp,2025-02-18T12:00:01.456129
+authors,['DarkRiolu27']
+tags,"['warpbug', 'skipboss', 'restart', 'bugs', 'rambugs', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=bfrTvoKqEtg', 'https://archive.org/download/kirbysadventure-tas-geg-darkriolu27/kirbysadventure-tas-geg-darkriolu27.mp4']"
+filePaths,['6389M.png']
+SHA1,E099D688760FF0CE114CA8A9FD083E31E41CFADE

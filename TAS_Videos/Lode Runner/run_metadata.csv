@@ -1,0 +1,25 @@
+,500
+id,4559
+title,NES Lode Runner by adelikat in 17:41.29
+branch,baseline
+goal,baseline
+gameGoalId,3661
+emulatorVersion,BizHawk 2.6.2
+class,Standard
+systemCode,NES
+submissionId,7195
+gameId,2359
+gameVersionId,4
+obsoletedById,
+frames,63782
+rerecordCount,41723
+systemFrameRate,60.0988138974405
+movieFileName,adelikat-loderunnernes.bk2
+additionalAuthors,
+createTimestamp,2021-12-14T05:45:07
+authors,['adelikat']
+tags,['resources']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=uZj-xM7TH9c', 'https://archive.org/download/loderunnernes-tas-adelikat/loderunnernes-tas-adelikat.mkv', 'https://archive.org/download/loderunnernes-tas-adelikat/loderunnernes-tas-adelikat_512kb.mp4']"
+filePaths,['4559M.png']
+SHA1,EA09AEC11EFC4B42EBC644EA243C2284001FE34F

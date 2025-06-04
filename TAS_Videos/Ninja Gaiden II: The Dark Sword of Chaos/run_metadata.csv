@@ -1,0 +1,25 @@
+,699
+id,5441
+title,"NES Ninja Gaiden II: The Dark Sword of Chaos ""pacifist"" by eien86 in 10:08.73"
+branch,pacifist
+goal,pacifist
+gameGoalId,4500
+emulatorVersion,EmuHawk 2.9.0 (Core: QuickNES)
+class,Alternative
+systemCode,NES
+submissionId,8408
+gameId,59
+gameVersionId,167
+obsoletedById,
+frames,36584
+rerecordCount,1509
+systemFrameRate,60.0988138974405
+movieFileName,eien86-ninjagaidenii-nes-pacifist.bk2
+additionalAuthors,
+createTimestamp,2023-07-24T17:03:33.049039
+authors,['eien86']
+tags,"['nokills', 'damage']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=YJhweR6t2no', 'https://archive.org/download/ninjagaidenii-nes-tas-pacifist-eien86/ninjagaidenii-nes-tas-pacifist-eien86.mp4']"
+filePaths,['5441M.png']
+SHA1,B1796660E4A4CEFC72181D4BF4F97999BC048A77

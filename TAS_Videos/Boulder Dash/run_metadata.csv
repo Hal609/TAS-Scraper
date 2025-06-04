@@ -1,0 +1,25 @@
+,314
+id,3388
+title,NES Boulder Dash by CtrlAltDestroy in 18:31.82
+branch,baseline
+goal,baseline
+gameGoalId,313
+emulatorVersion,FCEUX 2.2.3
+class,Alternative
+systemCode,NES
+submissionId,5466
+gameId,205
+gameVersionId,558
+obsoletedById,
+frames,66819
+rerecordCount,11382
+systemFrameRate,60.0988138974405
+movieFileName,ctrlaltdestroyv4-boulderdash.fm2
+additionalAuthors,
+createTimestamp,2017-04-29T18:28:06
+authors,['CtrlAltDestroy']
+tags,"['noeasy', 'password']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=klF1_ejQl5k', 'https://archive.org/download/boulderdash-tasv4-ctrlaltdestroy/boulderdash-tasv4-ctrlaltdestroy.mkv', 'https://archive.org/download/boulderdash-tasv4-ctrlaltdestroy/boulderdash-tasv4-ctrlaltdestroy_512kb.mp4']"
+filePaths,['3388M.png']
+SHA1,45220f3a088e154a9531e8e2b17583ad5e9b35d6

@@ -1,0 +1,25 @@
+,149
+id,2189
+title,"NES Gumshoe ""maximum score"" by Highness in 14:43.98"
+branch,maximum score
+goal,maximum score
+gameGoalId,4991
+emulatorVersion,FCEUX 2.0.2
+class,Standard
+systemCode,NES
+submissionId,2065
+gameId,1212
+gameVersionId,216
+obsoletedById,
+frames,53126
+rerecordCount,387
+systemFrameRate,60.0988138974405
+movieFileName,highness-gumshoe.fm2
+additionalAuthors,
+createTimestamp,2012-12-06T05:49:03
+authors,['Highness']
+tags,"['maxscore', 'kills']"
+flags,['SensitivityWarning']
+urls,"['https://archive.org/download/NesGumshoeusaIn1443.98ByHighness/gumshoe-tas-highness.mkv', 'https://archive.org/download/NesGumshoeusaIn1443.98ByHighness/gumshoe-tas-highness_10bit444.mkv', 'https://www.youtube.com/watch?v=tmKNOpiIBTo']"
+filePaths,['2189M.png']
+SHA1,D2C9308FDCE6AC6A6ED4819FF51FF3985CED5C68

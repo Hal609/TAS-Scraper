@@ -1,0 +1,25 @@
+,354
+id,3744
+title,"NES Little Samson ""warps"" by klmz in 08:12.79"
+branch,warps
+goal,warps
+gameGoalId,3033
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,6003
+gameId,303
+gameVersionId,974
+obsoletedById,
+frames,29616
+rerecordCount,14200
+systemFrameRate,60.0988138974405
+movieFileName,klmzv2-littlesamson-warps.fm2
+additionalAuthors,
+createTimestamp,2018-07-20T21:22:38
+authors,['klmz']
+tags,"['damage', 'warps', 'bugs', 'random', 'noeasy']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=1c6N2GGF_Xk', 'https://archive.org/download/littlesamson-tasv2-warps-klmz/littlesamson-tasv2-warps-klmz.mkv', 'https://archive.org/download/littlesamson-tasv2-warps-klmz/littlesamson-tasv2-warps-klmz_512kb.mp4']"
+filePaths,['3744M.png']
+SHA1,DF7CC70BF08E144FE4A1A29F529309A6CEA75A2E

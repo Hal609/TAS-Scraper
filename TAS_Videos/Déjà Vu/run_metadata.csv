@@ -1,0 +1,25 @@
+,115
+id,1952
+title,NES Déjà Vu by Randil in 09:41.59
+branch,baseline
+goal,baseline
+gameGoalId,176
+emulatorVersion,FCEUX 2.1.4a
+class,Standard
+systemCode,NES
+submissionId,3419
+gameId,125
+gameVersionId,414
+obsoletedById,
+frames,34953
+rerecordCount,23191
+systemFrameRate,60.0988138974405
+movieFileName,randil6-dejavu.fm2
+additionalAuthors,
+createTimestamp,2012-01-19T16:56:07
+authors,['Randil']
+tags,[]
+flags,[]
+urls,"['https://www.archive.org/download/NesDjVuByRandilIn0941.59/dejavu-tasv6-randil.mkv', 'https://www.youtube.com/watch?v=JgEmW3AU0ZU']"
+filePaths,['1952M.png']
+SHA1,A7497B99D0DAFA0816B652D0FDFBA7A50421677D

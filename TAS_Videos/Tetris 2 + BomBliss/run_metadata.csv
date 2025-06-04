@@ -1,0 +1,25 @@
+,796
+id,6088
+title,"NES Tetris 2 + BomBliss ""Contest Mode"" by PoochyEXE in 08:13.59"
+branch,Contest Mode
+goal,Contest Mode
+gameGoalId,5485
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,9186
+gameId,1729
+gameVersionId,4971
+obsoletedById,
+frames,29664
+rerecordCount,10568
+systemFrameRate,60.0988138974405
+movieFileName,poochyexe-tetris2bombliss-contestmode.bk2
+additionalAuthors,
+createTimestamp,2024-08-16T15:14:44.527905
+authors,['PoochyEXE']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=D1FNCP_CplA', 'https://archive.org/download/tetris2bombliss-tas-contestmode-poochyexe/tetris2bombliss-tas-contestmode-poochyexe.mp4']"
+filePaths,['6088M.png']
+SHA1,596a7074a9a53bdeca61276dfe7ead890b448baf

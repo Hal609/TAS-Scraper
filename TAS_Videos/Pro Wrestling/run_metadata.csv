@@ -1,0 +1,25 @@
+,511
+id,4619
+title,NES Pro Wrestling by ShesChardcore in 09:23.29
+branch,baseline
+goal,baseline
+gameGoalId,1632
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7357
+gameId,1045
+gameVersionId,201
+obsoletedById,
+frames,33853
+rerecordCount,7951
+systemFrameRate,60.0988138974405
+movieFileName,sheschardcore-prowrestling.bk2
+additionalAuthors,
+createTimestamp,2022-04-08T11:25:12.045953
+authors,['ShesChardcore']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=IeIC0-E8WA8', 'https://archive.org/download/prowrestling-tas-sheschardcore/prowrestling-tas-sheschardcore.mp4']"
+filePaths,['4619M.png']
+SHA1,471DA639A9533C8CB593E73A589B976341B9DDA1

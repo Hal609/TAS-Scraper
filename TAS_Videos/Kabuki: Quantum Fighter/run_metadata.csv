@@ -1,0 +1,25 @@
+,235
+id,2921
+title,NES Kabuki: Quantum Fighter by nitsuja & Alyosha in 09:14.19
+branch,baseline
+goal,baseline
+gameGoalId,159
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4791
+gameId,87
+gameVersionId,2196
+obsoletedById,
+frames,33306
+rerecordCount,38654
+systemFrameRate,60.0988138974405
+movieFileName,"nitsuja,alyosha-kabukiquantumfighter.fm2"
+additionalAuthors,
+createTimestamp,2015-08-15T16:29:10
+authors,"['nitsuja', 'Alyosha']"
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=poGs4sCMaLs', 'https://archive.org/download/Kabukiquantumfighter-tas-nitsujaalyosha/kabukiquantumfighter-tas-nitsuja,alyosha.mkv', 'https://archive.org/download/Kabukiquantumfighter-tas-nitsujaalyosha/kabukiquantumfighter-tas-nitsuja,alyosha_512kb.mp4']"
+filePaths,['2921.png']
+SHA1,7B07791F9AEA7170A43F54390B45F2904F78FF0F

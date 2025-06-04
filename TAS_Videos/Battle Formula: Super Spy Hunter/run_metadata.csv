@@ -1,0 +1,25 @@
+,40
+id,1155
+title,NES Battle Formula: Super Spy Hunter by adelikat & Randil in 23:38.42
+branch,baseline
+goal,baseline
+gameGoalId,1
+emulatorVersion,FCEU 0.98.28
+class,Standard
+systemCode,NES
+submissionId,2014
+gameId,96
+gameVersionId,2460
+obsoletedById,
+frames,85105
+rerecordCount,25162
+systemFrameRate,60.0
+movieFileName,"adelikat,randil-superspyhunter.fcm"
+additionalAuthors,
+createTimestamp,2008-08-08T01:13:54
+authors,"['adelikat', 'Randil']"
+tags,['damage']
+flags,[]
+urls,"['https://www.archive.org/download/TasvideosMiscPublications2/superspyhunter-tas-adelikatrandil.avi', 'https://www.youtube.com/watch?v=VdUpXQLgUvk']"
+filePaths,['superspyhunter_1155.png']
+SHA1,DE5964C4F66200B3912889F2E6F27E97436385DF

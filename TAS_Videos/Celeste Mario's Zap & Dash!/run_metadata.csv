@@ -1,0 +1,25 @@
+,716
+id,5575
+title,"NES Celeste Mario's Zap & Dash! by chbld, fella8 & Riyan in 06:36.03"
+branch,baseline
+goal,baseline
+gameGoalId,4591
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,8526
+gameId,3944
+gameVersionId,4379
+obsoletedById,
+frames,23801
+rerecordCount,45239
+systemFrameRate,60.0988138974405
+movieFileName,"chbld,fella8,riyan-celestemarioszapanddash.bk2"
+additionalAuthors,
+createTimestamp,2023-09-19T17:10:19.984778
+authors,"['chbld', 'fella8', 'Riyan']"
+tags,['warps']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=mT1kRnicCgc', 'https://archive.org/download/celestemarioszapanddash-tas-chbld_fella8_riyan/celestemarioszapanddash-tas-chbld_fella8_riyan.mp4']"
+filePaths,['5575M.png']
+SHA1,841c96888bf36a431a5dce3913df564f5b5cb16a

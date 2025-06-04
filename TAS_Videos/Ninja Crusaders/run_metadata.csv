@@ -1,0 +1,25 @@
+,33
+id,1071
+title,"NES Ninja Crusaders ""2 players"" by AnS & Randil in 04:08.45"
+branch,2 players
+goal,2 players
+gameGoalId,4862
+emulatorVersion,FCEU 0.98.12
+class,Standard
+systemCode,NES
+submissionId,1868
+gameId,409
+gameVersionId,1565
+obsoletedById,
+frames,14907
+rerecordCount,20469
+systemFrameRate,60.0
+movieFileName,"ninjacrusaders-randil,ans.fcm"
+additionalAuthors,
+createTimestamp,2008-02-28T02:54:25
+authors,"['AnS', 'Randil']"
+tags,['2p']
+flags,[]
+urls,"['https://archive.org/download/TASVideos_Nes/ninjacrusaders-tas-randil_ans.mp4', 'https://archive.org/download/TASVideos_Nes/ninjacrusaders-tas-randil_ans_10bit444.mp4', 'https://www.youtube.com/watch?v=lUaYK6iqGsk']"
+filePaths,['ninjacrusaders_1071.png']
+SHA1,219E51E8DA40024D2F43D4ADEF941BE05E3EB6ED

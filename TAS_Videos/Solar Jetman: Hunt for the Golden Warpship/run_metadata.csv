@@ -1,0 +1,25 @@
+,564
+id,4879
+title,NES Solar Jetman: Hunt for the Golden Warpship by ktwo & eien86 in 12:45.16
+branch,baseline
+goal,baseline
+gameGoalId,402
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7728
+gameId,227
+gameVersionId,368
+obsoletedById,
+frames,45985
+rerecordCount,72875
+systemFrameRate,60.0988138974405
+movieFileName,"ktwo,eien86-solarjetman.bk2"
+additionalAuthors,
+createTimestamp,2022-10-28T02:35:43.171689
+authors,"['ktwo', 'eien86']"
+tags,"['damage', 'warps', 'random']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=bIle4tJ3_rk', 'https://archive.org/download/solarjetman-tas-ktwo_eien86/solarjetman-tas-ktwo_eien86.mp4']"
+filePaths,['4879M.png']
+SHA1,872B91A2F7A2F635061EF43F79E7F7E9F59F5C50

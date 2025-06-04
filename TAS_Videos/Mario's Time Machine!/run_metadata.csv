@@ -1,0 +1,25 @@
+,491
+id,4499
+title,NES Mario's Time Machine! by EZGames69 in 07:26.51
+branch,baseline
+goal,baseline
+gameGoalId,1527
+emulatorVersion,BizHawk 2.6.2
+class,Standard
+systemCode,NES
+submissionId,7175
+gameId,885
+gameVersionId,1907
+obsoletedById,
+frames,26835
+rerecordCount,16121
+systemFrameRate,60.0988138974405
+movieFileName,ezgames69-mariostimemachine-nes.bk2
+additionalAuthors,
+createTimestamp,2021-08-08T11:16:31
+authors,['EZGames69']
+tags,[]
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=4exCN7WgQV8', 'https://archive.org/download/mariostimemachine-nes-tas-ezgames69/mariostimemachine-nes-tas-ezgames69.mkv', 'https://archive.org/download/mariostimemachine-nes-tas-ezgames69/mariostimemachine-nes-tas-ezgames69_512kb.mp4']"
+filePaths,['4499M.png']
+SHA1,E718D8F9D4B540909FDB90C241AEAD885846DBE6

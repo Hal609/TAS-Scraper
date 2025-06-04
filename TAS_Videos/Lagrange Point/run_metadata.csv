@@ -1,0 +1,25 @@
+,81
+id,1605
+title,NES Lagrange Point by neo_omegon in 1:03:25.10
+branch,baseline
+goal,baseline
+gameGoalId,1128
+emulatorVersion,FCEUX 2.1.3
+class,Standard
+systemCode,NES
+submissionId,2719
+gameId,675
+gameVersionId,399
+obsoletedById,
+frames,228682
+rerecordCount,70633
+systemFrameRate,60.0988138974405
+movieFileName,neo_omegon-lagrangepoint.fm2
+additionalAuthors,
+createTimestamp,2010-08-20T06:06:44
+authors,['neo_omegon']
+tags,"['death', 'damage', 'bugs', 'random']"
+flags,['Commentary']
+urls,"['https://archive.org/download/lagrangepoint-tas-neoomegon/lagrangepoint-tas-neoomegon.mkv', 'https://archive.org/download/lagrangepoint-tas-neoomegon/lagrangepoint-tas-neoomegon_512kb.mp4', 'https://www.youtube.com/watch?v=il9yXwY7U0M']"
+filePaths,['1605M.png']
+SHA1,674803A082FF316BB6950AED683A69B982942039

@@ -1,0 +1,25 @@
+,388
+id,3992
+title,"NES EarthBound Beginnings (Japan) ""warp glitch"" by chatterbox in 22:59.91"
+branch,warp glitch
+goal,warp glitch
+gameGoalId,3014
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6433
+gameId,527
+gameVersionId,2871
+obsoletedById,
+frames,82931
+rerecordCount,0
+systemFrameRate,60.0988138974405
+movieFileName,chatterboxv2-earthboundbeginnings-warpglitch.fm2
+additionalAuthors,
+createTimestamp,2019-07-08T15:24:10
+authors,['chatterbox']
+tags,"['warpbug', 'bugs', 'random']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=5XZkuLEkWcU', 'https://archive.org/download/earthboundbeginnings-tasv2-warpglitch-chatterbox/earthboundbeginnings-tasv2-warpglitch-chatterbox.mkv', 'https://archive.org/download/earthboundbeginnings-tasv2-warpglitch-chatterbox/earthboundbeginnings-tasv2-warpglitch-chatterbox_512kb.mp4']"
+filePaths,['3992M.png']
+SHA1,B7E7A96D049326C4610805FE86D42DE1703D5B96

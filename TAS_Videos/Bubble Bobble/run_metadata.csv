@@ -1,0 +1,25 @@
+,70
+id,1449
+title,"NES Bubble Bobble ""2 players"" by Tompa, adelikat, Bablo, Baxter, CtrlAltDestroy & Cardboard in 24:37.70"
+branch,2 players
+goal,2 players
+gameGoalId,4792
+emulatorVersion,FCEUX 2.1.2
+class,Standard
+systemCode,NES
+submissionId,2551
+gameId,61
+gameVersionId,106
+obsoletedById,
+frames,88808
+rerecordCount,71851
+systemFrameRate,60.0988138974405
+movieFileName,tompaadelikatbablobaxtercadcardboard-tas-bubblebobble.fm2
+additionalAuthors,
+createTimestamp,2010-02-04T07:15:13
+authors,"['Tompa', 'adelikat', 'Bablo', 'Baxter', 'CtrlAltDestroy', 'Cardboard']"
+tags,"['bestending', '2p', 'death', 'warps']"
+flags,['Verified']
+urls,"['https://www.archive.org/download/TompaAdelikatBabloBaxterCtrlaltdestroyCardboardsNesBubbleBobble_831/bubblebobble-tas-tompaadelikatbablobaxtercadcardboard.mp4', 'https://www.youtube.com/watch?v=FCIPV0DrJ18']"
+filePaths,['bubblebobble_2551.png']
+SHA1,0E40052299ADA46F6C2D1172323366F872F90570

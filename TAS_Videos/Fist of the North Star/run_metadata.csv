@@ -1,0 +1,25 @@
+,501
+id,4563
+title,NES Fist of the North Star by Lucky_Bacon in 06:08.94
+branch,baseline
+goal,baseline
+gameGoalId,304
+emulatorVersion,BizHawk 2.6.2
+class,Standard
+systemCode,NES
+submissionId,7166
+gameId,262
+gameVersionId,2027
+obsoletedById,
+frames,22173
+rerecordCount,1635
+systemFrameRate,60.0988138974405
+movieFileName,luckybacon-fistofthenorthstar-nes.bk2
+additionalAuthors,
+createTimestamp,2021-12-22T18:48:01
+authors,['Lucky_Bacon']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=WezwmxlOzUE', 'https://archive.org/download/fistofthenorthstar-nes-tas-luckybacon/fistofthenorthstar-nes-tas-luckybacon.mkv', 'https://archive.org/download/fistofthenorthstar-nes-tas-luckybacon/fistofthenorthstar-nes-tas-luckybacon_512kb.mp4']"
+filePaths,['4563M.png']
+SHA1,10D6D3500ABA774A5ECB1F5B938768BB0540F8E5

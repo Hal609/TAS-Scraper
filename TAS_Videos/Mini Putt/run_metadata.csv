@@ -1,0 +1,25 @@
+,280
+id,3194
+title,NES Mini Putt by TaoTao in 06:54.17
+branch,baseline
+goal,baseline
+gameGoalId,2523
+emulatorVersion,FCEUX r3028 (2.2.2)
+class,Standard
+systemCode,NES
+submissionId,5184
+gameId,1795
+gameVersionId,3944
+obsoletedById,
+frames,24891
+rerecordCount,4803
+systemFrameRate,60.0988138974405
+movieFileName,taotao-miniputt.fm2
+additionalAuthors,
+createTimestamp,2016-08-09T06:31:12
+authors,['TaoTao']
+tags,"['maxscore', 'bugs', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=yTEvw2ZLWSE', 'https://archive.org/download/miniputt-tas-taotao/miniputt-tas-taotao.mkv', 'https://archive.org/download/miniputt-tas-taotao/miniputt-tas-taotao_512kb.mp4']"
+filePaths,['3194M.png']
+SHA1,75741AA78F9FB877047357D1A7019827CF7415A9

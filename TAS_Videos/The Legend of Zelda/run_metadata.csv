@@ -1,0 +1,25 @@
+,641
+id,5187
+title,"NES The Legend of Zelda ""2nd quest, all items"" by chatterbox in 37:55.30"
+branch,"2nd quest, all items"
+goal,"2nd quest, all items"
+gameGoalId,4274
+emulatorVersion,FCEUX 2.6.1
+class,Standard
+systemCode,NES
+submissionId,8081
+gameId,12
+gameVersionId,3822
+obsoletedById,
+frames,136743
+rerecordCount,149286
+systemFrameRate,60.0988138974405
+movieFileName,"chatterbox-thelegendofzelda-nes-2ndquest,allitems.fm2"
+additionalAuthors,
+createTimestamp,2023-03-27T08:09:42.212852
+authors,['chatterbox']
+tags,"['full', 'damage', 'restart', 'bugs', 'random', 'second_quest', 'password']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=99CV0ey-V18', 'https://archive.org/download/thelegendofzelda-nes-tas-2ndquest_allitems-chatterbox/thelegendofzelda-nes-tas-2ndquest_allitems-chatterbox.mp4']"
+filePaths,['5187M.png']
+SHA1,3701381A82FC7D52B2DD3E8892047B30A114AB43

@@ -1,0 +1,25 @@
+,489
+id,4485
+title,NES Alien 3 by J.Y in 13:55.91
+branch,baseline
+goal,baseline
+gameGoalId,707
+emulatorVersion,FCEUX 2.3.0
+class,Standard
+systemCode,NES
+submissionId,7158
+gameId,1015
+gameVersionId,1706
+obsoletedById,
+frames,50237
+rerecordCount,108084
+systemFrameRate,60.0988138974405
+movieFileName,jy-alien3.fm2
+additionalAuthors,
+createTimestamp,2021-07-16T14:56:06
+authors,['J.Y']
+tags,"['damage', 'noeasy']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=I6xayT6ZJz8', 'https://archive.org/download/alien3-tas-jy/alien3-tas-jy.mkv', 'https://archive.org/download/alien3-tas-jy/alien3-tas-jy_512kb.mp4']"
+filePaths,['4485M.png']
+SHA1,9F6C768850A49A4B50597D952523A927B2B6B48B

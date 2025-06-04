@@ -1,0 +1,25 @@
+,128
+id,2069
+title,NES Clash at Demonhead by Randil in 18:09.22
+branch,baseline
+goal,baseline
+gameGoalId,272
+emulatorVersion,FCEUX 2.1.4a
+class,Standard
+systemCode,NES
+submissionId,3631
+gameId,187
+gameVersionId,1115
+obsoletedById,
+frames,65461
+rerecordCount,20771
+systemFrameRate,60.0988138974405
+movieFileName,randil-clashatdemonhead.fm2
+additionalAuthors,
+createTimestamp,2012-07-01T03:32:43
+authors,['Randil']
+tags,['damage']
+flags,['Verified']
+urls,"['https://archive.org/download/NesClashAtDemonheadusaIn1809.22ByRandil/clashatdemonhead-tas-randil.mkv', 'https://www.youtube.com/watch?v=-ZjtOOozwME']"
+filePaths,['2069M.png']
+SHA1,CD484AB73278D8D58E8068CCDCEAC6EEFBA12F68

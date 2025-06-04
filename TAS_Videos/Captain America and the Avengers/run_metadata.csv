@@ -1,0 +1,25 @@
+,228
+id,2856
+title,NES Captain America and the Avengers by Xipo in 14:17.27
+branch,baseline
+goal,baseline
+gameGoalId,613
+emulatorVersion,FCEU 0.98.28
+class,Standard
+systemCode,NES
+submissionId,4693
+gameId,899
+gameVersionId,860
+obsoletedById,
+frames,51521
+rerecordCount,24737
+systemFrameRate,60.0988138974405
+movieFileName,xipov2-captainamerica.fm2
+additionalAuthors,
+createTimestamp,2015-05-23T08:26:22
+authors,['Xipo']
+tags,['damage']
+flags,['Atlas']
+urls,"['https://www.youtube.com/watch?v=PBLmm7JNa6c', 'https://archive.org/download/captainamerica-tasv2-xipo/captainamerica-tasv2-xipo.mkv', 'https://archive.org/download/captainamerica-tasv2-xipo/captainamerica-tasv2-xipo_512kb.mp4']"
+filePaths,['2856M.png']
+SHA1,CA1492C06858D7FF6B56846747F00297FAFEEEC2

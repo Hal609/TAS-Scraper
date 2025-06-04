@@ -1,0 +1,25 @@
+,273
+id,3149
+title,NES Joe & Mac by Jules in 06:30.54
+branch,baseline
+goal,baseline
+gameGoalId,629
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,5126
+gameId,1336
+gameVersionId,2154
+obsoletedById,
+frames,23471
+rerecordCount,1001
+systemFrameRate,60.0988138974405
+movieFileName,robyns-joeandmac.fm2
+additionalAuthors,
+createTimestamp,2016-06-07T08:00:23
+authors,['Jules']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=AgG-vG6Rh1w', 'https://archive.org/download/joeandmac-tas-robyns/joeandmac-tas-robyns.mkv', 'https://archive.org/download/joeandmac-tas-robyns/joeandmac-tas-robyns_512kb.mp4']"
+filePaths,['3149M.png']
+SHA1,36bafdf6f8d531fecb3553c1923eeafac4a05c28

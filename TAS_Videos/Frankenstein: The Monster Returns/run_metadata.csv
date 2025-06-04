@@ -1,0 +1,25 @@
+,231
+id,2877
+title,NES Frankenstein: The Monster Returns by scrimpeh in 09:39.48
+branch,baseline
+goal,baseline
+gameGoalId,2322
+emulatorVersion,BizHawk 1.8.4
+class,Standard
+systemCode,NES
+submissionId,4716
+gameId,1670
+gameVersionId,2574
+obsoletedById,
+frames,34826
+rerecordCount,70120
+systemFrameRate,60.0988138974405
+movieFileName,scrimpeh-frankensteintmr.bk2
+additionalAuthors,
+createTimestamp,2015-06-26T00:27:24
+authors,['scrimpeh']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=eSYw_Mv9kvw', 'https://archive.org/download/frankensteintmr-tas-scrimpeh/frankensteintmr-tas-scrimpeh.mkv', 'https://archive.org/download/frankensteintmr-tas-scrimpeh/frankensteintmr-tas-scrimpeh_512kb.mp4']"
+filePaths,['2877M.png']
+SHA1,49445B48A47A579BA35551C2298F0032CD59C57F

@@ -1,0 +1,25 @@
+,499
+id,4555
+title,"NES Super C ""2 players"" by zyr2288 & aiqiyou in 11:18.72"
+branch,2 players
+goal,2 players
+gameGoalId,3016
+emulatorVersion,FCEUX 2.3.0
+class,Standard
+systemCode,NES
+submissionId,7241
+gameId,19
+gameVersionId,2479
+obsoletedById,
+frames,40790
+rerecordCount,79678
+systemFrameRate,60.0988138974405
+movieFileName,"zyr2288,aiqiyou-superc-2players.fm2"
+additionalAuthors,
+createTimestamp,2021-12-01T18:55:57
+authors,"['zyr2288', 'aiqiyou']"
+tags,"['2p', 'death', 'bugs']"
+flags,['stars']
+urls,"['https://www.youtube.com/watch?v=pRQUEDROPeU', 'https://archive.org/download/superc-tas-2players-zyr2288_aiqiyou/superc-tas-2players-zyr2288_aiqiyou.mkv', 'https://archive.org/download/superc-tas-2players-zyr2288_aiqiyou/superc-tas-2players-zyr2288_aiqiyou_512kb.mp4']"
+filePaths,['4555M.png']
+SHA1,32F706C6222E7EC877C08A1ADC6B7C7BBB69F3DA

@@ -1,0 +1,25 @@
+,437
+id,4226
+title,NES Mike Tyson's Punch-Out!! by McHazard in 17:37.84
+branch,baseline
+goal,baseline
+gameGoalId,235
+emulatorVersion,BizHawk 2.3.1
+class,Standard
+systemCode,NES
+submissionId,6741
+gameId,56
+gameVersionId,79
+obsoletedById,
+frames,63575
+rerecordCount,0
+systemFrameRate,60.0988138974405
+movieFileName,mchazardv2-miketysonspunchout.bk2
+additionalAuthors,
+createTimestamp,2020-07-05T10:51:52
+authors,['McHazard']
+tags,"['gametimer', 'damage']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=qDZ3sM3YwHs', 'https://archive.org/download/miketysonspunchout-tasv2-mchazard/miketysonspunchout-tasv2-mchazard.mkv', 'https://archive.org/download/miketysonspunchout-tasv2-mchazard/miketysonspunchout-tasv2-mchazard_512kb.mp4']"
+filePaths,['4226M.png']
+SHA1,0F0C2C2E294FF8CE255A618964728C935FD8963B

@@ -1,0 +1,25 @@
+,708
+id,5513
+title,NES Dragon's Lair (USA) by ktwo in 06:33.95
+branch,baseline
+goal,baseline
+gameGoalId,14
+emulatorVersion,Bizhawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,8516
+gameId,95
+gameVersionId,2909
+obsoletedById,
+frames,23676
+rerecordCount,16984
+systemFrameRate,60.0988138974405
+movieFileName,ktwov2-dragonslair-usa.bk2
+additionalAuthors,
+createTimestamp,2023-08-23T11:07:16.878534
+authors,['ktwo']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=Ok-uJvKBP_E', 'https://archive.org/download/dragonslair-usa-tasv2-ktwo/dragonslair-usa-tasv2-ktwo.mp4']"
+filePaths,['5513M.png']
+SHA1,B264269FD22F9CE245BC8B84771A0022EBB75278

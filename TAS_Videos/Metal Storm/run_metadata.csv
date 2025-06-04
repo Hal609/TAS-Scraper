@@ -1,0 +1,25 @@
+,270
+id,3141
+title,NES Metal Storm by TheAxeMan & Alyosha in 11:20.10
+branch,baseline
+goal,baseline
+gameGoalId,281
+emulatorVersion,FCEUX 2.2.2
+class,Alternative
+systemCode,NES
+submissionId,5116
+gameId,192
+gameVersionId,2109
+obsoletedById,
+frames,40873
+rerecordCount,27639
+systemFrameRate,60.0988138974405
+movieFileName,"theaxeman,alyosha-metalstorm.fm2"
+additionalAuthors,
+createTimestamp,2016-05-21T17:23:47
+authors,"['TheAxeMan', 'Alyosha']"
+tags,"['damage', 'second_quest', 'password']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=P9Lfxu8Ogpk', 'https://archive.org/download/Metalstorm-tas-theaxemanalyosha/metalstorm-tas-theaxeman,alyosha.mkv', 'https://archive.org/download/Metalstorm-tas-theaxemanalyosha/metalstorm-tas-theaxeman,alyosha_512kb.mp4']"
+filePaths,['3141M.png']
+SHA1,F569F70DBBEE96A348E053A958120F64F05B7D04

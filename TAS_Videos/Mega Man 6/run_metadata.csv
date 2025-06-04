@@ -1,0 +1,25 @@
+,256
+id,3066
+title,NES Mega Man 6 by GlitchMan in 30:09.70
+branch,baseline
+goal,baseline
+gameGoalId,144
+emulatorVersion,FCEUX 2.2.0
+class,Standard
+systemCode,NES
+submissionId,4547
+gameId,72
+gameVersionId,2747
+obsoletedById,
+frames,108761
+rerecordCount,93105
+systemFrameRate,60.0988138974405
+movieFileName,glitchman-megaman6.fm2
+additionalAuthors,
+createTimestamp,2016-02-02T14:04:27
+authors,['GlitchMan']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=08nRvGA58vk', 'https://archive.org/download/megaman6-tas-glitchman/megaman6-tas-glitchman.mkv', 'https://archive.org/download/megaman6-tas-glitchman/megaman6-tas-glitchman_512kb.mp4']"
+filePaths,['3066M.png']
+SHA1,32774F6A0982534272679AC424C4191F1BE5F689

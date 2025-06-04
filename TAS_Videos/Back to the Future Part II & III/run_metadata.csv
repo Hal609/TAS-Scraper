@@ -1,0 +1,25 @@
+,142
+id,2169
+title,NES Back to the Future Part II & III by GlitchMan in 1:14:24.25
+branch,baseline
+goal,baseline
+gameGoalId,1175
+emulatorVersion,FCEUX 2.1.2
+class,Standard
+systemCode,NES
+submissionId,2790
+gameId,1143
+gameVersionId,206
+obsoletedById,
+frames,268296
+rerecordCount,22822
+systemFrameRate,60.0988138974405
+movieFileName,glitchman1-backtothefuture23.fm2
+additionalAuthors,
+createTimestamp,2012-11-25T07:10:52
+authors,['GlitchMan']
+tags,['death']
+flags,[]
+urls,"['https://archive.org/download/IlariEncodingTASVideosDegaMovies/backtothefuture23-tas-glitchman.mkv', 'https://archive.org/download/IlariEncodingTASVideosDegaMovies/backtothefuture23-tas-glitchman_10bit444.mkv', 'https://www.youtube.com/watch?v=wAQY1NkMixE']"
+filePaths,['2169M.png']
+SHA1,42AC1FCEA405552892BED982A90A99D1292E4CDB

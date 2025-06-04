@@ -1,0 +1,25 @@
+,282
+id,3208
+title,NES The Flintstones: The Rescue of Dino & Hoppy by Aglar in 13:32.55
+branch,baseline
+goal,baseline
+gameGoalId,4
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,5195
+gameId,70
+gameVersionId,2667
+obsoletedById,
+frames,48833
+rerecordCount,7855
+systemFrameRate,60.0988138974405
+movieFileName,aglar-flintstonestherescueofdinoandhoppy.fm2
+additionalAuthors,
+createTimestamp,2016-09-02T18:52:57
+authors,['Aglar']
+tags,['bugs']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=CeYTJWXbOko', 'https://archive.org/download/flintstonestherescueofdinoandhoppy-tas-aglar_512kb/flintstonestherescueofdinoandhoppy-tas-aglar.mkv', 'https://archive.org/download/flintstonestherescueofdinoandhoppy-tas-aglar_512kb/flintstonestherescueofdinoandhoppy-tas-aglar_512kb.mp4']"
+filePaths,['3208M.png']
+SHA1,549DE66388FF02E33A40BF7EF83E207F98A50888

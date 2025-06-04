@@ -1,0 +1,25 @@
+,143
+id,2171
+title,NES Where in Time is Carmen Sandiego? by Bobo the King in 2:01:54.05
+branch,baseline
+goal,baseline
+gameGoalId,1426
+emulatorVersion,FCEUX 2.1.5
+class,Standard
+systemCode,NES
+submissionId,3187
+gameId,826
+gameVersionId,207
+obsoletedById,
+frames,439566
+rerecordCount,39754
+systemFrameRate,60.0988138974405
+movieFileName,bobotheking-whereintimeiscarmensandiego.fm2
+additionalAuthors,
+createTimestamp,2012-11-27T16:13:52
+authors,['Bobo_the_King']
+tags,['random']
+flags,[]
+urls,"['https://archive.org/download/NesWhereInTimeIsCarmenSandiegousaIn20154.05ByBoboTheKing/whereintimeiscarmensandiego-tas-bobotheking.mkv', 'https://archive.org/download/NesWhereInTimeIsCarmenSandiegousaIn20154.05ByBoboTheKing/whereintimeiscarmensandiego-tas-bobotheking_10bit444.mkv', 'https://www.youtube.com/watch?v=4u-WcxMqwjY']"
+filePaths,['2171M.png']
+SHA1,C7F715A07515C42F1D6863711B54050B56374643

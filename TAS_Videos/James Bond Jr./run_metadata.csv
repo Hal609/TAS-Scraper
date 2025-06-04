@@ -1,0 +1,25 @@
+,154
+id,2212
+title,NES James Bond Jr. by feos in 18:29.84
+branch,baseline
+goal,baseline
+gameGoalId,1750
+emulatorVersion,FCEUX 2.1.6
+class,Alternative
+systemCode,NES
+submissionId,3773
+gameId,1395
+gameVersionId,2225
+obsoletedById,
+frames,66700
+rerecordCount,100632
+systemFrameRate,60.0988138974405
+movieFileName,feos-jamesbondjr.fm3
+additionalAuthors,
+createTimestamp,2012-12-13T14:27:04
+authors,['feos']
+tags,"['death', 'damage', 'second_quest', 'password', 'resources']"
+flags,['Commentary']
+urls,"['https://archive.org/download/jamesbondjr-tas-feos/jamesbondjr-tas-feos.mkv', 'https://www.youtube.com/watch?v=3gkiynf8IkU', 'https://archive.org/download/jamesbondjr-tas-feos/jamesbondjr-tas-feos_512kb.mp4']"
+filePaths,['2212M.png']
+SHA1,b790295ed054982b6d576c94c0564f0ed9100d4f

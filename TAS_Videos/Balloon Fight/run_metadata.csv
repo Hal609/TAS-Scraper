@@ -1,0 +1,25 @@
+,556
+id,4850
+title,"NES Balloon Fight ""2 players"" by aiqiyou & J.Y in 02:26.33"
+branch,2 players
+goal,2 players
+gameGoalId,3981
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7658
+gameId,1078
+gameVersionId,2512
+obsoletedById,
+frames,8794
+rerecordCount,32498
+systemFrameRate,60.0988138974405
+movieFileName,"aiqiyou,jy-balloonfight-2players.bk2"
+additionalAuthors,
+createTimestamp,2022-10-02T13:48:28.113827
+authors,"['aiqiyou', 'J.Y']"
+tags,['2p']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=zknayo81VAE', 'https://archive.org/download/balloonfight-tas-2players-aiqiyou_jy/balloonfight-tas-2players-aiqiyou_jy.mp4']"
+filePaths,['4850M.png']
+SHA1,F5E4CD9F287A8233EEE35AD1881B2770D9F2C453

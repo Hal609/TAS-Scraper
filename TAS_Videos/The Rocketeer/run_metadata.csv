@@ -1,0 +1,25 @@
+,113
+id,1942
+title,NES The Rocketeer by TheHepper in 13:55.66
+branch,baseline
+goal,baseline
+gameGoalId,1529
+emulatorVersion,FCEUX 2.1.5
+class,Standard
+systemCode,NES
+submissionId,3400
+gameId,886
+gameVersionId,1876
+obsoletedById,
+frames,50222
+rerecordCount,0
+systemFrameRate,60.0988138974405
+movieFileName,thehepper-rocketeer.fm2
+additionalAuthors,
+createTimestamp,2012-01-04T23:06:43
+authors,['TheHepper']
+tags,['damage']
+flags,[]
+urls,"['https://www.archive.org/download/NesTheRocketeerByThehepperIn1355.66/rocketeer-tas-thehepper.mp4', 'https://www.archive.org/download/NesTheRocketeerByThehepperIn1355.66/rocketeer-tas-thehepper_10bit444.mp4', 'https://www.youtube.com/watch?v=EbvnwhWrr2c']"
+filePaths,['1942M.png']
+SHA1,a20a0ba427a13b2268e82701a9aea09a31b12855

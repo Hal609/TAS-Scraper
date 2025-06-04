@@ -1,0 +1,25 @@
+,78
+id,1573
+title,NES Hook by GlitchMan in 23:19.64
+branch,baseline
+goal,baseline
+gameGoalId,1143
+emulatorVersion,FCEUX 2.1.2-interim
+class,Standard
+systemCode,NES
+submissionId,2738
+gameId,666
+gameVersionId,1680
+obsoletedById,
+frames,84117
+rerecordCount,24125
+systemFrameRate,60.0988138974405
+movieFileName,hook-glitchman.fm2
+additionalAuthors,
+createTimestamp,2010-07-22T23:48:02
+authors,['GlitchMan']
+tags,"['damage', 'bugs']"
+flags,[]
+urls,"['https://www.archive.org/download/GlitchmansHookIn2319.64/hook-tas-glitchman.mp4', 'https://www.youtube.com/watch?v=NhqQhzMQErY']"
+filePaths,['1573M.png']
+SHA1,37EFDB13A6088BF770C14BC3562EDE7A7975599F

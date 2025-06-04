@@ -1,0 +1,25 @@
+,821
+id,6351
+title,"NES Danny Sullivan's Indy Heat ""all tracks"" by eien86 in 06:18.51"
+branch,all tracks
+goal,all tracks
+gameGoalId,8370
+emulatorVersion,BizHawk 2.10
+class,Standard
+systemCode,NES
+submissionId,9465
+gameId,4629
+gameVersionId,5505
+obsoletedById,
+frames,22748
+rerecordCount,1641
+systemFrameRate,60.0988138974405
+movieFileName,eien86-dannysullivansindyheat-nes-alltracks.bk2
+additionalAuthors,
+createTimestamp,2025-01-17T07:15:55.611447
+authors,['eien86']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=64A9t3tgxmA', 'https://archive.org/download/dannysullivansindyheat-tas-alltracks-eien86/dannysullivansindyheat-tas-alltracks-eien86.mp4']"
+filePaths,['6351M.png']
+SHA1,45404aeac39e5855034c43554ca252de17131bbe

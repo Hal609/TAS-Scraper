@@ -1,0 +1,25 @@
+,221
+id,2811
+title,NES Spelunker II: Yūsha e no Chōsen by ventuz in 15:12.05
+branch,baseline
+goal,baseline
+gameGoalId,2249
+emulatorVersion,BizHawk 1.9.1
+class,Standard
+systemCode,NES
+submissionId,4599
+gameId,1651
+gameVersionId,2560
+obsoletedById,
+frames,54813
+rerecordCount,5103
+systemFrameRate,60.0988138974405
+movieFileName,ventuz-spelunker2.bk2
+additionalAuthors,
+createTimestamp,2015-03-20T15:54:42
+authors,['ventuz']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=LRkS7w5emPY', 'https://archive.org/download/spelunker2-tas-ventuz/spelunker2-tas-ventuz.mkv', 'https://archive.org/download/spelunker2-tas-ventuz/spelunker2-tas-ventuz_512kb.mp4']"
+filePaths,['2811M.png']
+SHA1,E8DF29FCBA07CEB539FDEDEECCD87193A02A0B41

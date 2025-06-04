@@ -1,0 +1,25 @@
+,53
+id,1244
+title,NES Bad Dudes by Kirkq in 13:25.36
+branch,baseline
+goal,baseline
+gameGoalId,869
+emulatorVersion,FCEUX 2.0.2
+class,Standard
+systemCode,NES
+submissionId,2161
+gameId,496
+gameVersionId,394
+obsoletedById,
+frames,48401
+rerecordCount,52083
+systemFrameRate,60.0988138974405
+movieFileName,baddudes-kirkq.fm2
+additionalAuthors,
+createTimestamp,2009-01-22T22:37:10
+authors,['Kirkq']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/baddudes-tas-kirkq/baddudes-tas-kirkq.mkv', 'https://archive.org/download/baddudes-tas-kirkq/baddudes-tas-kirkq_512kb.mp4', 'https://www.youtube.com/watch?v=y_uz0X7wgzI']"
+filePaths,['baddudes_2161.png']
+SHA1,F19EDEDC60D3925B75BAE71B72448757FD59C3DB

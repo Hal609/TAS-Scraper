@@ -1,0 +1,25 @@
+,237
+id,2936
+title,NES Super Turrican by Alyosha in 08:36.39
+branch,baseline
+goal,baseline
+gameGoalId,98
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4812
+gameId,24
+gameVersionId,1994
+obsoletedById,
+frames,25823
+rerecordCount,12337
+systemFrameRate,50.0069789081886
+movieFileName,alyosha-superturricannes.fm2
+additionalAuthors,
+createTimestamp,2015-08-31T14:30:22
+authors,['Alyosha']
+tags,"['damage', 'noeasy']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=HrNiGYdvyQ4', 'https://archive.org/download/superturricannes-tas-alyosha/superturricannes-tas-alyosha.mkv', 'https://archive.org/download/superturricannes-tas-alyosha/superturricannes-tas-alyosha_512kb.mp4']"
+filePaths,['2936M.png']
+SHA1,19002258DD263115930528DCD42EB0D63FC9A5D5

@@ -1,0 +1,25 @@
+,329
+id,3538
+title,NES Mighty Final Fight by Xipo in 08:06.15
+branch,baseline
+goal,baseline
+gameGoalId,322
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,5670
+gameId,400
+gameVersionId,4870
+obsoletedById,
+frames,29217
+rerecordCount,80798
+systemFrameRate,60.0988138974405
+movieFileName,xipov3-mightyfinalfight.fm2
+additionalAuthors,
+createTimestamp,2017-10-26T15:03:03
+authors,['Xipo']
+tags,['random']
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=zAHt1zsXImk', 'https://archive.org/download/mightyfinalfight-tasv3-xipo/mightyfinalfight-tasv3-xipo.mkv', 'https://archive.org/download/mightyfinalfight-tasv3-xipo/mightyfinalfight-tasv3-xipo_512kb.mp4']"
+filePaths,['3538M.png']
+SHA1,1BB410BC457694FE3109791B6BE8F75BF157B8C8

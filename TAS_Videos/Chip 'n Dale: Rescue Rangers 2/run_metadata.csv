@@ -1,0 +1,25 @@
+,837
+id,6418
+title,"NES Chip 'n Dale: Rescue Rangers 2 ""1 player"" by Tegron & feos in 12:40.48"
+branch,1 player
+goal,1 player
+gameGoalId,1619
+emulatorVersion,BizHawk 2.10
+class,Standard
+systemCode,NES
+submissionId,9514
+gameId,31
+gameVersionId,1379
+obsoletedById,
+frames,45704
+rerecordCount,25067
+systemFrameRate,60.0988138974405
+movieFileName,"tegron,feos-chipndalerescuerangers2-1player.bk2"
+additionalAuthors,
+createTimestamp,2025-03-07T13:01:21.783495
+authors,"['Tegron', 'feos']"
+tags,"['just1p', 'damage', 'bugs', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=soP6ZmdiXKE', 'https://archive.org/download/chipndalerescuerangers2-tas-1player-tegron_feos/chipndalerescuerangers2-tas-1player-tegron_feos.mp4']"
+filePaths,['6418M.png']
+SHA1,A60BA28ACA558FE3527D46B0DF33BDD038D4C635

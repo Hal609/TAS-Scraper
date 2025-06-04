@@ -1,0 +1,25 @@
+,46
+id,1181
+title,NES Spider-Man: Return of the Sinister Six by mmbossman in 05:27.41
+branch,baseline
+goal,baseline
+gameGoalId,509
+emulatorVersion,FCEUX 2.0.0
+class,Standard
+systemCode,NES
+submissionId,2063
+gameId,315
+gameVersionId,485
+obsoletedById,
+frames,19677
+rerecordCount,9192
+systemFrameRate,60.0988138974405
+movieFileName,mmbossman-spiderman-sinister.fm2
+additionalAuthors,
+createTimestamp,2008-08-24T16:53:27
+authors,['mmbossman']
+tags,['damage']
+flags,['Verified']
+urls,"['https://archive.org/download/spiderman-sinister-tas-mmbossman_201404/spiderman-sinister-tas-mmbossman.mkv', 'https://archive.org/download/spiderman-sinister-tas-mmbossman_201404/spiderman-sinister-tas-mmbossman_512kb.mp4', 'https://www.youtube.com/watch?v=axXVlA_DHS8']"
+filePaths,['spiderman_1181.png']
+SHA1,65B7EAF754D6D455F4B242761A46B8264730D6EE

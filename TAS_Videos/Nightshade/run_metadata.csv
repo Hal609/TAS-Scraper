@@ -1,0 +1,25 @@
+,184
+id,2478
+title,NES Nightshade by MESHUGGAH in 08:04.52
+branch,baseline
+goal,baseline
+gameGoalId,421
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4101
+gameId,273
+gameVersionId,342
+obsoletedById,
+frames,29119
+rerecordCount,30509
+systemFrameRate,60.0988138974405
+movieFileName,meshuggahv1-nightshade.fm2
+additionalAuthors,
+createTimestamp,2013-11-04T14:06:11
+authors,['MESHUGGAH']
+tags,['damage']
+flags,['Verified']
+urls,"['https://archive.org/download/IlariEncodingTASVideosMovies7/nightshade-tas-meshuggah.mkv', 'https://archive.org/download/IlariEncodingTASVideosMovies7/nightshade-tas-meshuggah_512kb.mp4', 'https://www.youtube.com/watch?v=jM6bvXA9dM0']"
+filePaths,['2478M.png']
+SHA1,75DB8D9678DCCB0F1341DF03D9C35A80D567558F

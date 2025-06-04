@@ -1,0 +1,25 @@
+,160
+id,2272
+title,NES Sword Master by ventuz in 05:14.70
+branch,baseline
+goal,baseline
+gameGoalId,252
+emulatorVersion,BizHawk 1.4.0
+class,Standard
+systemCode,NES
+submissionId,3822
+gameId,176
+gameVersionId,257
+obsoletedById,
+frames,18913
+rerecordCount,3887
+systemFrameRate,60.0988138974405
+movieFileName,ventuz2-swordmaster.bkm
+additionalAuthors,
+createTimestamp,2013-01-18T06:02:16
+authors,['ventuz']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/NesSwordMasterusaIn0514.7ByVentuz/swordmaster-tasv2-ventuz.mkv', 'https://archive.org/download/NesSwordMasterusaIn0514.7ByVentuz/swordmaster-tasv2-ventuz_10bit444.mkv', 'https://www.youtube.com/watch?v=mHuKaiZo334']"
+filePaths,['2272M.png']
+SHA1,8145E4C6520E84EE8BE1BE883CB07F9C4F25350C

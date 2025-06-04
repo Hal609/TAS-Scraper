@@ -1,0 +1,25 @@
+,156
+id,2249
+title,NES Road Fighter by mtvf1 in 04:34.02
+branch,baseline
+goal,baseline
+gameGoalId,180
+emulatorVersion,FCEUX 2.1.5
+class,Standard
+systemCode,NES
+submissionId,3774
+gameId,836
+gameVersionId,247
+obsoletedById,
+frames,16468
+rerecordCount,1909
+systemFrameRate,60.0988138974405
+movieFileName,mtvf11-roadfighter.fm2
+additionalAuthors,
+createTimestamp,2013-01-01T19:23:32
+authors,['mtvf1']
+tags,['noeasy']
+flags,['Verified']
+urls,"['https://archive.org/download/IlariEncodingTASVideosMovies2/roadfighter-tas-mtvf1.mkv', 'https://archive.org/download/IlariEncodingTASVideosMovies2/roadfighter-tas-mtvf1_10bit444.mkv', 'https://www.youtube.com/watch?v=EA5oYWIoxL4']"
+filePaths,['2249M.png']
+SHA1,85E5C576B5303C0819C5D91574D91D8E578296BE

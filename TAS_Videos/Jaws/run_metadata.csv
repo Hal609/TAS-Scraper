@@ -1,0 +1,25 @@
+,585
+id,4947
+title,"NES Jaws ""no deaths"" by SpaceColonizer in 03:20.59"
+branch,no deaths
+goal,no deaths
+gameGoalId,4088
+emulatorVersion,FCEUX 2.4.0
+class,Alternative
+systemCode,NES
+submissionId,7810
+gameId,181
+gameVersionId,1940
+obsoletedById,
+frames,12055
+rerecordCount,7140
+systemFrameRate,60.0988138974405
+movieFileName,spacecolonizer-jaws-nes-nodeaths.fm2
+additionalAuthors,
+createTimestamp,2022-11-27T07:00:54.919725
+authors,['SpaceColonizer']
+tags,"['nodeath', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=2gWFMrV2nww', 'https://archive.org/download/jaws-nes-tas-nodeaths-spacecolonizer/jaws-nes-tas-nodeaths-spacecolonizer.mp4']"
+filePaths,['4947M.png']
+SHA1,52D1645037756D76A656EA358E88209AEFBD1BD6

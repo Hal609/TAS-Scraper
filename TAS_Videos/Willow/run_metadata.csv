@@ -1,0 +1,25 @@
+,632
+id,5147
+title,NES Willow by TDrop in 52:52.66
+branch,baseline
+goal,baseline
+gameGoalId,914
+emulatorVersion,BizHawk 2.3.1
+class,Standard
+systemCode,NES
+submissionId,7956
+gameId,824
+gameVersionId,563
+obsoletedById,
+frames,190673
+rerecordCount,6661
+systemFrameRate,60.0988138974405
+movieFileName,tdrop-willow-nes.bk2
+additionalAuthors,
+createTimestamp,2023-03-09T17:01:21.172344
+authors,['TDrop']
+tags,"['death', 'damage', 'bugs']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=2Z54BRtND-8', 'https://archive.org/download/willow-nes-tas-tdrop/willow-nes-tas-tdrop.mp4']"
+filePaths,['5147M.png']
+SHA1,5022153b286e6bce7b330b97d3822450d8c82af5

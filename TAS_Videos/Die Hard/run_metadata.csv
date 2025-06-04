@@ -1,0 +1,25 @@
+,471
+id,4394
+title,NES Die Hard by ajfirecracker & Coiser in 01:41.23
+branch,baseline
+goal,baseline
+gameGoalId,2884
+emulatorVersion,BizHawk 2.5.2
+class,Standard
+systemCode,NES
+submissionId,7014
+gameId,1454
+gameVersionId,2247
+obsoletedById,
+frames,6084
+rerecordCount,3443
+systemFrameRate,60.0988138974405
+movieFileName,"ajfirecracker,coiser-diehard.bk2"
+additionalAuthors,
+createTimestamp,2021-02-09T18:21:07
+authors,"['ajfirecracker', 'Coiser']"
+tags,"['bestending', 'damage', 'noeasy']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=hy7a6Y6s4ko', 'https://archive.org/download/diehard-tas-ajfirecrackercoiser/diehard-tas-ajfirecracker%2Ccoiser.mkv', 'https://archive.org/download/diehard-tas-ajfirecrackercoiser/diehard-tas-ajfirecracker%2Ccoiser_512kb.mp4']"
+filePaths,['4394M.png']
+SHA1,47D52828EFAF573F4F4675F0571A603BA8FCF7E3

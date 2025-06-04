@@ -1,0 +1,25 @@
+,209
+id,2708
+title,NES Shinobi by MESHUGGAH in 07:36.41
+branch,baseline
+goal,baseline
+gameGoalId,289
+emulatorVersion,FCEUX 2.2.2
+class,Standard
+systemCode,NES
+submissionId,4464
+gameId,852
+gameVersionId,2273
+obsoletedById,
+frames,27430
+rerecordCount,27552
+systemFrameRate,60.0988138974405
+movieFileName,meshuggah-shinobi.fm2
+additionalAuthors,
+createTimestamp,2014-10-31T21:25:23
+authors,['MESHUGGAH']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/shinobi-tas-meshuggah/shinobi-tas-meshuggah.mkv', 'https://archive.org/download/shinobi-tas-meshuggah/shinobi-tas-meshuggah_512kb.mp4', 'https://www.youtube.com/watch?v=t-vRORwHDKI']"
+filePaths,['2708M.png']
+SHA1,cbcf67f077d335c2bfeff6deb5c9c3d4d177d95d

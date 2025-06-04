@@ -1,0 +1,25 @@
+,482
+id,4455
+title,NES Little Nemo: The Dream Master by J.Y in 21:20.37
+branch,baseline
+goal,baseline
+gameGoalId,99
+emulatorVersion,FCEUX 2.3.0
+class,Standard
+systemCode,NES
+submissionId,7112
+gameId,25
+gameVersionId,4849
+obsoletedById,
+frames,76949
+rerecordCount,113132
+systemFrameRate,60.0988138974405
+movieFileName,jy-littlenemo.fm2
+additionalAuthors,
+createTimestamp,2021-05-18T13:52:39
+authors,['J.Y']
+tags,"['death', 'damage']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=wl_5dOs5ROk', 'https://archive.org/download/littlenemo-tas-jy/littlenemo-tas-jy.mkv', 'https://archive.org/download/littlenemo-tas-jy/littlenemo-tas-jy_512kb.mp4']"
+filePaths,['4455M.png']
+SHA1,1FC0EE2265A49974F99DFFA92802C2331DE86D93

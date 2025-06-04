@@ -1,0 +1,25 @@
+,730
+id,5707
+title,NES RoboCop 2 by Dimon12321 in 10:28.30
+branch,baseline
+goal,baseline
+gameGoalId,774
+emulatorVersion,BizHawk 2.9
+class,Standard
+systemCode,NES
+submissionId,8763
+gameId,1195
+gameVersionId,1283
+obsoletedById,
+frames,37760
+rerecordCount,7009
+systemFrameRate,60.0988138974405
+movieFileName,dimon12321-robocop2-nes.bk2
+additionalAuthors,
+createTimestamp,2023-12-11T01:09:23.441308
+authors,['Dimon12321']
+tags,"['death', 'damage']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=mpfaKBIF7y4', 'https://archive.org/download/robocop2-nes-tas-dimon12321/robocop2-nes-tas-dimon12321.mp4']"
+filePaths,['5707M.png']
+SHA1,3BB345D9801C60F0D14656F52EE1B593244B6767

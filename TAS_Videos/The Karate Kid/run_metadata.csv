@@ -1,0 +1,25 @@
+,15
+id,891
+title,NES The Karate Kid by nitsuja in 03:09.12
+branch,baseline
+goal,baseline
+gameGoalId,231
+emulatorVersion,FCEU 0.98.12
+class,Standard
+systemCode,NES
+submissionId,1595
+gameId,157
+gameVersionId,1723
+obsoletedById,
+frames,11347
+rerecordCount,24694
+systemFrameRate,60.0
+movieFileName,nitsuja-karatekid.fcm
+additionalAuthors,
+createTimestamp,2007-06-11T02:03:09
+authors,['nitsuja']
+tags,['damage']
+flags,[]
+urls,"['https://www.archive.org/download/NesTheKarateKidusaIn0309.12ByNitsuja/karatekid-tas-nitsuja.mkv', 'https://www.archive.org/download/NesTheKarateKidusaIn0309.12ByNitsuja/karatekid-tas-nitsuja_512kb.mp4', 'https://www.youtube.com/watch?v=dkSO7mpT9WY']"
+filePaths,['karatekid_nitsuja.png']
+SHA1,4BF8A8670145E130A1E5DFB1E9B10C035BFC7A6F

@@ -1,0 +1,25 @@
+,114
+id,1949
+title,NES Rod Land by MESHUGGAH in 07:49.39
+branch,baseline
+goal,baseline
+gameGoalId,1541
+emulatorVersion,FCEUX 2.1.6
+class,Standard
+systemCode,NES
+submissionId,3420
+gameId,970
+gameVersionId,1888
+obsoletedById,
+frames,23473
+rerecordCount,24704
+systemFrameRate,50.0069789081886
+movieFileName,meshuggah-rodland.fm2
+additionalAuthors,
+createTimestamp,2012-01-15T22:03:39
+authors,['MESHUGGAH']
+tags,"['2p', 'death', 'random']"
+flags,[]
+urls,"['https://www.archive.org/download/RodLandTasIn749.39ByMeshuggah/rodland_tas_meshuggah.mp4', 'https://www.youtube.com/watch?v=YfE-3yBKA9g']"
+filePaths,['1949M.png']
+SHA1,34e755c33ef9be6ac5d2270f4d48c5a49f2365b4

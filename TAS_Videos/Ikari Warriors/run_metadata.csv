@@ -1,0 +1,25 @@
+,387
+id,3984
+title,"NES Ikari Warriors ""1 player"" by ktwo in 25:39.33"
+branch,1 player
+goal,1 player
+gameGoalId,5060
+emulatorVersion,BizHawk 1.13.1
+class,Standard
+systemCode,NES
+submissionId,6438
+gameId,1922
+gameVersionId,1338
+obsoletedById,
+frames,92512
+rerecordCount,46755
+systemFrameRate,60.0988138974405
+movieFileName,ktwov2-ikariwarriors.bk2
+additionalAuthors,
+createTimestamp,2019-06-30T09:38:45
+authors,['ktwo']
+tags,"['just1p', 'death']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=Q2m43S-krhM', 'https://archive.org/download/ikariwarriors-tasv2-ktwo/ikariwarriors-tasv2-ktwo.mkv', 'https://archive.org/download/ikariwarriors-tasv2-ktwo/ikariwarriors-tasv2-ktwo_512kb.mp4']"
+filePaths,['3984M.png']
+SHA1,6EADBBE4C2A1F7EDE2978F149B63270C72DB281F

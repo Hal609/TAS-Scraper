@@ -1,0 +1,25 @@
+,422
+id,4151
+title,NES The Magic of Scheherazade by rBarbaloot in 47:58.71
+branch,baseline
+goal,baseline
+gameGoalId,781
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6662
+gameId,1348
+gameVersionId,1791
+obsoletedById,
+frames,173007
+rerecordCount,138242
+systemFrameRate,60.0988138974405
+movieFileName,rbarbalootv2-themagicofscheherazade.fm3
+additionalAuthors,
+createTimestamp,2020-03-31T10:00:13
+authors,['rBarbaloot']
+tags,"['death', 'damage', 'random']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=zP8c_WKMP8M', 'https://archive.org/download/themagicofscheherazade-tasv2-rbarbaloot/themagicofscheherazade-tasv2-rbarbaloot.mkv', 'https://archive.org/download/themagicofscheherazade-tasv2-rbarbaloot/themagicofscheherazade-tasv2-rbarbaloot_512kb.mp4']"
+filePaths,['4151M.png']
+SHA1,b7360934fe87cdbc53b7d1a1be253e7639010c65

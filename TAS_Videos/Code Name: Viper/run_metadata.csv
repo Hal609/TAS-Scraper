@@ -1,0 +1,25 @@
+,801
+id,6155
+title,NES Code Name: Viper by Pankaj in 10:45.45
+branch,baseline
+goal,baseline
+gameGoalId,397
+emulatorVersion,BizHawk 2.9.1
+class,Standard
+systemCode,NES
+submissionId,9246
+gameId,969
+gameVersionId,1802
+obsoletedById,
+frames,38791
+rerecordCount,85635
+systemFrameRate,60.0988138974405
+movieFileName,pankajv4-codenameviper.bk2
+additionalAuthors,
+createTimestamp,2024-09-05T07:34:15.782028
+authors,['Pankaj']
+tags,"['damage', 'noeasy', 'ingamecode']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=r1C0f37_VXg', 'https://archive.org/download/codenameviper-tasv4-pankaj/codenameviper-tasv4-pankaj.mp4']"
+filePaths,['6155M.png']
+SHA1,3f7428865ea2e95632e32e8c3638207fed12bb52

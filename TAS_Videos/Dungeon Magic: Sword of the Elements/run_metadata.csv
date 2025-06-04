@@ -1,0 +1,25 @@
+,48
+id,1199
+title,NES Dungeon Magic: Sword of the Elements by FatRatKnight in 01:02.83
+branch,baseline
+goal,baseline
+gameGoalId,845
+emulatorVersion,FCEUX 2.0.2
+class,Standard
+systemCode,NES
+submissionId,2112
+gameId,475
+gameVersionId,69
+obsoletedById,
+frames,3776
+rerecordCount,107
+systemFrameRate,60.0988138974405
+movieFileName,fatratknight-dungeonmagic-se.fm2
+additionalAuthors,
+createTimestamp,2008-10-13T17:31:38
+authors,['FatRatKnight']
+tags,['bugs']
+flags,[]
+urls,"['https://www.archive.org/download/NESDungeonMagicSwordOfTheElementsUSAIn0102.83ByFatRatKnight/dungeonmagic-tas-fatratknight.mkv', 'https://www.archive.org/download/NESDungeonMagicSwordOfTheElementsUSAIn0102.83ByFatRatKnight/dungeonmagic-tas-fatratknight_512kb.mp4', 'https://www.youtube.com/watch?v=VpFq9uG1hhQ']"
+filePaths,['dungeonmagic.png']
+SHA1,ab916a9fa0e389502e6f5849e9f6d45de2b98959

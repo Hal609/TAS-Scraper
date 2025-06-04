@@ -1,0 +1,25 @@
+,166
+id,2352
+title,NES Sweet Home by K in 40:05.09
+branch,baseline
+goal,baseline
+gameGoalId,1826
+emulatorVersion,FCEUX 2.1.5
+class,Standard
+systemCode,NES
+submissionId,3895
+gameId,1437
+gameVersionId,1391
+obsoletedById,
+frames,144543
+rerecordCount,7021
+systemFrameRate,60.0988138974405
+movieFileName,k1-sweethome.fm2
+additionalAuthors,
+createTimestamp,2013-04-01T12:41:33
+authors,['K']
+tags,"['bestending', 'random']"
+flags,['Verified']
+urls,"['https://archive.org/download/IlariEncodingTASVideosMovies4/sweethome-tas-k.mkv', 'https://archive.org/download/IlariEncodingTASVideosMovies4/sweethome-tas-k_10bit444.mkv', 'https://www.youtube.com/watch?v=BxMxqjP6YsM']"
+filePaths,['2352M.png']
+SHA1,54BFE479C12247E8B9996C6C5F331977035E1276

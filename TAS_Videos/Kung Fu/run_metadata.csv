@@ -1,0 +1,25 @@
+,64
+id,1358
+title,NES Kung Fu by Phil in 03:41.14
+branch,baseline
+goal,baseline
+gameGoalId,117
+emulatorVersion,FCEUX 2.1.1
+class,Standard
+systemCode,NES
+submissionId,2401
+gameId,45
+gameVersionId,87
+obsoletedById,
+frames,13290
+rerecordCount,10533
+systemFrameRate,60.0988138974405
+movieFileName,philc-kungfu.fm2
+additionalAuthors,
+createTimestamp,2009-10-03T14:44:04
+authors,['Phil']
+tags,"['gametimer', 'damage']"
+flags,[]
+urls,"['https://www.archive.org/download/KungFunes-341.14usVersionEmulatedSpeedrun-Phil.Ct/kungfu-tas-philc.mkv', 'https://www.youtube.com/watch?v=MyNoRptJah8']"
+filePaths,['kungfu2401.png']
+SHA1,c054a885fb9b00d3f6797a35ba5579f2896a254a

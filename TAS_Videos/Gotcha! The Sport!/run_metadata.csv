@@ -1,0 +1,25 @@
+,200
+id,2646
+title,NES Gotcha! The Sport! by adelikat in 03:25.33
+branch,baseline
+goal,baseline
+gameGoalId,2113
+emulatorVersion,BizHawk 1.7.2
+class,Standard
+systemCode,NES
+submissionId,4370
+gameId,1569
+gameVersionId,431
+obsoletedById,
+frames,12340
+rerecordCount,918
+systemFrameRate,60.0988138974405
+movieFileName,adelikatv1-gotcha.bk2
+additionalAuthors,
+createTimestamp,2014-07-25T17:16:10
+authors,['adelikat']
+tags,['noeasy']
+flags,[]
+urls,"['https://archive.org/download/AdelikatsNesGotchaTheSportIn0325.33/gotcha-tas-adelikat.mkv', 'https://archive.org/download/AdelikatsNesGotchaTheSportIn0325.33/gotcha-tas-adelikat_512kb.mp4', 'https://www.youtube.com/watch?v=tPsufBcEKVk']"
+filePaths,['2646M.png.jpg']
+SHA1,82DF2202F81BFA6DABEF3105991C2E13C283E1D2

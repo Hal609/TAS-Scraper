@@ -1,0 +1,25 @@
+,6
+id,686
+title,NES Totally Rad by Bag_of_Magic_Food in 12:07.57
+branch,baseline
+goal,baseline
+gameGoalId,555
+emulatorVersion,FCEU 0.98.12
+class,Standard
+systemCode,NES
+submissionId,1191
+gameId,313
+gameVersionId,2026
+obsoletedById,
+frames,43654
+rerecordCount,49393
+systemFrameRate,60.0
+movieFileName,bomf-totallyrad.fcm
+additionalAuthors,
+createTimestamp,2006-09-18T17:23:24
+authors,['Bag_of_Magic_Food']
+tags,['damage']
+flags,[]
+urls,"['https://archive.org/download/totallyrad-tas-bagofmagicfood/totallyrad-tas-bagofmagicfood.mp4', 'https://www.youtube.com/watch?v=U6Dr03moQmg']"
+filePaths,['totrad.png']
+SHA1,F1E87BD17EB7D56EC4B2DF42DEEF7747F4EF2D65

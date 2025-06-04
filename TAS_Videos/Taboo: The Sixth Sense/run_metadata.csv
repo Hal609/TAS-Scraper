@@ -1,0 +1,25 @@
+,606
+id,5045
+title,NES Taboo: The Sixth Sense by ShesChardcore in 02:24.20
+branch,baseline
+goal,baseline
+gameGoalId,4072
+emulatorVersion,BizHawk 2.8
+class,Standard
+systemCode,NES
+submissionId,7788
+gameId,3230
+gameVersionId,3698
+obsoletedById,
+frames,8666
+rerecordCount,774
+systemFrameRate,60.0988138974405
+movieFileName,sheschardcore-taboothesixthsense.bk2
+additionalAuthors,
+createTimestamp,2023-01-02T02:14:13.686025
+authors,['ShesChardcore']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=6p7KcAmbMJM', 'https://archive.org/download/taboothesixthsense-tas-sheschardcore/taboothesixthsense-tas-sheschardcore.mp4']"
+filePaths,['5045M.png']
+SHA1,884D1ADEEDC4848A732B54C84934EB9FE6C46E21

@@ -1,0 +1,25 @@
+,152
+id,2194
+title,NES Abadox: The Deadly Inner War by NecroVMX in 15:30.03
+branch,baseline
+goal,baseline
+gameGoalId,340
+emulatorVersion,FCEUX 2.2.0
+class,Standard
+systemCode,NES
+submissionId,1168
+gameId,882
+gameVersionId,220
+obsoletedById,
+frames,55894
+rerecordCount,515
+systemFrameRate,60.0988138974405
+movieFileName,necrovmx-abadox.fm2
+additionalAuthors,
+createTimestamp,2012-12-08T00:06:18
+authors,['NecroVMX']
+tags,[]
+flags,['Verified']
+urls,"['https://archive.org/download/NesAbadoxusaIn1531.57ByNecrovmx/abadox-tas-necrovmx.mkv', 'https://archive.org/download/NesAbadoxusaIn1531.57ByNecrovmx/abadox-tas-necrovmx_10bit444.mkv', 'https://www.youtube.com/watch?v=sjrQ0p0YJU8']"
+filePaths,['2194M.png']
+SHA1,e20d3f4fefa0ad7de198f957563f70b11410af52

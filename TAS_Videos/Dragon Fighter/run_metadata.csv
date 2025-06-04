@@ -1,0 +1,25 @@
+,4
+id,573
+title,NES Dragon Fighter by nitsuja in 12:15.28
+branch,baseline
+goal,baseline
+gameGoalId,525
+emulatorVersion,FCEU 0.98.15
+class,Standard
+systemCode,NES
+submissionId,1107
+gameId,300
+gameVersionId,1041
+obsoletedById,
+frames,44117
+rerecordCount,39549
+systemFrameRate,60.0
+movieFileName,nitsuja-dragonfighter.fcm
+additionalAuthors,
+createTimestamp,2006-08-06T17:45:14
+authors,['nitsuja']
+tags,"['damage', 'noeasy']"
+flags,[]
+urls,"['https://archive.org/download/dragonfighter-tas-nitsuja/dragonfighter-tas-nitsuja.mp4', 'https://www.youtube.com/watch?v=Q68tACKK3gE']"
+filePaths,['dragonfighter.png']
+SHA1,E0A0363A899AD7DE696756B83036F8439FE35C4B

@@ -1,0 +1,25 @@
+,26
+id,991
+title,NES Bucky O'Hare by AnS in 22:13.60
+branch,baseline
+goal,baseline
+gameGoalId,13
+emulatorVersion,FCEU 0.98.16
+class,Standard
+systemCode,NES
+submissionId,1738
+gameId,105
+gameVersionId,58
+obsoletedById,
+frames,80016
+rerecordCount,55696
+systemFrameRate,60.0
+movieFileName,ans-buckyohare.fcm
+additionalAuthors,
+createTimestamp,2007-11-12T00:32:43
+authors,['AnS']
+tags,"['speed_tradeoff', 'death', 'bugs', 'noeasy']"
+flags,[]
+urls,"['https://archive.org/download/buckyohare-tas-ans/buckyohare-tas-ans.mp4', 'https://www.youtube.com/watch?v=6K7dGgcrXto']"
+filePaths,['991m_v1.png']
+SHA1,1ac57d0e2924edb3b3c1ad96b29f32a2d48663e7

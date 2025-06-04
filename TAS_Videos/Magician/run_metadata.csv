@@ -1,0 +1,25 @@
+,69
+id,1446
+title,"NES Magician ""best ending"" by FatRatKnight in 11:33.84"
+branch,best ending
+goal,best ending
+gameGoalId,4893
+emulatorVersion,FCEUX 2.1.2
+class,Standard
+systemCode,NES
+submissionId,2550
+gameId,516
+gameVersionId,398
+obsoletedById,
+frames,41699
+rerecordCount,5290
+systemFrameRate,60.0988138974405
+movieFileName,fatratknightv2-magician.fm2
+additionalAuthors,
+createTimestamp,2010-02-02T10:43:37
+authors,['FatRatKnight']
+tags,"['bestending', 'random']"
+flags,['Commentary']
+urls,"['https://www.archive.org/download/FatratknightsNesMagicianIn1133.84/magician-tasv2-fatratknight.mp4', 'https://www.youtube.com/watch?v=1-f1VQIjDCk']"
+filePaths,['magician_2550.png']
+SHA1,7B0DA149C3892B9AEC3E97400B79E1089CB8CC47

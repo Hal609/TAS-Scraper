@@ -1,0 +1,25 @@
+,455
+id,4291
+title,NES Kid Icarus by fruitbatsalad in 19:26.41
+branch,baseline
+goal,baseline
+gameGoalId,118
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6876
+gameId,46
+gameVersionId,2392
+obsoletedById,
+frames,70100
+rerecordCount,24882
+systemFrameRate,60.0988138974405
+movieFileName,fruitbatsalad-kidicarus.fm2
+additionalAuthors,
+createTimestamp,2020-09-22T17:44:06
+authors,['fruitbatsalad']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=nJZg14Mv6Bc', 'https://archive.org/download/kidicarus-tas-fruitbatsalad/kidicarus-tas-fruitbatsalad.mkv', 'https://archive.org/download/kidicarus-tas-fruitbatsalad/kidicarus-tas-fruitbatsalad_512kb.mp4']"
+filePaths,['4291M.png']
+SHA1,11713A9514934B60724960DB9FD1F367ABCC8D07

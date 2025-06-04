@@ -1,0 +1,25 @@
+,554
+id,4848
+title,NES Darkman by Denial140 in 09:01.09
+branch,baseline
+goal,baseline
+gameGoalId,2168
+emulatorVersion,FCEUX 2.5.0
+class,Standard
+systemCode,NES
+submissionId,7684
+gameId,1648
+gameVersionId,1149
+obsoletedById,
+frames,32519
+rerecordCount,30753
+systemFrameRate,60.0988138974405
+movieFileName,denial140[3]-darkman.fm2
+additionalAuthors,
+createTimestamp,2022-10-01T23:56:19.767512
+authors,['Denial140']
+tags,['damage']
+flags,[]
+urls,"['https://www.youtube.com/watch?v=wne5604l0WA', 'https://archive.org/download/darkman-tasv3-denial140/darkman-tasv3-denial140.mp4']"
+filePaths,['4848M.png']
+SHA1,21B4A65356B54815153303F14832BF5B1B8D3B83

@@ -1,0 +1,25 @@
+,477
+id,4438
+title,NES Kiwi Kraze: A Bird-Brained Adventure! by J.Y in 02:10.93
+branch,baseline
+goal,baseline
+gameGoalId,355
+emulatorVersion,FCEUX 2.3.0
+class,Standard
+systemCode,NES
+submissionId,7085
+gameId,304
+gameVersionId,1890
+obsoletedById,
+frames,7869
+rerecordCount,11954
+systemFrameRate,60.0988138974405
+movieFileName,jy-kiwikraze.fm2
+additionalAuthors,
+createTimestamp,2021-04-18T12:35:01
+authors,['J.Y']
+tags,"['warps', 'skipboss', 'bugs']"
+flags,['Verified']
+urls,"['https://www.youtube.com/watch?v=G9uuNUv5EgU', 'https://archive.org/download/kiwikraze-tas-jy/kiwikraze-tas-jy.mkv', 'https://archive.org/download/kiwikraze-tas-jy/kiwikraze-tas-jy_512kb.mp4']"
+filePaths,['4438M.png']
+SHA1,09D4793FEDA89B6878394BA9ED7BC89FA4FD0E53

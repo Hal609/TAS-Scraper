@@ -1,0 +1,25 @@
+,147
+id,2179
+title,NES Golgo 13: Top Secret Episode by dave_dfwm in 44:40.04
+branch,baseline
+goal,baseline
+gameGoalId,538
+emulatorVersion,FCEUX 2.2.0
+class,Standard
+systemCode,NES
+submissionId,1156
+gameId,1091
+gameVersionId,217
+obsoletedById,
+frames,161067
+rerecordCount,8498
+systemFrameRate,60.0988138974405
+movieFileName,davedfwm-golgo13.fm2
+additionalAuthors,
+createTimestamp,2012-12-01T06:08:01
+authors,['dave_dfwm']
+tags,"['death', 'damage']"
+flags,[]
+urls,"['https://archive.org/download/NesGolgo13TopSecretEpisodeusaIn4440.04ByDave_dfwm/golgo13-tas-davedfwm.mkv', 'https://archive.org/download/NesGolgo13TopSecretEpisodeusaIn4440.04ByDave_dfwm/golgo13-tas-davedfwm_10bit444.mkv', 'https://www.youtube.com/watch?v=gFLFGWQ8tZ4']"
+filePaths,['2179M.png']
+SHA1,8451A90BE5A05F82B5FA29C742EBD32B21E36F4F

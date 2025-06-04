@@ -1,0 +1,25 @@
+,195
+id,2607
+title,"NES Double Dragon II: The Revenge ""2 players"" by Xipo in 08:21.61"
+branch,2 players
+goal,2 players
+gameGoalId,2083
+emulatorVersion,FCEU 0.98.28
+class,Standard
+systemCode,NES
+submissionId,4321
+gameId,51
+gameVersionId,341
+obsoletedById,
+frames,30146
+rerecordCount,43630
+systemFrameRate,60.0988138974405
+movieFileName,xipov1-doubledragon2-2p.fm2
+additionalAuthors,
+createTimestamp,2014-06-01T16:51:30
+authors,['Xipo']
+tags,"['2p', 'death', 'damage']"
+flags,['Verified']
+urls,"['https://archive.org/download/doubledragon2-tas-2p-xipo/doubledragon2-tas-2p-xipo.mkv', 'https://archive.org/download/doubledragon2-tas-2p-xipo/doubledragon2-tas-2p-xipo_512kb.mp4', 'https://www.youtube.com/watch?v=ojdueu0O8pk']"
+filePaths,['2607M.png']
+SHA1,E4FBBE69B3B539B198AE0E037FDC2558074A283F

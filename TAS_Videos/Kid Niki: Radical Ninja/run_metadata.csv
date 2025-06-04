@@ -1,0 +1,25 @@
+,316
+id,3391
+title,NES Kid Niki: Radical Ninja by Ouijawii in 09:44.39
+branch,baseline
+goal,baseline
+gameGoalId,523
+emulatorVersion,BizHawk 1.11.9
+class,Standard
+systemCode,NES
+submissionId,5479
+gameId,1315
+gameVersionId,2220
+obsoletedById,
+frames,35121
+rerecordCount,13977
+systemFrameRate,60.0988138974405
+movieFileName,ouijawii-kidnikiradicalninja.bk2
+additionalAuthors,
+createTimestamp,2017-05-09T19:09:28
+authors,['Ouijawii']
+tags,[]
+flags,[]
+urls,"['https://www.youtube.com/watch?v=dKD0aRsAG6o', 'https://archive.org/download/kidnikiradicalninja-tas-ouijawii/kidnikiradicalninja-tas-ouijawii.mkv', 'https://archive.org/download/kidnikiradicalninja-tas-ouijawii/kidnikiradicalninja-tas-ouijawii_512kb.mp4']"
+filePaths,['3391M.png']
+SHA1,60B0AFF096F5145E15731DD68DEB961EC36F15E9

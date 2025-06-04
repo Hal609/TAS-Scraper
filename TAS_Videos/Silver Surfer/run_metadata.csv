@@ -1,0 +1,25 @@
+,131
+id,2120
+title,NES Silver Surfer by Skaad & HardCoreMangeur in 29:45.41
+branch,baseline
+goal,baseline
+gameGoalId,248
+emulatorVersion,FCEUX 2.1.4a
+class,Standard
+systemCode,NES
+submissionId,3049
+gameId,853
+gameVersionId,181
+obsoletedById,
+frames,107301
+rerecordCount,5293
+systemFrameRate,60.0988138974405
+movieFileName,"skaad,hcm-silversurfer-pacifist.fm2"
+additionalAuthors,
+createTimestamp,2012-11-04T10:32:42
+authors,"['Skaad', 'HardCoreMangeur']"
+tags,['nokills']
+flags,['Verified']
+urls,"['https://archive.org/download/SkaadHardcoremangeursNesSilverSurferpacifistVersionIn2945.41/silversurfer-tas-pacifist-skaadhcm.mkv', 'https://archive.org/download/SkaadHardcoremangeursNesSilverSurferpacifistVersionIn2945.41/silversurfer-tas-pacifist-skaadhcm_10bit444.mkv', 'https://www.youtube.com/watch?v=vs9tKUO08SA']"
+filePaths,['2120M.png']
+SHA1,71FA0CE2D49870C3D64130D572854EBB5F25C54C

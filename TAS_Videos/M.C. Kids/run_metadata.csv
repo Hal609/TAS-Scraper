@@ -1,0 +1,25 @@
+,466
+id,4370
+title,"NES M.C. Kids ""all levels"" by Jules in 24:26.29"
+branch,all levels
+goal,all levels
+gameGoalId,418
+emulatorVersion,FCEUX 2.2.3
+class,Standard
+systemCode,NES
+submissionId,6976
+gameId,131
+gameVersionId,556
+obsoletedById,
+frames,88122
+rerecordCount,40001
+systemFrameRate,60.0988138974405
+movieFileName,jules-mckids-alllevels.fm2
+additionalAuthors,
+createTimestamp,2020-12-31T13:33:36
+authors,['Jules']
+tags,"['full', 'death', 'damage']"
+flags,[]
+urls,"['https://www.youtube.com/watch?v=uGkC9MKU9nc', 'https://archive.org/download/mckids-tas-alllevels-jules/mckids-tas-alllevels-jules.mkv', 'https://archive.org/download/mckids-tas-alllevels-jules/mckids-tas-alllevels-jules_512kb.mp4']"
+filePaths,['4370M.png']
+SHA1,0fabf7ee8ed5bdc855daa5b16c49efc4b94497ba

@@ -1,0 +1,25 @@
+,347
+id,3713
+title,NES Conquest of the Crystal Palace by arkiandruski in 10:41.43
+branch,baseline
+goal,baseline
+gameGoalId,27
+emulatorVersion,BizHawk 2.2.2
+class,Standard
+systemCode,NES
+submissionId,5970
+gameId,369
+gameVersionId,2076
+obsoletedById,
+frames,38549
+rerecordCount,20379
+systemFrameRate,60.0988138974405
+movieFileName,arkiandruskiv2-conquestofcrystalpalace.bk2
+additionalAuthors,
+createTimestamp,2018-05-27T13:17:39
+authors,['arkiandruski']
+tags,['damage']
+flags,"['Verified', 'Commentary']"
+urls,"['https://www.youtube.com/watch?v=-3oLkvLqBtI', 'https://archive.org/download/conquestofcrystalpalace-tasv2-arkiandruski/conquestofcrystalpalace-tasv2-arkiandruski.mkv', 'https://archive.org/download/conquestofcrystalpalace-tasv2-arkiandruski/conquestofcrystalpalace-tasv2-arkiandruski_512kb.mp4']"
+filePaths,['3713M.png']
+SHA1,9369ADBB9BDC25861877285773D14C747E48C500

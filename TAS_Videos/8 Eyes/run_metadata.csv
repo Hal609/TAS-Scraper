@@ -1,0 +1,25 @@
+,41
+id,1158
+title,"NES 8 Eyes ""2 players"" by Slotermeyer in 16:40.28"
+branch,2 players
+goal,2 players
+gameGoalId,4877
+emulatorVersion,FCEU 0.98.16
+class,Standard
+systemCode,NES
+submissionId,1985
+gameId,458
+gameVersionId,909
+obsoletedById,
+frames,60017
+rerecordCount,5158
+systemFrameRate,60.0
+movieFileName,slotermeyer-8eyes.fcm
+additionalAuthors,
+createTimestamp,2008-08-09T17:43:33
+authors,['Slotermeyer']
+tags,"['2p', 'damage']"
+flags,"['Verified', 'Atlas']"
+urls,"['https://archive.org/download/8eyes-tas-2players-slotermeyer/8eyes-tas-2players-slotermeyer.mp4', 'https://www.youtube.com/watch?v=ViXlIfhrvFY']"
+filePaths,['8eyes_1158.png']
+SHA1,fddc581f9837c47628fcfba01f258f3318af9641
